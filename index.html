@@ -1,0 +1,648 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>StreamHub — YouTube + Nebula</title>
+<style>
+  :root{
+    --bg:#0d0e12; --bg-elev:#15171e; --bg-card:#191c24; --bg-card-hov:#20242f;
+    --border:#262a35; --text:#eef1f7; --text-dim:#9aa2b4; --text-faint:#646b7d;
+    --yt:#ff0033; --neb:#3b5bff; --neb-2:#7b5cff;
+    --accent:#5b8cff; --radius:14px; --shadow:0 8px 30px rgba(0,0,0,.4);
+    --sidebar-w:232px;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  html,body{height:100%}
+  body{
+    font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,Roboto,Helvetica,Arial,sans-serif;
+    background:var(--bg); color:var(--text); -webkit-font-smoothing:antialiased;
+    display:flex; min-height:100vh;
+  }
+  ::-webkit-scrollbar{width:10px;height:10px}
+  ::-webkit-scrollbar-thumb{background:#2b3040;border-radius:8px}
+  ::-webkit-scrollbar-thumb:hover{background:#3a4256}
+  a{color:inherit;text-decoration:none}
+
+  /* ---------- Sidebar ---------- */
+  .sidebar{
+    width:var(--sidebar-w); flex-shrink:0; background:var(--bg-elev);
+    border-right:1px solid var(--border); padding:18px 12px; position:sticky; top:0;
+    height:100vh; overflow-y:auto; display:flex; flex-direction:column; gap:6px;
+    transition:margin-left .22s ease, transform .25s ease;
+  }
+  /* Desktop collapse: slide the sidebar out; main flexes to fill the space. */
+  .sidebar.collapsed{margin-left:calc(-1 * var(--sidebar-w) - 1px);}
+  /* Collapse toggle lives in the sidebar header (outside the blurred topbar,
+     so clicks always land). Floating reopen button appears when collapsed. */
+  .collapse-btn{margin-left:auto;background:transparent;border:0;color:var(--text-faint);
+    cursor:pointer;width:30px;height:30px;border-radius:8px;display:grid;place-items:center;
+    flex-shrink:0;transition:.15s}
+  .collapse-btn:hover{background:var(--bg-card);color:var(--text)}
+  .collapse-btn svg{width:20px;height:20px}
+  .reopen-btn{position:fixed;top:12px;left:12px;z-index:300;width:40px;height:40px;border-radius:10px;
+    background:var(--bg-elev);border:1px solid var(--border);color:var(--text);cursor:pointer;
+    display:none;place-items:center;box-shadow:0 4px 16px rgba(0,0,0,.35)}
+  .reopen-btn:hover{background:var(--bg-card-hov)}
+  .reopen-btn svg{width:20px;height:20px}
+  .reopen-btn.show{display:grid}
+  .brand{display:flex;align-items:center;gap:10px;padding:6px 10px 16px;font-weight:800;font-size:20px;letter-spacing:-.5px}
+  .brand .logo{
+    width:30px;height:30px;border-radius:9px;flex-shrink:0;
+    background:linear-gradient(135deg,var(--yt),var(--neb-2));
+    display:grid;place-items:center;font-size:15px;
+  }
+  .brand span b{background:linear-gradient(90deg,#ff5a7a,#8aa4ff);-webkit-background-clip:text;background-clip:text;color:transparent}
+  .nav-label{font-size:11px;text-transform:uppercase;letter-spacing:.8px;color:var(--text-faint);padding:14px 12px 6px;font-weight:700}
+  .nav-item{
+    display:flex;align-items:center;gap:12px;padding:9px 12px;border-radius:10px;
+    color:var(--text-dim);font-size:14.5px;font-weight:500;cursor:pointer;transition:.15s;
+  }
+  .nav-item svg{width:19px;height:19px;flex-shrink:0}
+  .nav-item:hover{background:var(--bg-card);color:var(--text)}
+  .nav-item.active{background:rgba(91,140,255,.14);color:#cdd9ff}
+  .nav-item .dot{width:8px;height:8px;border-radius:50%;margin-left:auto}
+  .dot.yt{background:var(--yt)} .dot.neb{background:var(--neb-2)}
+  .sidebar-foot{margin-top:auto;padding:14px 12px 4px;font-size:11.5px;color:var(--text-faint);line-height:1.5}
+
+  /* ---------- Main ---------- */
+  .main{flex:1;min-width:0;display:flex;flex-direction:column}
+  .topbar{
+    position:sticky;top:0;z-index:20;background:rgba(13,14,18,.82);backdrop-filter:blur(14px);
+    border-bottom:1px solid var(--border);padding:12px 26px;display:flex;align-items:center;gap:18px;
+  }
+  .search{flex:1;max-width:620px;position:relative;display:flex}
+  .search input{
+    width:100%;background:var(--bg-card);border:1px solid var(--border);border-radius:999px;
+    padding:11px 16px 11px 44px;color:var(--text);font-size:14.5px;outline:none;transition:.15s;
+  }
+  .search input:focus{border-color:var(--accent);background:var(--bg-elev)}
+  .search svg{position:absolute;left:15px;top:50%;transform:translateY(-50%);width:18px;height:18px;color:var(--text-faint)}
+  .search-hint{position:absolute;right:14px;top:50%;transform:translateY(-50%);font-size:11px;color:var(--text-faint)}
+  .topbar-actions{display:flex;align-items:center;gap:10px;margin-left:auto}
+  .icon-btn{width:38px;height:38px;border-radius:50%;background:var(--bg-card);border:1px solid var(--border);
+    display:grid;place-items:center;cursor:pointer;color:var(--text-dim);transition:.15s}
+  .icon-btn:hover{background:var(--bg-card-hov);color:var(--text)}
+  .avatar{width:36px;height:36px;border-radius:50%;background:linear-gradient(135deg,#5b8cff,#b06bff);
+    display:grid;place-items:center;font-weight:700;font-size:14px;cursor:pointer}
+
+  .content{padding:22px 26px 60px;max-width:1500px;width:100%}
+
+  /* ---------- Source filter pills ---------- */
+  .filters{display:flex;gap:9px;flex-wrap:wrap;margin-bottom:22px}
+  .pill{
+    padding:8px 16px;border-radius:999px;background:var(--bg-card);border:1px solid var(--border);
+    font-size:13.5px;font-weight:600;color:var(--text-dim);cursor:pointer;transition:.15s;
+    display:flex;align-items:center;gap:8px;
+  }
+  .pill:hover{background:var(--bg-card-hov);color:var(--text)}
+  .pill.active{background:var(--text);color:#0d0e12;border-color:var(--text)}
+  .pill .src-dot{width:8px;height:8px;border-radius:50%}
+  .pill[data-src="youtube"] .src-dot{background:var(--yt)}
+  .pill[data-src="nebula"] .src-dot{background:var(--neb-2)}
+
+  .section-head{display:flex;align-items:baseline;gap:12px;margin:6px 0 16px}
+  .section-head h2{font-size:20px;font-weight:750;letter-spacing:-.4px}
+  .section-head .count{font-size:13px;color:var(--text-faint)}
+
+  /* ---------- Grid ---------- */
+  .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(288px,1fr));gap:20px 18px}
+  .card{
+    background:var(--bg-card);border:1px solid var(--border);border-radius:var(--radius);
+    overflow:hidden;cursor:pointer;transition:.18s;display:flex;flex-direction:column;
+  }
+  .card:hover{background:var(--bg-card-hov);transform:translateY(-3px);box-shadow:var(--shadow);border-color:#333a49}
+  .thumb{position:relative;aspect-ratio:16/9;background:#0a0b0e;overflow:hidden}
+  .thumb img{width:100%;height:100%;object-fit:cover;display:block;transition:.3s}
+  .card:hover .thumb img{transform:scale(1.04)}
+  .thumb .play{
+    position:absolute;inset:0;display:grid;place-items:center;opacity:0;transition:.2s;
+    background:rgba(0,0,0,.28);
+  }
+  .card:hover .thumb .play{opacity:1}
+  .thumb .play svg{width:52px;height:52px;color:#fff;filter:drop-shadow(0 2px 8px rgba(0,0,0,.5))}
+  .badge-src{
+    position:absolute;top:9px;left:9px;padding:4px 9px;border-radius:7px;font-size:11px;font-weight:800;
+    letter-spacing:.3px;color:#fff;display:flex;align-items:center;gap:5px;backdrop-filter:blur(4px);
+  }
+  .badge-src.youtube{background:rgba(255,0,51,.92)}
+  .badge-src.nebula{background:rgba(91,74,230,.92)}
+  .badge-dur{position:absolute;bottom:8px;right:8px;background:rgba(0,0,0,.82);color:#fff;
+    font-size:12px;font-weight:600;padding:2px 6px;border-radius:5px}
+  .badge-exclusive{position:absolute;bottom:8px;left:8px;background:linear-gradient(90deg,#7b5cff,#b06bff);
+    color:#fff;font-size:10.5px;font-weight:800;letter-spacing:.4px;padding:3px 8px;border-radius:5px;text-transform:uppercase}
+  .card-body{padding:13px 14px 15px;display:flex;gap:11px}
+  .ch-avatar{width:36px;height:36px;border-radius:50%;flex-shrink:0;display:grid;place-items:center;
+    font-weight:700;font-size:14px;color:#fff}
+  .card-meta{min-width:0;flex:1}
+  .card-title{font-size:14.5px;font-weight:650;line-height:1.35;margin-bottom:5px;
+    display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+  .card-sub{font-size:12.5px;color:var(--text-dim);line-height:1.5}
+  .card-sub .ch{color:var(--text-dim);font-weight:500}
+  .card-sub .ch:hover{color:var(--text)}
+
+  .empty{padding:70px 20px;text-align:center;color:var(--text-faint)}
+  .empty svg{width:52px;height:52px;margin-bottom:14px;opacity:.5}
+
+  /* ---------- Shorts + Live ---------- */
+  .grid.shorts{grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:18px 16px}
+  .grid.shorts .thumb{aspect-ratio:9/16}
+  .grid.shorts .card-body{padding:11px 12px 13px}
+  .grid.shorts .ch-avatar{width:30px;height:30px;font-size:12px}
+  .badge-shorts{position:absolute;top:9px;left:9px;padding:4px 9px;border-radius:7px;font-size:11px;
+    font-weight:800;color:#fff;background:rgba(255,0,51,.92);display:flex;align-items:center;gap:5px}
+  .badge-live{position:absolute;top:9px;left:9px;padding:4px 10px;border-radius:7px;font-size:11px;
+    font-weight:800;letter-spacing:.4px;color:#fff;background:#e00034;display:flex;align-items:center;gap:6px}
+  .badge-live::before{content:'';width:7px;height:7px;border-radius:50%;background:#fff;animation:pulse 1.4s infinite}
+  @keyframes pulse{0%,100%{opacity:1}50%{opacity:.25}}
+  .card.live{border-color:rgba(224,0,52,.5)}
+  .card.live:hover{border-color:#e00034}
+  .live-badge{margin-left:auto;background:#e00034;color:#fff;font-size:11px;font-weight:800;
+    min-width:20px;height:20px;padding:0 6px;border-radius:10px;display:none;align-items:center;
+    justify-content:center;gap:5px}
+  .live-badge.on{display:inline-flex}
+  .live-badge::before{content:'';width:6px;height:6px;border-radius:50%;background:#fff;animation:pulse 1.4s infinite}
+  .icon-btn.spin svg{animation:spin .8s linear infinite}
+  @keyframes spin{to{transform:rotate(360deg)}}
+
+  /* ---------- Player modal ---------- */
+  .modal{position:fixed;inset:0;z-index:100;background:rgba(6,7,10,.86);backdrop-filter:blur(8px);
+    display:none;align-items:center;justify-content:center;padding:28px}
+  .modal.open{display:flex}
+  .player{width:min(1040px,100%);background:var(--bg-elev);border:1px solid var(--border);
+    border-radius:16px;overflow:hidden;box-shadow:0 30px 80px rgba(0,0,0,.6)}
+  .player-video{aspect-ratio:16/9;background:#000;position:relative}
+  .player-video iframe{width:100%;height:100%;border:0}
+  .player-nebula{width:100%;height:100%;display:flex;flex-direction:column;align-items:center;justify-content:center;
+    gap:18px;text-align:center;padding:40px;background:radial-gradient(circle at 50% 30%,#1c1b3a,#0d0e12)}
+  .player-nebula .neb-logo{font-size:30px;font-weight:800;letter-spacing:-.5px}
+  .player-nebula .neb-logo b{background:linear-gradient(90deg,#7b8dff,#b06bff);-webkit-background-clip:text;background-clip:text;color:transparent}
+  .player-nebula p{color:var(--text-dim);max-width:440px;line-height:1.55;font-size:14.5px}
+  .btn-neb{background:linear-gradient(90deg,#5b4ae6,#8a5cff);color:#fff;padding:12px 26px;border-radius:999px;
+    font-weight:700;font-size:14.5px;border:0;cursor:pointer;transition:.15s;display:inline-flex;align-items:center;gap:9px}
+  .btn-neb:hover{filter:brightness(1.12);transform:translateY(-1px)}
+  .player-info{padding:16px 20px 20px;display:flex;gap:14px;align-items:flex-start}
+  .player-info .pi-title{font-size:17px;font-weight:700;margin-bottom:6px;line-height:1.3}
+  .player-info .pi-sub{font-size:13px;color:var(--text-dim)}
+  .player-close{position:absolute;top:14px;right:14px;z-index:5;width:40px;height:40px;border-radius:50%;
+    background:rgba(0,0,0,.55);border:1px solid rgba(255,255,255,.12);color:#fff;cursor:pointer;
+    display:grid;place-items:center;transition:.15s}
+  .player-close:hover{background:rgba(0,0,0,.8)}
+  .open-ext{margin-left:auto;font-size:13px;color:var(--accent);font-weight:600;white-space:nowrap;padding-top:4px}
+  .open-ext:hover{text-decoration:underline}
+
+  @media(max-width:820px){
+    .sidebar{position:fixed;left:0;transform:translateX(-100%);z-index:40;transition:.25s}
+    .sidebar.show{transform:none}
+    .search-hint{display:none}
+  }
+</style>
+</head>
+<body>
+
+<!-- ============ SIDEBAR ============ -->
+<aside class="sidebar" id="sidebar">
+  <div class="brand">
+    <div class="logo">▶</div>
+    <span>Stream<b>Hub</b></span>
+    <button class="collapse-btn" id="collapseBtn" title="Collapse sidebar" aria-label="Collapse sidebar">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="16" rx="2"/><path d="M9 4v16"/><path d="M15.5 9.5 13 12l2.5 2.5"/></svg>
+    </button>
+  </div>
+
+  <div class="nav-item active" data-view="home">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 9.5 12 3l9 6.5V20a1 1 0 0 1-1 1h-5v-6H10v6H4a1 1 0 0 1-1-1z"/></svg>
+    Home
+  </div>
+  <div class="nav-item" data-view="shorts">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="7" y="3" width="10" height="18" rx="3"/><path d="M10.5 9.5v5l4-2.5z" fill="currentColor" stroke="none"/></svg>
+    Shorts
+  </div>
+  <div class="nav-item" data-view="live">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="3.2"/><path d="M6.3 6.3a8 8 0 0 0 0 11.4M17.7 6.3a8 8 0 0 1 0 11.4M3.5 3.5a12 12 0 0 0 0 17M20.5 3.5a12 12 0 0 1 0 17"/></svg>
+    Live <span class="live-badge" id="liveBadge">0</span>
+  </div>
+  <div class="nav-item" data-view="subs">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="M10 9l5 3-5 3z"/></svg>
+    Subscriptions
+  </div>
+
+  <div class="nav-label">Sources</div>
+  <div class="nav-item" data-filter="youtube">
+    <svg viewBox="0 0 24 24" fill="currentColor"><path d="M21.6 7.2a2.7 2.7 0 0 0-1.9-1.9C18 4.8 12 4.8 12 4.8s-6 0-7.7.5A2.7 2.7 0 0 0 2.4 7.2 28 28 0 0 0 2 12a28 28 0 0 0 .4 4.8 2.7 2.7 0 0 0 1.9 1.9c1.7.5 7.7.5 7.7.5s6 0 7.7-.5a2.7 2.7 0 0 0 1.9-1.9A28 28 0 0 0 22 12a28 28 0 0 0-.4-4.8zM10 15V9l5 3z"/></svg>
+    YouTube <span class="dot yt"></span>
+  </div>
+  <div class="nav-item" data-filter="nebula">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="4"/><ellipse cx="12" cy="12" rx="10" ry="4.5" transform="rotate(-28 12 12)"/></svg>
+    Nebula <span class="dot neb"></span>
+  </div>
+
+  <div class="nav-label">Creators</div>
+  <div id="creatorNav"></div>
+
+  <div class="sidebar-foot">
+    One feed for YouTube &amp; Nebula.<br>Click any card to play.
+  </div>
+</aside>
+
+<!-- Floating reopen button, shown only when the sidebar is collapsed -->
+<button class="reopen-btn" id="reopenBtn" title="Open sidebar" aria-label="Open sidebar">
+  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 6h16M4 12h16M4 18h16"/></svg>
+</button>
+
+<!-- ============ MAIN ============ -->
+<div class="main">
+  <div class="topbar">
+    <button class="icon-btn" id="menuBtn" style="display:none">
+      <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 6h16M4 12h16M4 18h16"/></svg>
+    </button>
+    <form class="search" id="searchForm">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+      <input type="text" id="searchInput" placeholder="Search YouTube and Nebula…" autocomplete="off">
+      <span class="search-hint">Enter to search both</span>
+    </form>
+    <div class="topbar-actions">
+      <button class="icon-btn" id="refreshBtn" title="Refresh feed">
+        <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 12a9 9 0 1 1-2.64-6.36"/><path d="M21 3v5h-5"/></svg>
+      </button>
+      <button class="icon-btn" title="Notifications">
+        <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 8a6 6 0 1 0-12 0c0 7-3 9-3 9h18s-3-2-3-9"/><path d="M13.7 21a2 2 0 0 1-3.4 0"/></svg>
+      </button>
+      <div class="avatar">NB</div>
+    </div>
+  </div>
+
+  <div class="content">
+    <div class="filters" id="filters">
+      <div class="pill active" data-src="all">All Sources</div>
+      <div class="pill" data-src="youtube"><span class="src-dot"></span>YouTube</div>
+      <div class="pill" data-src="nebula"><span class="src-dot"></span>Nebula</div>
+    </div>
+
+    <div class="section-head">
+      <h2 id="secTitle">Your subscriptions</h2>
+      <span class="count" id="secCount"></span>
+    </div>
+
+    <div class="grid" id="grid"></div>
+  </div>
+</div>
+
+<!-- ============ PLAYER MODAL ============ -->
+<div class="modal" id="modal">
+  <div class="player">
+    <div class="player-video" id="playerVideo">
+      <button class="player-close" id="playerClose">
+        <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 6l12 12M18 6 6 18"/></svg>
+      </button>
+    </div>
+    <div class="player-info" id="playerInfo"></div>
+  </div>
+</div>
+
+<script>
+/* ------------------------------------------------------------------
+   DATA — a unified catalog. Each item has a `source`.
+   YouTube items use a real videoId so they play inline via embed.
+   Nebula items deep-link out (Nebula has no public embed/API).
+   Swap in your own items freely.
+-------------------------------------------------------------------*/
+/* Your real subscriptions. Channels marked in both lists (e.g. Wendover
+   Productions) show up under both sources automatically. To make any single
+   card play inline, add `videoId:'<id>'` to its entry in buildFeed() below. */
+const YT_SUBS = ["2 Much ColinFurze","Aaron Rheins","BocaBola","Brandon Y Lee","Bud n' Pal","Chaz Draycott Media","colinfurze","Dallas Taylor","DIY Perks","Engwerda Studios","Hamfrags","Ivan Miranda","Izzie Norwood","JackSucksAtLife","JackSucksAtStuff","Jon Youshaei","Linus Tech Tips","Luke Lafreniere","Man Made","Mark Rober","Morley Kert","Mr Beardstone","MrBeast","MrBeast 2","Mrwhosetheboss","Mrwhosetheboss Plus","Mumbo Jumbo","Nick DiGiovanni","Ryan Trahan","Sage Ellenwood","Sam from Wendover","Schoolhouse Homestead","Shiloh & Bros","ShortCircuit","Silver Creek Audio","Solidarity","Stam1o","Sticks","Swami 3","Taskmaster","WAN Show","Wendover Productions","Zip Tie Tech","Zip Tie Tuning"];
+const NEBULA_SUBS = ["DownieLive","Extremities","TLDR channels","Half as Interesting","Not Just Bikes","Hacksmith Industries","Lost And Found","Jet Lag: the Game","Wendover Productions","The Brick Facade","The Getaway","Tom Scott: England","Crime Spree","The layover","Scav","A very good trivia show","DownieExpress"];
+
+const PALETTE = ['#e0562d','#2d7de0','#8a5cff','#2db98a','#e0a52d','#c23b4b','#d4a017','#5b8cff','#12b5c9','#1a73e8','#d94f2b','#e0b21e','#c0392b','#3aa856','#5aa9e0','#6a8f2f','#7b5cff','#c9761e','#d63384','#2f9e6f','#4a9b5c','#b0561e','#3f8f8f','#a44ae0'];
+const slugify = n => n.toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-+|-+$/g,'');
+
+const CREATORS = {};
+function addCreator(name, source){
+  const id = slugify(name);
+  if(!CREATORS[id]) CREATORS[id] = {name, color:PALETTE[Object.keys(CREATORS).length % PALETTE.length], sources:[]};
+  if(!CREATORS[id].sources.includes(source)) CREATORS[id].sources.push(source);
+  return id;
+}
+YT_SUBS.forEach(n => addCreator(n,'youtube'));
+NEBULA_SUBS.forEach(n => addCreator(n,'nebula'));
+
+// Build a unified, interleaved feed. Each card is a channel that opens the
+// real platform (no public API lists a channel's videos without sign-in).
+// Nebula stays as deep-link channel cards (Nebula has no public feed/API).
+const nebCards = NEBULA_SUBS.map(n => ({
+  source:'nebula', creator:slugify(n), channel:true, title:n,
+  url:'https://nebula.tv/search?q='+encodeURIComponent(n),
+  views:'Followed', age:'Open on Nebula'
+}));
+// YouTube fallback: channel cards, shown if feeds.json can't be loaded.
+const ytFallback = YT_SUBS.map(n => ({
+  source:'youtube', creator:slugify(n), channel:true, title:n,
+  url:'https://www.youtube.com/results?search_query='+encodeURIComponent(n),
+  views:'Subscribed', age:'Open on YouTube'
+}));
+
+const interleave = (a,b) => { const o=[], m=Math.max(a.length,b.length);
+  for(let i=0;i<m;i++){ if(a[i])o.push(a[i]); if(b[i])o.push(b[i]); } return o; };
+const fmtViews = v => { const n=parseInt(v,10);
+  if(!n) return ''; if(n>=1e6) return +(n/1e6).toFixed(n<1e7?1:0)+'M views';
+  if(n>=1e3) return Math.round(n/1e3)+'K views'; return n+' views'; };
+const relTime = iso => { const t=Date.parse(iso); if(!t) return '';
+  const s=(Date.now()-t)/1000, d=Math.floor(s/86400);
+  if(s<3600) return Math.max(1,Math.floor(s/60))+' min ago';
+  if(s<86400) return Math.floor(s/3600)+' hr ago';
+  if(d<7)   return d+(d===1?' day ago':' days ago');
+  if(d<30)  return Math.floor(d/7)+' wk ago';
+  if(d<365) return Math.floor(d/30)+' mo ago';
+  return Math.floor(d/365)+' yr ago'; };
+
+// SUBS_CARDS backs the Subscriptions tab (one channel card per creator).
+const SUBS_CARDS = interleave(ytFallback, nebCards);
+
+// CATALOG backs Home / Shorts / Live. First paint uses fallback cards;
+// loadFeeds() swaps in real videos + live streams from feeds.json.
+const CATALOG = [];
+interleave(ytFallback.filter(c=>c.source==='youtube'), nebCards).forEach(c => CATALOG.push(c));
+
+let feedGeneratedAt = null;
+async function loadFeeds(){
+  let items = null;
+  try{
+    const res = await fetch('feeds.json',{cache:'no-store'});
+    if(res.ok){
+      const data = await res.json();
+      feedGeneratedAt = data.generated || null;
+      const vids = [], lives = [];
+      (data.channels||[]).forEach(ch => {
+        const id = slugify(ch.name);
+        (ch.videos||[]).forEach(v => vids.push({
+          source:'youtube', creator:id, videoId:v.videoId, title:v.title, short:!!v.short,
+          views:fmtViews(v.views), age:relTime(v.published), _t:Date.parse(v.published)||0
+        }));
+        if(ch.live && ch.live.videoId) lives.push({
+          source:'youtube', creator:id, videoId:ch.live.videoId,
+          title:ch.live.title||'Live now', live:true, views:'', age:'LIVE', _t:Infinity
+        });
+      });
+      if(vids.length || lives.length){
+        vids.sort((a,b)=>b._t-a._t);          // newest first
+        items = interleave(lives.concat(vids), nebCards); // live pinned to top
+      }
+    }
+  }catch(e){ /* opened via file:// or offline -> keep fallback cards */ }
+  if(items){
+    CATALOG.length = 0;
+    items.forEach(c => CATALOG.push(c));
+  }
+  if(typeof render==='function') render();
+  if(typeof updateLiveBadge==='function') updateLiveBadge();
+}
+
+CATALOG.forEach(v=>{ if(v.videoId) v.videoId = v.videoId.replace(/\s/g,''); });
+
+/* ---------------- Rendering ---------------- */
+const grid = document.getElementById('grid');
+const secCount = document.getElementById('secCount');
+let currentSrc = 'all';
+let currentCreator = null;
+let searchQuery = '';
+let currentView = 'home';   // home | shorts | live | subs
+
+function initials(name){return name.split(' ').map(w=>w[0]).join('').slice(0,2).toUpperCase();}
+function ytThumb(id){return `https://i.ytimg.com/vi/${id}/hqdefault.jpg`;}
+
+function gradientThumb(item){
+  // generated gradient placeholder (Nebula has no public thumbnail API;
+  // also used as a graceful fallback when a YouTube thumbnail is unavailable)
+  const c = CREATORS[item.creator].color;
+  const label = item.source==='nebula' ? 'NEBULA' : 'YOUTUBE';
+  const esc = s => s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+  const nm = esc(CREATORS[item.creator].name);
+  const svg = `<svg xmlns='http://www.w3.org/2000/svg' width='320' height='180'>
+    <defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>
+    <stop offset='0' stop-color='${c}'/><stop offset='1' stop-color='#12132a'/></linearGradient></defs>
+    <rect width='320' height='180' fill='url(#g)'/>
+    <circle cx='250' cy='45' r='60' fill='rgba(255,255,255,.06)'/>
+    <text x='20' y='150' fill='rgba(255,255,255,.9)' font-family='Segoe UI,sans-serif' font-size='15' font-weight='700'>${nm}</text>
+    <text x='20' y='168' fill='rgba(255,255,255,.55)' font-family='Segoe UI,sans-serif' font-size='11'>${label}</text>
+  </svg>`;
+  return 'data:image/svg+xml;base64,'+btoa(unescape(encodeURIComponent(svg)));
+}
+
+function filtered(){
+  const base = currentView==='subs' ? SUBS_CARDS : CATALOG;
+  return base.filter(v=>{
+    if(currentView==='home'  && v.short) return false;   // shorts get their own tab
+    if(currentView==='shorts'&& !v.short) return false;
+    if(currentView==='live'  && !v.live) return false;
+    if(currentSrc!=='all' && v.source!==currentSrc) return false;
+    if(currentCreator && v.creator!==currentCreator) return false;
+    if(searchQuery){
+      const hay=(v.title+' '+CREATORS[v.creator].name).toLowerCase();
+      if(!hay.includes(searchQuery.toLowerCase())) return false;
+    }
+    return true;
+  });
+}
+
+const VIEW_TITLES = {home:'Latest from your subscriptions', shorts:'Shorts',
+  live:'Live now', subs:'Your subscriptions'};
+const NOUN = {home:'video', shorts:'short', live:'live stream', subs:'subscription'};
+let renderedItems = [];
+
+function render(){
+  const items = filtered();
+  renderedItems = items;
+  document.getElementById('secTitle').textContent = VIEW_TITLES[currentView] || 'Your feed';
+  const noun = NOUN[currentView] || 'item';
+  let label = items.length+' '+noun+(items.length!==1?'s':'');
+  if(feedGeneratedAt && currentView!=='subs' && currentSrc!=='nebula')
+    label += ' · YouTube live, refreshed '+relTime(feedGeneratedAt);
+  secCount.textContent = label;
+
+  grid.classList.toggle('shorts', currentView==='shorts');
+
+  if(!items.length){
+    const msg = currentView==='live'
+      ? 'None of your channels are streaming right now.'
+      : 'No matches in your library.';
+    grid.innerHTML = `<div class="empty" style="grid-column:1/-1">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+      <div style="font-size:15px">${msg}</div>
+      <div style="margin-top:8px">Press <b>Enter</b> to search YouTube &amp; Nebula on the web.</div>
+    </div>`;
+    return;
+  }
+  grid.innerHTML = items.map((v,i)=>{
+    const ch = CREATORS[v.creator];
+    const thumb = v.videoId ? ytThumb(v.videoId) : gradientThumb(v);
+    const fallback = gradientThumb(v).replace(/'/g,'&#39;').replace(/"/g,'&quot;');
+    // YouTube serves a 120px-wide gray placeholder for missing videos; swap it for a gradient.
+    const onload = v.videoId
+      ? `onload="if(this.naturalWidth<=120){this.src='${fallback}';}" onerror="this.src='${fallback}'"` : '';
+    let topBadge;
+    if(v.live) topBadge = '<span class="badge-live">LIVE</span>';
+    else if(v.short) topBadge = `<span class="badge-shorts"><svg viewBox="0 0 24 24" width="11" height="11" fill="#fff"><path d="M10 8l6 4-6 4z"/></svg>Shorts</span>`;
+    else topBadge = `<div class="badge-src ${v.source}">${v.source==='youtube'
+        ? '<svg viewBox=\"0 0 24 24\" width=\"12\" height=\"12\" fill=\"#fff\"><path d=\"M10 15V9l5 3z\"/><rect x=\"2\" y=\"5\" width=\"20\" height=\"14\" rx=\"3\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/></svg> YouTube'
+        : '✦ Nebula'}</div>`;
+    return `<div class="card${v.live?' live':''}" data-idx="${i}">
+      <div class="thumb">
+        <img src="${thumb}" loading="lazy" alt="" ${onload}>
+        ${topBadge}
+        ${v.exclusive?'<span class="badge-exclusive">Exclusive</span>':''}
+        ${v.dur?`<span class="badge-dur">${v.dur}</span>`:''}
+        <div class="play"><svg viewBox="0 0 24 24" fill="currentColor"><circle cx="12" cy="12" r="11" fill="rgba(0,0,0,.45)"/><path d="M10 8l7 4-7 4z" fill="#fff"/></svg></div>
+      </div>
+      <div class="card-body">
+        <div class="ch-avatar" style="background:${ch.color}">${initials(ch.name)}</div>
+        <div class="card-meta">
+          <div class="card-title">${v.title}</div>
+          <div class="card-sub"><span class="ch">${ch.name}</span><br>${[v.views,v.age].filter(Boolean).join(' • ')}</div>
+        </div>
+      </div>
+    </div>`;
+  }).join('');
+}
+
+/* ---------------- Player ---------------- */
+const modal = document.getElementById('modal');
+const playerVideo = document.getElementById('playerVideo');
+const playerInfo = document.getElementById('playerInfo');
+
+function openPlayer(item){
+  const ch = CREATORS[item.creator];
+  const closeBtn = '<button class="player-close" id="playerClose"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 6l12 12M18 6 6 18"/></svg></button>';
+  if(item.source==='youtube'){
+    playerVideo.innerHTML = closeBtn +
+      `<iframe src="https://www.youtube-nocookie.com/embed/${item.videoId}?autoplay=1&rel=0" allow="autoplay; encrypted-media; fullscreen" allowfullscreen></iframe>`;
+    const sub = item.live ? ch.name+' • 🔴 LIVE now'
+      : [ch.name, item.views, item.age].filter(Boolean).join(' • ');
+    playerInfo.innerHTML =
+      `<div class="ch-avatar" style="background:${ch.color}">${initials(ch.name)}</div>
+       <div><div class="pi-title">${item.title}</div>
+       <div class="pi-sub">${sub}</div></div>
+       <a class="open-ext" target="_blank" href="https://www.youtube.com/watch?v=${item.videoId}">Open in YouTube ↗</a>`;
+  } else {
+    const url = `https://nebula.tv/${item.slug}`;
+    playerVideo.innerHTML = closeBtn +
+      `<div class="player-nebula">
+        <div class="neb-logo">✦ <b>Nebula</b></div>
+        <p><b>${item.title}</b><br><br>This is a Nebula ${item.exclusive?'exclusive':'video'}. Nebula content is ad-free and can’t be embedded, so it opens in Nebula to play.</p>
+        <button class="btn-neb" onclick="window.open('${url}','_blank')">Watch on Nebula ↗</button>
+      </div>`;
+    playerInfo.innerHTML =
+      `<div class="ch-avatar" style="background:${ch.color}">${initials(ch.name)}</div>
+       <div><div class="pi-title">${item.title}</div>
+       <div class="pi-sub">${ch.name} • ${item.views} • ${item.age}</div></div>
+       <a class="open-ext" target="_blank" href="${url}">Open in Nebula ↗</a>`;
+  }
+  modal.classList.add('open');
+  document.getElementById('playerClose').onclick = closePlayer;
+}
+function closePlayer(){ modal.classList.remove('open'); playerVideo.innerHTML=''; }
+modal.addEventListener('click',e=>{ if(e.target===modal) closePlayer(); });
+document.addEventListener('keydown',e=>{ if(e.key==='Escape') closePlayer(); });
+
+grid.addEventListener('click',e=>{
+  const card=e.target.closest('.card'); if(!card) return;
+  const item=renderedItems[+card.dataset.idx];
+  if(!item) return;
+  if(item.channel){ window.open(item.url,'_blank'); return; } // channel card -> open the real platform
+  openPlayer(item);
+});
+
+/* ---------------- Filters / nav ---------------- */
+document.getElementById('filters').addEventListener('click',e=>{
+  const pill=e.target.closest('.pill'); if(!pill) return;
+  document.querySelectorAll('.pill').forEach(p=>p.classList.remove('active'));
+  pill.classList.add('active');
+  currentSrc=pill.dataset.src; render();
+});
+
+document.querySelectorAll('.nav-item[data-filter]').forEach(el=>{
+  el.addEventListener('click',()=>{
+    currentSrc=el.dataset.filter; currentCreator=null;
+    document.querySelectorAll('.pill').forEach(p=>p.classList.toggle('active',p.dataset.src===currentSrc));
+    setActiveNav(el); render();
+  });
+});
+document.querySelectorAll('.nav-item[data-view]').forEach(el=>{
+  el.addEventListener('click',()=>{
+    currentView=el.dataset.view; currentSrc='all'; currentCreator=null; searchQuery='';
+    searchInput.value='';
+    document.querySelectorAll('.pill').forEach(p=>p.classList.toggle('active',p.dataset.src==='all'));
+    setActiveNav(el); render();
+  });
+});
+function setActiveNav(el){ document.querySelectorAll('.nav-item').forEach(n=>n.classList.remove('active')); el.classList.add('active'); }
+
+/* Live badge + auto-refresh (the "live" bits) */
+function updateLiveBadge(){
+  const n = CATALOG.filter(v=>v.live).length;
+  const b = document.getElementById('liveBadge');
+  b.textContent = n; b.classList.toggle('on', n>0);
+}
+const refreshBtn = document.getElementById('refreshBtn');
+refreshBtn.addEventListener('click', async ()=>{
+  refreshBtn.classList.add('spin');
+  await loadFeeds();
+  setTimeout(()=>refreshBtn.classList.remove('spin'), 600);
+});
+setInterval(render, 60000);        // tick relative times ("2 hr ago") every minute
+setInterval(loadFeeds, 300000);    // re-pull feeds.json every 5 minutes
+
+/* Creator sub-list */
+const creatorNav=document.getElementById('creatorNav');
+creatorNav.innerHTML = Object.entries(CREATORS).map(([id,c])=>
+  `<div class="nav-item" data-creator="${id}">
+     <span class="ch-avatar" style="width:19px;height:19px;font-size:9px;background:${c.color}">${initials(c.name)}</span>
+     ${c.name}
+   </div>`).join('');
+creatorNav.addEventListener('click',e=>{
+  const el=e.target.closest('[data-creator]'); if(!el) return;
+  currentCreator = currentCreator===el.dataset.creator ? null : el.dataset.creator;
+  currentSrc='all';
+  document.querySelectorAll('.pill').forEach(p=>p.classList.toggle('active',p.dataset.src==='all'));
+  setActiveNav(el); render();
+});
+
+/* Search: filter local library live; Enter also opens web search on both */
+const searchInput=document.getElementById('searchInput');
+searchInput.addEventListener('input',()=>{ searchQuery=searchInput.value.trim(); render(); });
+document.getElementById('searchForm').addEventListener('submit',e=>{
+  e.preventDefault();
+  const q=searchInput.value.trim(); if(!q) return;
+  window.open('https://www.youtube.com/results?search_query='+encodeURIComponent(q),'_blank');
+  window.open('https://nebula.tv/search?q='+encodeURIComponent(q),'_blank');
+});
+
+/* mobile menu */
+const menuBtn=document.getElementById('menuBtn');
+const sidebar=document.getElementById('sidebar');
+const collapseBtn=document.getElementById('collapseBtn');
+const reopenBtn=document.getElementById('reopenBtn');
+const isMobile=()=>window.innerWidth<=820;
+
+function setCollapsed(on){
+  sidebar.classList.toggle('collapsed', on);
+  reopenBtn.classList.toggle('show', on && !isMobile());
+}
+// « in the sidebar header collapses (desktop) or closes the overlay (mobile).
+collapseBtn.addEventListener('click',()=>{ isMobile() ? sidebar.classList.remove('show') : setCollapsed(true); });
+// Floating ☰ (desktop, only when collapsed) reopens.
+reopenBtn.addEventListener('click',()=> setCollapsed(false));
+// Topbar ☰ (mobile) toggles the slide-in overlay; also works on desktop as a toggle.
+menuBtn.addEventListener('click',()=>{ isMobile() ? sidebar.classList.toggle('show') : setCollapsed(!sidebar.classList.contains('collapsed')); });
+
+function checkMobile(){
+  menuBtn.style.display = isMobile() ? 'grid' : 'none';
+  if(isMobile()){ setCollapsed(false); sidebar.classList.remove('collapsed'); }
+  else sidebar.classList.remove('show');
+}
+window.addEventListener('resize',checkMobile); checkMobile();
+
+render();      // instant paint with fallback channel cards
+loadFeeds();   // swap in real recent YouTube videos from feeds.json
+</script>
+</body>
+</html>
