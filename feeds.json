@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-29T03:49:19.693007+00:00",
+ "generated": "2026-07-29T06:31:11.926039+00:00",
  "channels": [
   {
    "name": "2 Much ColinFurze",
@@ -82,8 +82,52 @@
   {
    "name": "JackSucksAtLife",
    "channelId": "UCewMTclBJZPaNEfbf-qYMGA",
-   "resolvedTitle": null,
-   "videos": []
+   "resolvedTitle": "JackSucksAtLife",
+   "videos": [
+    {
+     "videoId": "fs35cnVMrDc",
+     "title": "Sidemen 50 Youtuber Hide & Seek behind the scenes",
+     "published": "2025-11-24T15:01:27+00:00",
+     "views": "90915",
+     "short": true
+    },
+    {
+     "videoId": "vivdSxWub9Y",
+     "title": "I trained like a professional athlete for 1 month",
+     "published": "2025-11-19T16:30:24+00:00",
+     "views": "220097",
+     "short": true
+    },
+    {
+     "videoId": "eEhZfvgcWCE",
+     "title": "My first cold moment in Sidemen Among Us",
+     "published": "2025-11-06T20:00:28+00:00",
+     "views": "72186",
+     "short": true
+    },
+    {
+     "videoId": "Jqe946bRnqI",
+     "title": "The New DIAMOND YouTube Play Button!",
+     "published": "2025-10-24T16:15:02+00:00",
+     "views": "333837",
+     "short": false
+    },
+    {
+     "videoId": "ECzkSasm0YE",
+     "title": "Will This NEW Youtube Feature SAVE My Channel?",
+     "published": "2025-10-04T17:00:13+00:00",
+     "views": "117824",
+     "short": false
+    },
+    {
+     "videoId": "NZ7ZWPIBTZY",
+     "title": "What Happens When You Do Strength Training AND Cardio Everyday",
+     "published": "2025-08-13T16:15:02+00:00",
+     "views": "403040",
+     "short": false
+    }
+   ],
+   "live": null
   },
   {
    "name": "JackSucksAtStuff",
@@ -94,52 +138,8 @@
   {
    "name": "Jon Youshaei",
    "channelId": "UCj8DGOv5P7Ngsh-telMG-pw",
-   "resolvedTitle": "Jon Youshaei",
-   "videos": [
-    {
-     "videoId": "HJN8e982K5g",
-     "title": "I Rented a Movie Theater to Premiere YouTube Videos",
-     "published": "2026-07-14T18:27:06+00:00",
-     "views": "14184",
-     "short": true
-    },
-    {
-     "videoId": "8sEOV-r7yFI",
-     "title": "The Future of MrBeast's Multi-Billion Dollar Empire",
-     "published": "2026-05-24T14:00:20+00:00",
-     "views": "685919",
-     "short": false
-    },
-    {
-     "videoId": "s0yq_9meV_4",
-     "title": "MKBHD Breaks Down His Biggest Video Ever",
-     "published": "2026-05-09T13:01:42+00:00",
-     "views": "166080",
-     "short": false
-    },
-    {
-     "videoId": "NdjcGrpNSF4",
-     "title": "Inside MrBeast's YouTube Machine",
-     "published": "2026-04-26T19:15:03+00:00",
-     "views": "695973",
-     "short": false
-    },
-    {
-     "videoId": "sd2t6eUkqdg",
-     "title": "How MrBeast Made 50 Streamers Fight for $1,000,000",
-     "published": "2026-04-22T15:01:28+00:00",
-     "views": "170997",
-     "short": false
-    },
-    {
-     "videoId": "aXnhkt91VLk",
-     "title": "Inside The Sidemen's $6M Charity Match",
-     "published": "2026-04-12T17:45:00+00:00",
-     "views": "477449",
-     "short": false
-    }
-   ],
-   "live": null
+   "resolvedTitle": null,
+   "videos": []
   },
   {
    "name": "Linus Tech Tips",
@@ -246,8 +246,52 @@
   {
    "name": "ShortCircuit",
    "channelId": "UCdBK94H6oZT2Q7l0-b0xmMg",
-   "resolvedTitle": null,
-   "videos": []
+   "resolvedTitle": "ShortCircuit",
+   "videos": [
+    {
+     "videoId": "Dwhvzwv7nTc",
+     "title": "Samsung Fold8 VS Fold8 Ultra",
+     "published": "2026-07-29T00:32:23+00:00",
+     "views": "10855",
+     "short": true
+    },
+    {
+     "videoId": "zbqZ-0puJjg",
+     "title": "My wife said no to this phone  - Samsung Galaxy Z fold 8",
+     "published": "2026-07-28T19:36:21+00:00",
+     "views": "213088",
+     "short": false
+    },
+    {
+     "videoId": "8LILAmXzopk",
+     "title": "I stole Linus’ Framework 13 Pro to put Linux on it",
+     "published": "2026-07-27T15:01:23+00:00",
+     "views": "109275",
+     "short": false
+    },
+    {
+     "videoId": "C0WVyZRxCOM",
+     "title": "An e-ink tablet finally worth buying - Boox Air5 C",
+     "published": "2026-07-25T17:28:52+00:00",
+     "views": "63928",
+     "short": false
+    },
+    {
+     "videoId": "gmKvOIgy-iM",
+     "title": "A Gaming laptop that's great for creators too -  Alienware Aurora 16X",
+     "published": "2026-07-24T18:54:05+00:00",
+     "views": "89756",
+     "short": false
+    },
+    {
+     "videoId": "_SYWJTOcYG8",
+     "title": "Why Didn’t They Do This Sooner? - Corsair Galleon 100 SD",
+     "published": "2026-07-22T14:50:37+00:00",
+     "views": "162298",
+     "short": false
+    }
+   ],
+   "live": null
   },
   {
    "name": "Silver Creek Audio",
@@ -258,52 +302,8 @@
   {
    "name": "Solidarity",
    "channelId": "UC6XAct-Bus4x3mYz3VC_HUw",
-   "resolvedTitle": "Solidarity",
-   "videos": [
-    {
-     "videoId": "wCy3l8xfodc",
-     "title": "The Etho Fan Club Met Up 💅",
-     "published": "2026-07-26T18:22:39+00:00",
-     "views": "33012",
-     "short": true
-    },
-    {
-     "videoId": "ibIgKOPLnM0",
-     "title": "I Found These CRAZY Minecraft MODS!",
-     "published": "2026-07-25T17:00:18+00:00",
-     "views": "133903",
-     "short": false
-    },
-    {
-     "videoId": "vQ-m3TGI0ug",
-     "title": "big man jim does a big man clutch!! 😎",
-     "published": "2026-07-23T18:01:41+00:00",
-     "views": "127528",
-     "short": true
-    },
-    {
-     "videoId": "R5sp9Ek8Iwc",
-     "title": "I Dueled Every LIFE SERIES Winner...",
-     "published": "2026-07-18T17:05:41+00:00",
-     "views": "212068",
-     "short": false
-    },
-    {
-     "videoId": "_XPiEwufStE",
-     "title": "I'd be the JOKE of this documentary...",
-     "published": "2026-07-14T17:07:28+00:00",
-     "views": "98409",
-     "short": true
-    },
-    {
-     "videoId": "is83xNp0Uw0",
-     "title": "I Was Sent These Minecraft SHORTS...",
-     "published": "2026-07-11T18:59:35+00:00",
-     "views": "137216",
-     "short": false
-    }
-   ],
-   "live": null
+   "resolvedTitle": null,
+   "videos": []
   },
   {
    "name": "Stam1o",
@@ -314,8 +314,52 @@
   {
    "name": "Sticks",
    "channelId": "UCVun3IyFIh6AsEMV11zlVHg",
-   "resolvedTitle": null,
-   "videos": []
+   "resolvedTitle": "Sticks",
+   "videos": [
+    {
+     "videoId": "sKWsK0vjwrk",
+     "title": "We're Making the World's Most Profitable Movie",
+     "published": "2026-07-07T02:48:24+00:00",
+     "views": "373185",
+     "short": true
+    },
+    {
+     "videoId": "C5-69AZ93B4",
+     "title": "We Re-Opened Blockbuster in 2026",
+     "published": "2026-04-17T02:14:23+00:00",
+     "views": "80028",
+     "short": true
+    },
+    {
+     "videoId": "UZ3WfQQMves",
+     "title": "Which YouTuber Deserves An Oscar?",
+     "published": "2026-03-15T03:50:24+00:00",
+     "views": "1386569",
+     "short": true
+    },
+    {
+     "videoId": "cwuQbknO-bQ",
+     "title": "We Tested Telepathy Typing #MxMaster4 #LogitechPartner",
+     "published": "2026-02-26T00:42:34+00:00",
+     "views": "60841",
+     "short": true
+    },
+    {
+     "videoId": "NvTduUDqozE",
+     "title": "We Surprised Dude Perfect With Their Own Movie",
+     "published": "2025-12-16T22:00:34+00:00",
+     "views": "1368485",
+     "short": false
+    },
+    {
+     "videoId": "Q9yK7OPkdzc",
+     "title": "If Dude Perfect's Life Was a Movie...",
+     "published": "2025-11-29T21:02:43+00:00",
+     "views": "771421",
+     "short": false
+    }
+   ],
+   "live": null
   },
   {
    "name": "Swami 3",
@@ -344,8 +388,52 @@
   {
    "name": "Zip Tie Tech",
    "channelId": "UCUpt_5O1vYpWAGg77iNMQXA",
-   "resolvedTitle": null,
-   "videos": []
+   "resolvedTitle": "Zip Tie Tech",
+   "videos": [
+    {
+     "videoId": "-u7tfxegH3Q",
+     "title": "Is Dell’s Best XPS Enough? - XPS 14 2026 Review",
+     "published": "2026-06-24T16:49:13+00:00",
+     "views": "119766",
+     "short": false
+    },
+    {
+     "videoId": "3frZjfmIYn0",
+     "title": "A Diamond CPU Cooler?!",
+     "published": "2026-06-12T18:09:01+00:00",
+     "views": "133527",
+     "short": true
+    },
+    {
+     "videoId": "S_y0q8aDDtA",
+     "title": "Everyone is Wrong about Nvidia RTX Spark",
+     "published": "2026-06-10T16:51:40+00:00",
+     "views": "148987",
+     "short": false
+    },
+    {
+     "videoId": "1Dplz54q1mE",
+     "title": "The Best Budget Laptop Ever - Dell XPS 13 2026",
+     "published": "2026-06-08T14:39:11+00:00",
+     "views": "106781",
+     "short": false
+    },
+    {
+     "videoId": "BwCuta_1_RA",
+     "title": "This Bad@$$ Computer Cooler",
+     "published": "2026-06-06T11:22:28+00:00",
+     "views": "40446",
+     "short": false
+    },
+    {
+     "videoId": "AY9StjMy3pY",
+     "title": "This GPU waterblock cost €1,500,000",
+     "published": "2026-06-05T09:44:17+00:00",
+     "views": "23720",
+     "short": true
+    }
+   ],
+   "live": null
   },
   {
    "name": "Zip Tie Tuning",
