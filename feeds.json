@@ -1,55 +1,11 @@
 {
- "generated": "2026-08-05T03:43:15.899951+00:00",
+ "generated": "2026-08-05T06:28:23.574112+00:00",
  "channels": [
   {
    "name": "2 Much ColinFurze",
    "channelId": "UCdmcAwbdiXQWs9d4Qd4KzDw",
-   "resolvedTitle": "2 Much ColinFurze",
-   "videos": [
-    {
-     "videoId": "GhnCnJlkolg",
-     "title": "I flew a drone through my tunnel",
-     "published": "2026-03-24T19:31:57+00:00",
-     "views": "166851",
-     "short": true
-    },
-    {
-     "videoId": "FbigAI3_nJg",
-     "title": "The future….",
-     "published": "2026-03-09T18:00:15+00:00",
-     "views": "141755",
-     "short": true
-    },
-    {
-     "videoId": "BQPXKpEui2A",
-     "title": "Secret Garage Update #18 LOVERLY LEGS",
-     "published": "2026-02-26T16:00:25+00:00",
-     "views": "1508165",
-     "short": false
-    },
-    {
-     "videoId": "lUOnL8CzMBQ",
-     "title": "Today in the workshop of dreams",
-     "published": "2026-01-31T19:40:38+00:00",
-     "views": "713607",
-     "short": true
-    },
-    {
-     "videoId": "zkMOFyjRdjU",
-     "title": "Secret Garage Update #17 The Last 7 Months AND......",
-     "published": "2026-01-29T16:01:36+00:00",
-     "views": "2326558",
-     "short": false
-    },
-    {
-     "videoId": "5TOfU4TwICM",
-     "title": "Big Ben has no 10’s",
-     "published": "2026-01-28T19:16:39+00:00",
-     "views": "396598",
-     "short": true
-    }
-   ],
-   "live": null
+   "resolvedTitle": null,
+   "videos": []
   },
   {
    "name": "Aaron Rheins",
@@ -228,38 +184,8 @@
   {
    "name": "Sam from Wendover",
    "channelId": "UCDA1X6RrhzZQOHOGvC3KsWg",
-   "resolvedTitle": "Sam from Wendover",
-   "videos": [
-    {
-     "videoId": "M2AejLrF0dk",
-     "title": "1 Year and 200,000 Miles of Travel in 6 Minutes",
-     "published": "2019-11-07T16:56:50+00:00",
-     "views": "105295",
-     "short": false
-    },
-    {
-     "videoId": "cNYJH4MQDuo",
-     "title": "Traveling to the US' Most Isolated Territory",
-     "published": "2018-05-08T14:30:01+00:00",
-     "views": "197230",
-     "short": false
-    },
-    {
-     "videoId": "mTpXQmRB3tI",
-     "title": "This Week I Learned to Do a Q&A Video (With Mike Boyd)",
-     "published": "2018-04-19T15:48:40+00:00",
-     "views": "132571",
-     "short": false
-    },
-    {
-     "videoId": "5N3aZTT3TRw",
-     "title": "A Moderately Successful Face Reveal",
-     "published": "2018-03-27T14:30:01+00:00",
-     "views": "339365",
-     "short": false
-    }
-   ],
-   "live": null
+   "resolvedTitle": null,
+   "videos": []
   },
   {
    "name": "Schoolhouse Homestead",
@@ -336,52 +262,8 @@
   {
    "name": "Zip Tie Tuning",
    "channelId": "UCWqW23Ko6dbscptZYyQE-8A",
-   "resolvedTitle": "Zip Tie Tuning",
-   "videos": [
-    {
-     "videoId": "ISsZ5zWz1Xo",
-     "title": "I Hope I Don't Regret This...",
-     "published": "2026-07-23T14:39:09+00:00",
-     "views": "291234",
-     "short": false
-    },
-    {
-     "videoId": "0aIyXjpHA64",
-     "title": "This Changes Everything",
-     "published": "2026-07-09T16:40:43+00:00",
-     "views": "370630",
-     "short": false
-    },
-    {
-     "videoId": "Jw4wfkWnib8",
-     "title": "Earning my Rally Seat Time with Zip Ties",
-     "published": "2026-06-30T16:38:02+00:00",
-     "views": "157662",
-     "short": false
-    },
-    {
-     "videoId": "AiVYn4CS1ac",
-     "title": "Their Camper Got Totalled...... So We Built This",
-     "published": "2026-06-22T17:54:26+00:00",
-     "views": "231691",
-     "short": false
-    },
-    {
-     "videoId": "QsYUYXQO31U",
-     "title": "It Shouldn’t Sound This Good",
-     "published": "2026-06-13T19:27:05+00:00",
-     "views": "359313",
-     "short": false
-    },
-    {
-     "videoId": "4aw_iEFAbSM",
-     "title": "My Beautiful New Money Pit",
-     "published": "2026-06-07T16:35:24+00:00",
-     "views": "357912",
-     "short": false
-    }
-   ],
-   "live": null
+   "resolvedTitle": null,
+   "videos": []
   }
  ]
 }
