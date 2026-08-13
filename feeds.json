@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-13T04:25:14.407141+00:00",
+ "generated": "2026-08-13T05:57:27.467278+00:00",
  "channels": [
   {
    "name": "2 Much ColinFurze",
@@ -58,52 +58,8 @@
   {
    "name": "Engwerda Studios",
    "channelId": "UCYrG2zHfww6yUoYo6pUUdMQ",
-   "resolvedTitle": "Engwerda Studios",
-   "videos": [
-    {
-     "videoId": "1SS4B5UPH7o",
-     "title": "Titanic Parody: Jacks death",
-     "published": "2026-01-31T00:00:05+00:00",
-     "views": "34",
-     "short": false
-    },
-    {
-     "videoId": "O_eJMLfH_xU",
-     "title": "The Cat Strikes Again (Horror Comedy Short Film)",
-     "published": "2026-01-15T21:00:27+00:00",
-     "views": "69",
-     "short": false
-    },
-    {
-     "videoId": "uv4gpdVm7dc",
-     "title": "Happy New Years from @engwerdastudios",
-     "published": "2026-01-01T04:38:57+00:00",
-     "views": "18",
-     "short": true
-    },
-    {
-     "videoId": "-jjfpncUhFk",
-     "title": "Bike Bandits: Bloopers 2",
-     "published": "2025-12-29T22:30:00+00:00",
-     "views": "13",
-     "short": true
-    },
-    {
-     "videoId": "Q34uLpjPp7Q",
-     "title": "Bike Bandits: Deleted Scenes",
-     "published": "2025-12-26T22:00:32+00:00",
-     "views": "22",
-     "short": false
-    },
-    {
-     "videoId": "rf4oAgtnYT4",
-     "title": "Filming a short film Explained in 2 minutes",
-     "published": "2025-12-24T22:00:56+00:00",
-     "views": "15",
-     "short": false
-    }
-   ],
-   "live": null
+   "resolvedTitle": null,
+   "videos": []
   },
   {
    "name": "Hamfrags",
@@ -306,52 +262,8 @@
   {
    "name": "Zip Tie Tuning",
    "channelId": "UCWqW23Ko6dbscptZYyQE-8A",
-   "resolvedTitle": "Zip Tie Tuning",
-   "videos": [
-    {
-     "videoId": "dj1h3R2zEOc",
-     "title": "Why Did I Do This?!",
-     "published": "2026-08-05T16:56:11+00:00",
-     "views": "293048",
-     "short": false
-    },
-    {
-     "videoId": "ISsZ5zWz1Xo",
-     "title": "I Hope I Don't Regret This... RAV4 Engine Swap Pt. 1",
-     "published": "2026-07-23T14:39:09+00:00",
-     "views": "305050",
-     "short": false
-    },
-    {
-     "videoId": "0aIyXjpHA64",
-     "title": "This Changes Everything",
-     "published": "2026-07-09T16:40:43+00:00",
-     "views": "375437",
-     "short": false
-    },
-    {
-     "videoId": "Jw4wfkWnib8",
-     "title": "Earning my Rally Seat Time with Zip Ties",
-     "published": "2026-06-30T16:38:02+00:00",
-     "views": "159312",
-     "short": false
-    },
-    {
-     "videoId": "AiVYn4CS1ac",
-     "title": "Their Camper Got Totalled...... So We Built This",
-     "published": "2026-06-22T17:54:26+00:00",
-     "views": "235996",
-     "short": false
-    },
-    {
-     "videoId": "QsYUYXQO31U",
-     "title": "It Shouldn’t Sound This Good",
-     "published": "2026-06-13T19:27:05+00:00",
-     "views": "371812",
-     "short": false
-    }
-   ],
-   "live": null
+   "resolvedTitle": null,
+   "videos": []
   }
  ]
 }
