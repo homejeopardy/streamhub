@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-15T05:24:10.753475+00:00",
+ "generated": "2026-08-15T05:51:22.213185+00:00",
  "channels": [
   {
    "name": "2 Much ColinFurze",
@@ -40,52 +40,8 @@
   {
    "name": "colinfurze",
    "channelId": "UCp68_FLety0O-n9QU6phsgw",
-   "resolvedTitle": "colinfurze",
-   "videos": [
-    {
-     "videoId": "vlThrKniVLc",
-     "title": "Amazing LEGO Tea Bag Machine",
-     "published": "2026-07-09T19:08:37+00:00",
-     "views": "946696",
-     "short": true
-    },
-    {
-     "videoId": "fJDCExWquhk",
-     "title": "HEATWAVE  SOLVED",
-     "published": "2026-06-24T17:57:47+00:00",
-     "views": "3124773",
-     "short": true
-    },
-    {
-     "videoId": "bzDM3HCjFcY",
-     "title": "Every Pickup needs this!!",
-     "published": "2026-04-23T15:01:08+00:00",
-     "views": "9659514",
-     "short": true
-    },
-    {
-     "videoId": "W6dNfWAsJRs",
-     "title": "Magnet Board cleans up!",
-     "published": "2026-04-19T17:01:24+00:00",
-     "views": "862876",
-     "short": true
-    },
-    {
-     "videoId": "fPn6GC4MUhs",
-     "title": "Magnetic Floating Skateboard.",
-     "published": "2026-03-29T18:12:32+00:00",
-     "views": "3542965",
-     "short": true
-    },
-    {
-     "videoId": "g_xMKhKUC7s",
-     "title": "SECRET Garage Car Lift Part 1",
-     "published": "2026-03-26T16:00:57+00:00",
-     "views": "4659489",
-     "short": false
-    }
-   ],
-   "live": null
+   "resolvedTitle": null,
+   "videos": []
   },
   {
    "name": "Dallas Taylor",
@@ -144,52 +100,8 @@
   {
    "name": "Linus Tech Tips",
    "channelId": "UCXuqSBlHAE6Xw-yeJA0Tunw",
-   "resolvedTitle": "Linus Tech Tips",
-   "videos": [
-    {
-     "videoId": "J261Rg0LTDA",
-     "title": "\"Pro\" phones are stupid - PIxel 11 Announcement",
-     "published": "2026-08-13T08:19:30+00:00",
-     "views": "566804",
-     "short": false
-    },
-    {
-     "videoId": "ofNcSiFpDUk",
-     "title": "Tech Russian Roulette with True or False Questions!",
-     "published": "2026-08-11T18:08:30+00:00",
-     "views": "419471",
-     "short": true
-    },
-    {
-     "videoId": "rbQtX_thQtQ",
-     "title": "It Shouldn’t be this Hard to Buy A Printer…",
-     "published": "2026-08-11T16:56:25+00:00",
-     "views": "1394779",
-     "short": false
-    },
-    {
-     "videoId": "NWoT1ZVd1Lo",
-     "title": "Her phone died, so I'm making her fix it",
-     "published": "2026-08-09T17:00:02+00:00",
-     "views": "979058",
-     "short": false
-    },
-    {
-     "videoId": "XiSMWonFuQQ",
-     "title": "Rating Every Version of Windows",
-     "published": "2026-08-08T17:13:04+00:00",
-     "views": "832267",
-     "short": false
-    },
-    {
-     "videoId": "1Z5bbuLPwX4",
-     "title": "YouTuber Merch Tier List",
-     "published": "2026-08-05T22:48:26+00:00",
-     "views": "579876",
-     "short": true
-    }
-   ],
-   "live": null
+   "resolvedTitle": null,
+   "videos": []
   },
   {
    "name": "Luke Lafreniere",
