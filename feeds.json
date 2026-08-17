@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-17T18:38:58.021741+00:00",
+ "generated": "2026-08-17T19:28:32.772827+00:00",
  "channels": [
   {
    "name": "2 Much ColinFurze",
@@ -10,14 +10,14 @@
      "videoId": "GhnCnJlkolg",
      "title": "I flew a drone through my tunnel",
      "published": "2026-03-24T19:31:57+00:00",
-     "views": "169253",
+     "views": "169264",
      "short": true
     },
     {
      "videoId": "FbigAI3_nJg",
      "title": "The future….",
      "published": "2026-03-09T18:00:15+00:00",
-     "views": "142524",
+     "views": "142529",
      "short": true
     },
     {
@@ -31,14 +31,14 @@
      "videoId": "lUOnL8CzMBQ",
      "title": "Today in the workshop of dreams",
      "published": "2026-01-31T19:40:38+00:00",
-     "views": "721943",
+     "views": "721968",
      "short": true
     },
     {
      "videoId": "zkMOFyjRdjU",
      "title": "Secret Garage Update #17 The Last 7 Months AND......",
      "published": "2026-01-29T16:01:36+00:00",
-     "views": "2334661",
+     "views": "2334693",
      "short": false
     },
     {
@@ -60,42 +60,42 @@
      "videoId": "YUS1lEkRcWc",
      "title": "Brakes ON During Takeoff?",
      "published": "2026-08-17T18:36:13+00:00",
-     "views": "92",
+     "views": "46898",
      "short": true
     },
     {
      "videoId": "J83fMA7nCj4",
      "title": "UPS 767 Instrument Failure on Approach",
      "published": "2026-08-17T18:03:10+00:00",
-     "views": "14228",
+     "views": "25109",
      "short": true
     },
     {
      "videoId": "6cU1yHb50D4",
      "title": "Delta Pilot’s Flyover Request",
      "published": "2026-08-17T15:48:13+00:00",
-     "views": "75187",
+     "views": "92685",
      "short": true
     },
     {
      "videoId": "SJmsLT9uGVk",
      "title": "The Unsolved C-130 Crash",
      "published": "2026-08-17T14:00:22+00:00",
-     "views": "87495",
+     "views": "99986",
      "short": true
     },
     {
      "videoId": "zhssaWwxhyM",
      "title": "Passenger Refuses to Leave Bathroom",
      "published": "2026-08-16T22:09:02+00:00",
-     "views": "156330",
+     "views": "159032",
      "short": true
     },
     {
      "videoId": "35QAoyGNHhk",
      "title": "An Even Longer 777X?",
      "published": "2026-08-16T20:22:23+00:00",
-     "views": "237524",
+     "views": "240608",
      "short": true
     }
    ],
@@ -113,7 +113,7 @@
      "videoId": "RaCauQLbzNY",
      "title": "My Bank Screwed me Over...",
      "published": "2026-08-14T15:30:22+00:00",
-     "views": "53676",
+     "views": "53864",
      "short": false
     },
     {
@@ -127,7 +127,7 @@
      "videoId": "-wL__GRldX4",
      "title": "The Linux Community is MAD at me...",
      "published": "2026-07-31T15:30:00+00:00",
-     "views": "56043",
+     "views": "56059",
      "short": false
     },
     {
@@ -163,7 +163,7 @@
      "videoId": "KGHV_DmomuQ",
      "title": "Sony FX5: Sony’s given their best but…",
      "published": "2026-08-05T13:00:10+00:00",
-     "views": "26668",
+     "views": "26678",
      "short": false
     },
     {
@@ -184,7 +184,7 @@
      "videoId": "bhPDjxO57JA",
      "title": "The Best Budget Light Ever?",
      "published": "2026-05-26T13:00:32+00:00",
-     "views": "8617",
+     "views": "8620",
      "short": true
     },
     {
@@ -241,7 +241,7 @@
      "videoId": "6q5dSSZGqDs",
      "title": "How to play Vaporeon properly  #pokemon #nuzlocke",
      "published": "2026-03-30T14:52:25+00:00",
-     "views": "37242",
+     "views": "37243",
      "short": true
     },
     {
@@ -263,7 +263,7 @@
      "videoId": "TSlOvrVzmOw",
      "title": "300 EPISODES OF TOWER! SIMULATOR 3 - Tower! Simulator 3, Episode 300",
      "published": "2026-08-11T09:39:30+00:00",
-     "views": "51",
+     "views": "286",
      "short": false
     },
     {
@@ -303,7 +303,7 @@
     }
    ],
    "live": {
-    "videoId": "wtmA0Xn_jUk",
+    "videoId": "MOTpQpZVQsk",
     "title": "Live now"
    }
   },
@@ -323,7 +323,7 @@
      "videoId": "fJDCExWquhk",
      "title": "HEATWAVE  SOLVED",
      "published": "2026-06-24T17:57:47+00:00",
-     "views": "3131484",
+     "views": "3131542",
      "short": true
     },
     {
@@ -337,7 +337,7 @@
      "videoId": "W6dNfWAsJRs",
      "title": "Magnet Board cleans up!",
      "published": "2026-04-19T17:01:24+00:00",
-     "views": "863343",
+     "views": "863346",
      "short": true
     },
     {
@@ -351,7 +351,7 @@
      "videoId": "g_xMKhKUC7s",
      "title": "SECRET Garage Car Lift Part 1",
      "published": "2026-03-26T16:00:57+00:00",
-     "views": "4666680",
+     "views": "4666795",
      "short": false
     }
    ],
@@ -366,14 +366,14 @@
      "videoId": "puvfQLJTS-w",
      "title": "Mixing a Drum Corps in Real Time",
      "published": "2026-08-17T16:07:01+00:00",
-     "views": "428",
+     "views": "626",
      "short": true
     },
     {
      "videoId": "jpqYwLvl-so",
      "title": "Jeopardy’s Music runs off Ableton Live #musicproducer",
      "published": "2026-08-15T23:12:38+00:00",
-     "views": "3081",
+     "views": "3115",
      "short": true
     },
     {
@@ -394,14 +394,14 @@
      "videoId": "tEbPsoeixVg",
      "title": "The Hidden Mics of Hamilton",
      "published": "2026-08-15T22:54:59+00:00",
-     "views": "1294",
+     "views": "1303",
      "short": true
     },
     {
      "videoId": "PWnQvTduAiU",
      "title": "Drum Corps Used to Be All Acoustic. Now It's Mixed Like a Stadium Tour",
      "published": "2026-08-13T17:13:45+00:00",
-     "views": "17354",
+     "views": "17381",
      "short": false
     }
    ],
@@ -416,42 +416,42 @@
      "videoId": "7FStfdGjAwc",
      "title": "Transforming dead hardware into high-performance PCs",
      "published": "2026-07-17T12:00:19+00:00",
-     "views": "1178630",
+     "views": "1178879",
      "short": false
     },
     {
      "videoId": "rqCt61ZbU10",
      "title": "Building an LED SUPERNOVA!",
      "published": "2026-02-28T12:15:13+00:00",
-     "views": "2140036",
+     "views": "2140064",
      "short": false
     },
     {
      "videoId": "o6Z0MxWCbrc",
      "title": "DIY Perks builds a beautiful mud hut... (a break from technology)",
      "published": "2025-08-31T12:31:04+00:00",
-     "views": "1015012",
+     "views": "1015077",
      "short": false
     },
     {
      "videoId": "EyR2-C9ggi0",
      "title": "True Wireless Power is FINALLY here (building a TRULY wire-free setup)",
      "published": "2025-06-03T13:00:33+00:00",
-     "views": "3210799",
+     "views": "3210840",
      "short": false
     },
     {
      "videoId": "qXrn4MqY1Wo",
      "title": "DIY \"infinity contrast\" TV -  with 100% recycled parts",
      "published": "2025-03-01T07:15:03+00:00",
-     "views": "3623994",
+     "views": "3624062",
      "short": false
     },
     {
      "videoId": "1H4FuNAByUs",
      "title": "DIY Surround Sound... USING LASERS!",
      "published": "2024-12-13T19:45:00+00:00",
-     "views": "3078793",
+     "views": "3078826",
      "short": false
     }
    ],
@@ -516,7 +516,7 @@
      "videoId": "GQkziPFgtuA",
      "title": "Ranking the MOVE card",
      "published": "2026-08-13T13:00:16+00:00",
-     "views": "2238",
+     "views": "2249",
      "short": true
     },
     {
@@ -551,7 +551,7 @@
      "videoId": "hJpcbLQE8uQ",
      "title": "Ranking Curse of the Freewheeler",
      "published": "2026-07-09T14:59:50+00:00",
-     "views": "1994",
+     "views": "1993",
      "short": true
     }
    ],
@@ -573,7 +573,7 @@
      "videoId": "9W_KqmLzkO8",
      "title": "I WROTE MY NAME USING HUGE BLOCKS #3dprinting #lego",
      "published": "2026-06-05T11:14:28+00:00",
-     "views": "99548",
+     "views": "99550",
      "short": true
     },
     {
@@ -616,7 +616,7 @@
      "videoId": "lswf3MYXNlc",
      "title": "For Linda 🫡🎭",
      "published": "2026-08-16T19:54:14+00:00",
-     "views": "78251",
+     "views": "82211",
      "short": true
     },
     {
@@ -630,28 +630,28 @@
      "videoId": "Kzr_wgja9cY",
      "title": "My GUYYY at the end 💚",
      "published": "2026-08-12T17:56:57+00:00",
-     "views": "78674",
+     "views": "78785",
      "short": true
     },
     {
      "videoId": "drMDDxaCfcM",
      "title": "The last one is the WORST😭🤣🎭",
      "published": "2026-08-11T18:05:44+00:00",
-     "views": "1100887",
+     "views": "1102123",
      "short": true
     },
     {
      "videoId": "Myi6x182b9M",
      "title": "Which tip is your fave?👀🎭",
      "published": "2026-08-10T17:40:54+00:00",
-     "views": "71010",
+     "views": "71051",
      "short": true
     },
     {
      "videoId": "862weY14Qro",
      "title": "You can’t boing a boing🫡🤣",
      "published": "2026-08-09T18:06:27+00:00",
-     "views": "178425",
+     "views": "178535",
      "short": true
     }
    ],
@@ -666,7 +666,7 @@
      "videoId": "JE1hj6uDsc4",
      "title": "Exploring Rome Alone At 5am",
      "published": "2026-08-09T15:00:21+00:00",
-     "views": "152730",
+     "views": "152870",
      "short": false
     },
     {
@@ -694,7 +694,7 @@
      "videoId": "Jqe946bRnqI",
      "title": "The New DIAMOND YouTube Play Button!",
      "published": "2025-10-24T16:15:02+00:00",
-     "views": "342158",
+     "views": "342200",
      "short": false
     },
     {
@@ -716,14 +716,14 @@
      "videoId": "E2cdysGzQR8",
      "title": "PewDiePie LOVES My Meme",
      "published": "2026-08-15T16:15:26+00:00",
-     "views": "28428",
+     "views": "28498",
      "short": true
     },
     {
      "videoId": "4UJg1xab3-Y",
      "title": "The TRUTH About Sidemen Cruise Ship Hide & Seek...",
      "published": "2026-08-12T18:45:29+00:00",
-     "views": "193300",
+     "views": "193627",
      "short": false
     },
     {
@@ -737,14 +737,14 @@
      "videoId": "hSBFqUUpj8I",
      "title": "So Much Has Happened This Week!",
      "published": "2026-08-11T19:30:09+00:00",
-     "views": "43842",
+     "views": "43875",
      "short": false
     },
     {
      "videoId": "hRgg8JO5xjY",
      "title": "Harry doesn't like my world record... 😠",
      "published": "2026-08-08T16:15:37+00:00",
-     "views": "181529",
+     "views": "181571",
      "short": true
     },
     {
@@ -766,14 +766,14 @@
      "videoId": "HJN8e982K5g",
      "title": "I Rented a Movie Theater to Premiere YouTube Videos",
      "published": "2026-07-14T18:27:06+00:00",
-     "views": "14687",
+     "views": "14691",
      "short": true
     },
     {
      "videoId": "8sEOV-r7yFI",
      "title": "The Future of MrBeast's Multi-Billion Dollar Empire",
      "published": "2026-05-24T14:00:20+00:00",
-     "views": "783150",
+     "views": "783292",
      "short": false
     },
     {
@@ -787,7 +787,7 @@
      "videoId": "NdjcGrpNSF4",
      "title": "Inside MrBeast's YouTube Machine",
      "published": "2026-04-26T19:15:03+00:00",
-     "views": "736186",
+     "views": "736276",
      "short": false
     },
     {
@@ -801,7 +801,7 @@
      "videoId": "aXnhkt91VLk",
      "title": "Inside The Sidemen's $6M Charity Match",
      "published": "2026-04-12T17:45:00+00:00",
-     "views": "519244",
+     "views": "519286",
      "short": false
     }
    ],
@@ -816,42 +816,42 @@
      "videoId": "MQeJYEN_lrg",
      "title": "This DIY Datacenter is NUTS",
      "published": "2026-08-17T17:16:01+00:00",
-     "views": "65824",
+     "views": "89503",
      "short": false
     },
     {
      "videoId": "ea3EvwkW_28",
      "title": "Legends Never Die",
      "published": "2026-08-15T17:00:34+00:00",
-     "views": "644221",
+     "views": "647853",
      "short": false
     },
     {
      "videoId": "J261Rg0LTDA",
      "title": "\"Pro\" phones are stupid - PIxel 11 Announcement",
      "published": "2026-08-13T08:19:30+00:00",
-     "views": "637552",
+     "views": "638301",
      "short": false
     },
     {
      "videoId": "ofNcSiFpDUk",
      "title": "Tech Russian Roulette with True or False Questions!",
      "published": "2026-08-11T18:08:30+00:00",
-     "views": "492421",
+     "views": "493091",
      "short": true
     },
     {
      "videoId": "rbQtX_thQtQ",
      "title": "It Shouldn’t be this Hard to Buy A Printer…",
      "published": "2026-08-11T16:56:25+00:00",
-     "views": "1494798",
+     "views": "1496159",
      "short": false
     },
     {
      "videoId": "NWoT1ZVd1Lo",
      "title": "Her phone died, so I'm making her fix it",
      "published": "2026-08-09T17:00:02+00:00",
-     "views": "1029431",
+     "views": "1030063",
      "short": false
     }
    ],
@@ -902,28 +902,28 @@
      "videoId": "EAOutIsbJLk",
      "title": "I made this cause I needed a nap lol",
      "published": "2026-02-06T19:04:21+00:00",
-     "views": "786512",
+     "views": "786531",
      "short": false
     },
     {
      "videoId": "k5eHSd-p3x0",
      "title": "I Made a Desk For Endless Fidgeting",
      "published": "2025-12-12T20:05:39+00:00",
-     "views": "2667682",
+     "views": "2667795",
      "short": false
     },
     {
      "videoId": "D3XFIa7Fz80",
      "title": "They said I needed an Engineer for this......lol",
      "published": "2025-09-15T23:26:54+00:00",
-     "views": "2226330",
+     "views": "2226366",
      "short": false
     },
     {
      "videoId": "QbMK26dwUgg",
      "title": "The Most Exhausting 2 Weeks of my Life",
      "published": "2025-06-06T15:23:19+00:00",
-     "views": "850212",
+     "views": "850241",
      "short": false
     },
     {
@@ -937,7 +937,7 @@
      "videoId": "FT98_SW67Dg",
      "title": "I Made The Most Satisfying Desk",
      "published": "2024-11-17T20:21:41+00:00",
-     "views": "5916078",
+     "views": "5916125",
      "short": false
     }
    ],
@@ -952,42 +952,42 @@
      "videoId": "KLJxCWeYGoE",
      "title": "Why the Moon Never Changes",
      "published": "2026-08-14T13:00:38+00:00",
-     "views": "3423071",
+     "views": "3433064",
      "short": true
     },
     {
      "videoId": "KwqeKTM9M_8",
      "title": "$100 Slime Challenge",
      "published": "2026-08-12T17:16:31+00:00",
-     "views": "2175050",
+     "views": "2193845",
      "short": true
     },
     {
      "videoId": "0BAkKJ_3Tic",
      "title": "Lowest Heart Rate Wins!",
      "published": "2026-07-30T13:00:33+00:00",
-     "views": "6725558",
+     "views": "6731001",
      "short": true
     },
     {
      "videoId": "GRbokvmv-2M",
      "title": "Stop Your Car From Getting Stolen!",
      "published": "2026-07-16T13:00:34+00:00",
-     "views": "1477860",
+     "views": "1478422",
      "short": true
     },
     {
      "videoId": "q3nD5qD758o",
      "title": "I Discovered a Lost Plane",
      "published": "2026-07-10T13:00:23+00:00",
-     "views": "22161065",
+     "views": "22176356",
      "short": true
     },
     {
      "videoId": "eMG3FWEwJnk",
      "title": "How To Crush an Egg with Your Bare Hand",
      "published": "2026-07-01T17:03:49+00:00",
-     "views": "2386115",
+     "views": "2387013",
      "short": true
     }
    ],
@@ -1002,7 +1002,7 @@
      "videoId": "h_UzcB138mk",
      "title": "Turning Microplastics into a $5,000 Table",
      "published": "2026-08-07T15:01:25+00:00",
-     "views": "679084",
+     "views": "679488",
      "short": false
     },
     {
@@ -1016,7 +1016,7 @@
      "videoId": "nbk53J_aQRY",
      "title": "What’s inside my secret library?",
      "published": "2026-07-09T20:23:56+00:00",
-     "views": "33810",
+     "views": "33808",
      "short": true
     },
     {
@@ -1030,14 +1030,14 @@
      "videoId": "-BiKgWXTbgs",
      "title": "Turning microplastics into luxury furniture",
      "published": "2026-07-02T21:04:52+00:00",
-     "views": "629537",
+     "views": "629759",
      "short": true
     },
     {
      "videoId": "R1ul9iBhpVM",
      "title": "I Hate Modern Desks... So I Built This.",
      "published": "2026-06-20T17:31:58+00:00",
-     "views": "2896233",
+     "views": "2896511",
      "short": false
     }
    ],
@@ -1052,35 +1052,35 @@
      "videoId": "NaLqPMWDRVg",
      "title": "Starting a brand new factory in Minecraft Create Mod!",
      "published": "2026-08-16T12:15:05+00:00",
-     "views": "35952",
+     "views": "36300",
      "short": false
     },
     {
      "videoId": "dmC8Yljff5Q",
      "title": "I automated the entire ANDESITE AGE in Minecraft Create Mod! [#31]",
      "published": "2026-08-12T12:15:17+00:00",
-     "views": "64428",
+     "views": "64484",
      "short": false
     },
     {
      "videoId": "PawVroFSqYo",
      "title": "Stocking my shops from 1000 blocks away with Create Mod!",
      "published": "2026-08-09T12:15:30+00:00",
-     "views": "46565",
+     "views": "46593",
      "short": false
     },
     {
      "videoId": "t7qK96JKMQQ",
      "title": "REAL roller coasters in Minecraft Create Mod!",
      "published": "2026-08-05T12:15:38+00:00",
-     "views": "112765",
+     "views": "112823",
      "short": false
     },
     {
      "videoId": "t4auQn446YY",
      "title": "Automated STORAGE & DELIVERY network hub in Minecraft Create Mod!",
      "published": "2026-08-02T12:15:01+00:00",
-     "views": "58635",
+     "views": "58657",
      "short": false
     },
     {
@@ -1102,42 +1102,42 @@
      "videoId": "LiH-P4rSkLI",
      "title": "Can You Pass This Classroom Quiz?",
      "published": "2026-08-11T16:00:06+00:00",
-     "views": "32520740",
+     "views": "32628340",
      "short": true
     },
     {
      "videoId": "Af6i6ChAVTw",
      "title": "Last To Leave Mansion, Keeps It",
      "published": "2026-08-08T16:00:01+00:00",
-     "views": "81516245",
+     "views": "81600690",
      "short": false
     },
     {
      "videoId": "f7y2XikE7sY",
      "title": "Paying For Food With My Car",
      "published": "2026-07-31T16:00:11+00:00",
-     "views": "38298079",
+     "views": "38341388",
      "short": true
     },
     {
      "videoId": "lVylRtlPOIE",
      "title": "I Granted 100 Kids Their Biggest Wish!",
      "published": "2026-07-25T16:00:05+00:00",
-     "views": "54038763",
+     "views": "54056194",
      "short": false
     },
     {
      "videoId": "Df5Y-2ndQyU",
      "title": "Read My Book, You Could Win $1,000,000",
      "published": "2026-07-17T16:00:06+00:00",
-     "views": "21008480",
+     "views": "21016905",
      "short": true
     },
     {
      "videoId": "egvLKQe6I4I",
      "title": "Don't Pop the Balloon",
      "published": "2026-07-10T16:00:09+00:00",
-     "views": "123781053",
+     "views": "123868319",
      "short": true
     }
    ],
@@ -1152,42 +1152,42 @@
      "videoId": "KDAlh2S4SfM",
      "title": "Can You Spot the Chocolate Object?",
      "published": "2026-08-10T16:00:22+00:00",
-     "views": "12211043",
+     "views": "12224509",
      "short": true
     },
     {
      "videoId": "vIsmb8pBtbs",
      "title": "First to Buy Lunchly Wins a Surprise",
      "published": "2026-08-07T16:00:47+00:00",
-     "views": "5118812",
+     "views": "5122918",
      "short": true
     },
     {
      "videoId": "BIwIqst2HI4",
      "title": "I Turned Chocolate Into Water",
      "published": "2026-08-04T16:00:00+00:00",
-     "views": "8120365",
+     "views": "8123798",
      "short": true
     },
     {
      "videoId": "NMR32p4kwAQ",
      "title": "Mr Rizz IRL",
      "published": "2026-08-02T22:59:39+00:00",
-     "views": "25528916",
+     "views": "25565313",
      "short": true
     },
     {
      "videoId": "RIY6DHzQG2I",
      "title": "I Made S'mores Cookies",
      "published": "2026-08-02T16:01:04+00:00",
-     "views": "3574953",
+     "views": "3576971",
      "short": true
     },
     {
      "videoId": "-xu9kPw0NEc",
      "title": "Parents React to Peanut Butter Cup Ingredients",
      "published": "2026-07-29T16:00:19+00:00",
-     "views": "4525359",
+     "views": "4527482",
      "short": true
     }
    ],
@@ -1202,42 +1202,42 @@
      "videoId": "n3F996g8wjg",
      "title": "The Honor Robot Phone is absolutely insane.",
      "published": "2026-08-14T11:15:26+00:00",
-     "views": "3213138",
+     "views": "3223231",
      "short": false
     },
     {
      "videoId": "oaaOwLnuyPU",
      "title": "Google Pixel 11 Hands on - The Phone Crisis Begins.",
      "published": "2026-08-12T14:00:03+00:00",
-     "views": "2928968",
+     "views": "2931589",
      "short": false
     },
     {
      "videoId": "9YcAJt2AN4k",
      "title": "$10,000 Power Washer vs Fruit",
      "published": "2026-08-06T11:04:42+00:00",
-     "views": "7149502",
+     "views": "7154335",
      "short": true
     },
     {
      "videoId": "Eo5w2S-h5dI",
      "title": "The Gaming Market is Starting to Break.",
      "published": "2026-07-31T10:48:54+00:00",
-     "views": "6408158",
+     "views": "6409593",
      "short": false
     },
     {
      "videoId": "QHuIU2oE4Hg",
      "title": "Samsung Z Fold/Flip 8 Hands on - Fold ULTRA??",
      "published": "2026-07-22T13:00:15+00:00",
-     "views": "3171345",
+     "views": "3171582",
      "short": false
     },
     {
      "videoId": "twvqtzjBZx8",
      "title": "Can a magnet DESTROY your smartphone?",
      "published": "2026-07-17T12:36:13+00:00",
-     "views": "5649299",
+     "views": "5650518",
      "short": true
     }
    ],
@@ -1259,7 +1259,7 @@
      "videoId": "tCFNO1xFnc8",
      "title": "The Robot Cleaner of the Future!?",
      "published": "2023-11-20T21:12:24+00:00",
-     "views": "2043325",
+     "views": "2043338",
      "short": true
     },
     {
@@ -1273,7 +1273,7 @@
      "videoId": "vgjUwm9uBOs",
      "title": "Mercedes made a Laptop!?",
      "published": "2023-09-28T12:57:17+00:00",
-     "views": "2148283",
+     "views": "2148293",
      "short": true
     },
     {
@@ -1302,42 +1302,42 @@
      "videoId": "cVvGBlj47CU",
      "title": "Hermitcraft 11: Episode 25 - Final Stages",
      "published": "2026-08-16T19:00:33+00:00",
-     "views": "519091",
+     "views": "525363",
      "short": false
     },
     {
      "videoId": "jNzmZD4RFgU",
      "title": "Hermitcraft 11: Episode 24 - HELP",
      "published": "2026-08-07T19:00:20+00:00",
-     "views": "1178032",
+     "views": "1178622",
      "short": false
     },
     {
      "videoId": "NAX-FHiXrOg",
      "title": "Hermitcraft 11: Episode 23 - Creative Process",
      "published": "2026-07-26T19:00:24+00:00",
-     "views": "976419",
+     "views": "976535",
      "short": false
     },
     {
      "videoId": "8Oiy9VVAoiY",
      "title": "Hermitcraft 11: Episode 22 - Making Art",
      "published": "2026-07-18T19:00:24+00:00",
-     "views": "1328737",
+     "views": "1328857",
      "short": false
     },
     {
      "videoId": "xzz2iKVlBrY",
      "title": "Hermitcraft 11: Episode 21 - big problems",
      "published": "2026-07-08T19:00:34+00:00",
-     "views": "1128624",
+     "views": "1128698",
      "short": false
     },
     {
      "videoId": "nL-Dxrf-gl8",
      "title": "I moved to France",
      "published": "2026-07-04T17:00:28+00:00",
-     "views": "1409679",
+     "views": "1409757",
      "short": false
     }
    ],
@@ -1352,42 +1352,42 @@
      "videoId": "sHikRsIIuMA",
      "title": "Crab Mac & Cheese",
      "published": "2026-08-14T16:00:13+00:00",
-     "views": "3172590",
+     "views": "3183256",
      "short": true
     },
     {
      "videoId": "ZeE4cPkkAbQ",
      "title": "3 Levels Of Cheese",
      "published": "2026-08-11T16:00:18+00:00",
-     "views": "24081424",
+     "views": "24186737",
      "short": true
     },
     {
      "videoId": "KqTAVprbJmg",
      "title": "$1 vs $100,000 Hotel Food",
      "published": "2026-08-08T16:00:00+00:00",
-     "views": "24915096",
+     "views": "24965152",
      "short": false
     },
     {
      "videoId": "q6k6nXdEmEA",
      "title": "Blindfold Taste Test (ft. John Cena)",
      "published": "2026-08-04T16:00:33+00:00",
-     "views": "9490276",
+     "views": "9502996",
      "short": true
     },
     {
      "videoId": "RnT_z91Vxbo",
      "title": "Brazilian Cheese Wheel",
      "published": "2026-07-31T16:00:07+00:00",
-     "views": "12185727",
+     "views": "12202382",
      "short": true
     },
     {
      "videoId": "7mdZX24GnqY",
      "title": "Perfect Slice Challenge (ft. Mark Rober)",
      "published": "2026-07-28T16:00:09+00:00",
-     "views": "21039471",
+     "views": "21045127",
      "short": true
     }
    ],
@@ -1402,42 +1402,42 @@
      "videoId": "_IvIVI8PIRI",
      "title": "Surprising my old teacher",
      "published": "2026-08-08T17:49:18+00:00",
-     "views": "19716903",
+     "views": "19744279",
      "short": true
     },
     {
      "videoId": "mDz5MgFZUMo",
      "title": "dinner",
      "published": "2026-08-07T15:00:29+00:00",
-     "views": "1317184",
+     "views": "1318239",
      "short": true
     },
     {
      "videoId": "uugVAg1LI68",
      "title": "Testing Mark Rober’s “Jelly Bean Guessing Game HACK”",
      "published": "2026-07-29T22:49:54+00:00",
-     "views": "3589711",
+     "views": "3590759",
      "short": true
     },
     {
      "videoId": "gye8x0Jr0Uo",
      "title": "Pranking SIDEMEN in America 🇺🇸😂",
      "published": "2026-07-26T22:48:40+00:00",
-     "views": "2364951",
+     "views": "2365567",
      "short": true
     },
     {
      "videoId": "Wo0GpsMRGGw",
      "title": "McDonald’s hack ⚾️🍔 #mcdspartner",
      "published": "2026-07-22T21:31:17+00:00",
-     "views": "1221012",
+     "views": "1221347",
      "short": true
     },
     {
      "videoId": "3x3BSLl94Yk",
      "title": "I Tried the \"Top 10 Things To Do\" in America",
      "published": "2026-07-18T15:00:21+00:00",
-     "views": "2016829",
+     "views": "2017461",
      "short": false
     }
    ],
@@ -1523,7 +1523,7 @@
      "videoId": "5N3aZTT3TRw",
      "title": "A Moderately Successful Face Reveal",
      "published": "2018-03-27T14:30:01+00:00",
-     "views": "339517",
+     "views": "339519",
      "short": false
     }
    ],
@@ -1545,14 +1545,14 @@
      "videoId": "qpLow1cI6Js",
      "title": "The Schoolhouse's Next Chapter Starts Now (and the bus got HARD) ft. Jackery Home Power 3600 Pro Max",
      "published": "2026-07-24T16:00:06+00:00",
-     "views": "722583",
+     "views": "722939",
      "short": false
     },
     {
      "videoId": "kdGflpphxSk",
      "title": "Dangers of turning a school into your house…",
      "published": "2026-07-17T17:50:49+00:00",
-     "views": "125007",
+     "views": "125018",
      "short": true
     },
     {
@@ -1573,7 +1573,7 @@
      "videoId": "nAPcPVEWTIM",
      "title": "We Turned an Old School Into Our Home... Now We're Building One on Wheels",
      "published": "2026-06-18T16:00:06+00:00",
-     "views": "223172",
+     "views": "223198",
      "short": false
     }
    ],
@@ -1588,42 +1588,42 @@
      "videoId": "mWAkJSWrIg4",
      "title": "FNAF Among Us In Real Life",
      "published": "2026-08-07T14:40:33+00:00",
-     "views": "4488011",
+     "views": "4493209",
      "short": false
     },
     {
      "videoId": "7OJxgboCdig",
      "title": "Nothing gets past Judah",
      "published": "2026-08-05T20:06:35+00:00",
-     "views": "695704",
+     "views": "696145",
      "short": true
     },
     {
      "videoId": "ynn6nquPYzA",
      "title": "THIS CUSTOM NERF BLASTER IS AMAZING",
      "published": "2026-07-29T15:56:19+00:00",
-     "views": "1295344",
+     "views": "1296017",
      "short": true
     },
     {
      "videoId": "H-871VAiN2I",
      "title": "Backrooms In Real Life",
      "published": "2026-07-17T13:00:21+00:00",
-     "views": "7643630",
+     "views": "7646242",
      "short": false
     },
     {
      "videoId": "5y9VcT3FTlo",
      "title": "If NERF Fights Had Battle Royales",
      "published": "2026-07-03T16:33:57+00:00",
-     "views": "4795870",
+     "views": "4796835",
      "short": false
     },
     {
      "videoId": "11nk44MBIKQ",
      "title": "99 Nights In The Forest 3 In Real Life [Roblox]",
      "published": "2026-06-19T13:59:17+00:00",
-     "views": "7369559",
+     "views": "7370746",
      "short": false
     }
    ],
@@ -1638,28 +1638,28 @@
      "videoId": "WbO5wGNlrvk",
      "title": "I haven't wanted anything from them for ten years  - Motorola Razr Fold",
      "published": "2026-08-13T18:37:19+00:00",
-     "views": "351653",
+     "views": "352906",
      "short": false
     },
     {
      "videoId": "ezRmgQFaOc0",
      "title": "Best Mac Bang for Your Buck Monitor - ASUS ProArt PA279CDV",
      "published": "2026-08-12T17:57:20+00:00",
-     "views": "51610",
+     "views": "51674",
      "short": false
     },
     {
      "videoId": "WmzphlOwku8",
      "title": "A Homelab in a Box - 45HomeLab X15",
      "published": "2026-08-11T19:24:08+00:00",
-     "views": "215201",
+     "views": "215390",
      "short": false
     },
     {
      "videoId": "arA6Q45qTz0",
      "title": "I Finally Get Gaming Tablets - REDMAGIC Astra 2",
      "published": "2026-08-10T17:04:24+00:00",
-     "views": "53967",
+     "views": "54000",
      "short": false
     },
     {
@@ -1673,7 +1673,7 @@
      "videoId": "R_bsecuV1OM",
      "title": "Samsung’s ultimate smartwatches - Galaxy Watch9 and Ultra 2",
      "published": "2026-08-06T14:54:26+00:00",
-     "views": "63378",
+     "views": "63402",
      "short": false
     }
    ],
@@ -1695,14 +1695,14 @@
      "videoId": "U0inIp6RjSo",
      "title": "Live Audio YouTubers Stream #1",
      "published": "2026-08-12T14:23:38+00:00",
-     "views": "1785",
+     "views": "1790",
      "short": false
     },
     {
      "videoId": "FcNscIC7xqY",
      "title": "I had trouble during load in...",
      "published": "2026-08-06T13:00:21+00:00",
-     "views": "36207",
+     "views": "36209",
      "short": true
     },
     {
@@ -1738,35 +1738,35 @@
      "videoId": "dyNxCqND6Uc",
      "title": "A NEW MODDED ADVENTURE!! | Minecraft Festivale SMP | #1",
      "published": "2026-08-15T16:04:28+00:00",
-     "views": "128061",
+     "views": "128798",
      "short": false
     },
     {
      "videoId": "Z9lnEqIYtX8",
      "title": "This Minecraft HORROR Mod Is Actually TERRIFYING!",
      "published": "2026-08-13T18:08:05+00:00",
-     "views": "66135",
+     "views": "66232",
      "short": false
     },
     {
      "videoId": "CXpSPqv1rDA",
      "title": "This Minecraft HORROR Mod Is INSANE!",
      "published": "2026-08-08T17:00:38+00:00",
-     "views": "449271",
+     "views": "449365",
      "short": false
     },
     {
      "videoId": "HKwfEgJfiu8",
      "title": "The MEGA Minecraft ADVANCEMENT RACE!",
      "published": "2026-08-01T16:00:34+00:00",
-     "views": "86416",
+     "views": "86444",
      "short": false
     },
     {
      "videoId": "wCy3l8xfodc",
      "title": "The Etho Fan Club Met Up 💅",
      "published": "2026-07-26T18:22:39+00:00",
-     "views": "39148",
+     "views": "39166",
      "short": true
     },
     {
@@ -1788,7 +1788,7 @@
      "videoId": "pfBh5vvUwac",
      "title": "I Built a COLOR FACTORY in Minecraft Create Mod",
      "published": "2026-08-13T13:15:29+00:00",
-     "views": "18286",
+     "views": "18331",
      "short": false
     },
     {
@@ -1823,7 +1823,7 @@
      "videoId": "NWcNIBCUnjw",
      "title": "I Built a 3000+ BLOCK Train Track in Minecraft Create Mod",
      "published": "2026-06-11T13:15:32+00:00",
-     "views": "279579",
+     "views": "279695",
      "short": false
     }
    ],
@@ -1838,14 +1838,14 @@
      "videoId": "sKWsK0vjwrk",
      "title": "We're Making the World's Most Profitable Movie",
      "published": "2026-07-07T02:48:24+00:00",
-     "views": "381745",
+     "views": "381763",
      "short": true
     },
     {
      "videoId": "C5-69AZ93B4",
      "title": "We Re-Opened Blockbuster in 2026",
      "published": "2026-04-17T02:14:23+00:00",
-     "views": "81046",
+     "views": "81054",
      "short": true
     },
     {
@@ -1859,21 +1859,21 @@
      "videoId": "cwuQbknO-bQ",
      "title": "We Tested Telepathy Typing #MxMaster4 #LogitechPartner",
      "published": "2026-02-26T00:42:34+00:00",
-     "views": "61334",
+     "views": "61342",
      "short": true
     },
     {
      "videoId": "NvTduUDqozE",
      "title": "We Surprised Dude Perfect With Their Own Movie",
      "published": "2025-12-16T22:00:34+00:00",
-     "views": "1392333",
+     "views": "1392392",
      "short": false
     },
     {
      "videoId": "Q9yK7OPkdzc",
      "title": "If Dude Perfect's Life Was a Movie...",
      "published": "2025-11-29T21:02:43+00:00",
-     "views": "777428",
+     "views": "777464",
      "short": false
     }
    ],
@@ -1938,35 +1938,35 @@
      "videoId": "4jMhJLGhRlo",
      "title": "FAIL This Task | Full Task | Taskmaster",
      "published": "2026-08-17T18:00:21+00:00",
-     "views": "2488",
+     "views": "5224",
      "short": false
     },
     {
      "videoId": "I4Eoz9wrEyw",
      "title": "STEVIE MARTIN's Ultimate Taskmaster Episode | Taskmaster",
      "published": "2026-08-14T17:00:37+00:00",
-     "views": "109108",
+     "views": "109604",
      "short": false
     },
     {
      "videoId": "MAFRhvvp-Bk",
      "title": "One leg or two? #taskmaster",
      "published": "2026-08-13T18:00:34+00:00",
-     "views": "2264845",
+     "views": "2276088",
      "short": true
     },
     {
      "videoId": "7o6J5lBKobk",
      "title": "What is 'cool' anyway? #taskmaster",
      "published": "2026-08-11T18:00:36+00:00",
-     "views": "448608",
+     "views": "449158",
      "short": true
     },
     {
      "videoId": "iY-0pSpCJiI",
      "title": "What's in the Box? | Full Task | Taskmaster",
      "published": "2026-08-10T18:00:26+00:00",
-     "views": "93460",
+     "views": "93614",
      "short": false
     },
     {
@@ -1988,35 +1988,35 @@
      "videoId": "6-AeY_5W7dY",
      "title": "They Should Have Bought A Hard Drive - WAN Show August 14, 2026",
      "published": "2026-08-15T01:53:01+00:00",
-     "views": "151879",
+     "views": "152726",
      "short": false
     },
     {
      "videoId": "VX7woqJ59lk",
      "title": "My Family Left Me For a Week - WAN Show August 7, 2026",
      "published": "2026-08-08T03:53:39+00:00",
-     "views": "254460",
+     "views": "254593",
      "short": false
     },
     {
      "videoId": "6gQBrqU99iU",
      "title": "Upgrade Your PC Now For Minecraft - WAN Show July 31, 2026",
      "published": "2026-08-01T04:30:09+00:00",
-     "views": "305162",
+     "views": "305211",
      "short": false
     },
     {
      "videoId": "MBy1mk1qDmA",
      "title": "NVIDIA’s New CPU Makes Me Excited Again - WAN Show July 24, 2026",
      "published": "2026-07-25T04:42:01+00:00",
-     "views": "284215",
+     "views": "284320",
      "short": false
     },
     {
      "videoId": "L8-5CSAaViY",
      "title": "You Need To Move To Linux Today - WAN Show July 17, 2026",
      "published": "2026-07-18T05:04:02+00:00",
-     "views": "283336",
+     "views": "283350",
      "short": false
     },
     {
@@ -2038,42 +2038,42 @@
      "videoId": "2iHPVsyv4GU",
      "title": "How Taiwan is Preparing to Get Invaded",
      "published": "2026-08-08T17:59:43+00:00",
-     "views": "977696",
+     "views": "978490",
      "short": false
     },
     {
      "videoId": "dzmoALgtB1Q",
      "title": "Why Texas Wins",
      "published": "2026-08-04T14:30:25+00:00",
-     "views": "465602",
+     "views": "465773",
      "short": false
     },
     {
      "videoId": "VuliaG_-uao",
      "title": "Why American Houses Are So Flimsy",
      "published": "2026-07-15T16:49:56+00:00",
-     "views": "661956",
+     "views": "662021",
      "short": false
     },
     {
      "videoId": "DPeRd48YfqY",
      "title": "How Private Equity Ruined American Youth Sports",
      "published": "2026-06-30T20:13:31+00:00",
-     "views": "574955",
+     "views": "575032",
      "short": false
     },
     {
      "videoId": "ABRjwGo6Usg",
      "title": "The Problem With Spirit Airlines’ Business Model",
      "published": "2026-06-16T21:32:00+00:00",
-     "views": "646855",
+     "views": "646908",
      "short": false
     },
     {
      "videoId": "hIOW2HKgzPk",
      "title": "Why Fast Food Got So Expensive",
      "published": "2026-06-01T15:37:26+00:00",
-     "views": "1413641",
+     "views": "1413738",
      "short": false
     }
    ],
@@ -2102,7 +2102,7 @@
      "videoId": "S_y0q8aDDtA",
      "title": "Everyone is Wrong about Nvidia RTX Spark",
      "published": "2026-06-10T16:51:40+00:00",
-     "views": "153515",
+     "views": "153517",
      "short": false
     },
     {
@@ -2138,14 +2138,14 @@
      "videoId": "dj1h3R2zEOc",
      "title": "Why Did I Do This?!",
      "published": "2026-08-05T16:56:11+00:00",
-     "views": "304784",
+     "views": "304868",
      "short": false
     },
     {
      "videoId": "ISsZ5zWz1Xo",
      "title": "I Hope I Don't Regret This... RAV4 Engine Swap Pt. 1",
      "published": "2026-07-23T14:39:09+00:00",
-     "views": "310651",
+     "views": "310669",
      "short": false
     },
     {
@@ -2166,14 +2166,14 @@
      "videoId": "AiVYn4CS1ac",
      "title": "Their Camper Got Totalled...... So We Built This",
      "published": "2026-06-22T17:54:26+00:00",
-     "views": "239854",
+     "views": "239855",
      "short": false
     },
     {
      "videoId": "QsYUYXQO31U",
      "title": "It Shouldn’t Sound This Good",
      "published": "2026-06-13T19:27:05+00:00",
-     "views": "379050",
+     "views": "379088",
      "short": false
     }
    ],
