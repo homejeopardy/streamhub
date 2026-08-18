@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-18T05:29:34.750631+00:00",
+ "generated": "2026-08-18T05:57:12.589308+00:00",
  "channels": [
   {
    "name": "2 Much ColinFurze",
@@ -40,102 +40,14 @@
   {
    "name": "colinfurze",
    "channelId": "UCp68_FLety0O-n9QU6phsgw",
-   "resolvedTitle": "colinfurze",
-   "videos": [
-    {
-     "videoId": "vlThrKniVLc",
-     "title": "Amazing LEGO Tea Bag Machine",
-     "published": "2026-07-09T19:08:37+00:00",
-     "views": "949446",
-     "short": true
-    },
-    {
-     "videoId": "fJDCExWquhk",
-     "title": "HEATWAVE  SOLVED",
-     "published": "2026-06-24T17:57:47+00:00",
-     "views": "3132761",
-     "short": true
-    },
-    {
-     "videoId": "bzDM3HCjFcY",
-     "title": "Every Pickup needs this!!",
-     "published": "2026-04-23T15:01:08+00:00",
-     "views": "9662030",
-     "short": true
-    },
-    {
-     "videoId": "W6dNfWAsJRs",
-     "title": "Magnet Board cleans up!",
-     "published": "2026-04-19T17:01:24+00:00",
-     "views": "863404",
-     "short": true
-    },
-    {
-     "videoId": "fPn6GC4MUhs",
-     "title": "Magnetic Floating Skateboard.",
-     "published": "2026-03-29T18:12:32+00:00",
-     "views": "3543481",
-     "short": true
-    },
-    {
-     "videoId": "g_xMKhKUC7s",
-     "title": "SECRET Garage Car Lift Part 1",
-     "published": "2026-03-26T16:00:57+00:00",
-     "views": "4668268",
-     "short": false
-    }
-   ],
-   "live": null
+   "resolvedTitle": null,
+   "videos": []
   },
   {
    "name": "Dallas Taylor",
    "channelId": "UCFu_7pxU3-CByq7bxjVuE4Q",
-   "resolvedTitle": "Dallas Taylor",
-   "videos": [
-    {
-     "videoId": "puvfQLJTS-w",
-     "title": "Mixing a Drum Corps in Real Time",
-     "published": "2026-08-17T16:07:01+00:00",
-     "views": "2645",
-     "short": true
-    },
-    {
-     "videoId": "jpqYwLvl-so",
-     "title": "Jeopardy’s Music runs off Ableton Live #musicproducer",
-     "published": "2026-08-15T23:12:38+00:00",
-     "views": "3626",
-     "short": true
-    },
-    {
-     "videoId": "y2mnuJnSHj0",
-     "title": "How Jeopardy! Cues Sound Effects Live",
-     "published": "2026-08-15T23:12:34+00:00",
-     "views": "1063",
-     "short": true
-    },
-    {
-     "videoId": "IaLZXTO20sg",
-     "title": "How Jeopardy! Rehearses Before the Show",
-     "published": "2026-08-15T23:12:31+00:00",
-     "views": "5335",
-     "short": true
-    },
-    {
-     "videoId": "tEbPsoeixVg",
-     "title": "The Hidden Mics of Hamilton",
-     "published": "2026-08-15T22:54:59+00:00",
-     "views": "1372",
-     "short": true
-    },
-    {
-     "videoId": "PWnQvTduAiU",
-     "title": "Drum Corps Used to Be All Acoustic. Now It's Mixed Like a Stadium Tour",
-     "published": "2026-08-13T17:13:45+00:00",
-     "views": "17715",
-     "short": false
-    }
-   ],
-   "live": null
+   "resolvedTitle": null,
+   "videos": []
   },
   {
    "name": "DIY Perks",
@@ -206,52 +118,8 @@
   {
    "name": "Mark Rober",
    "channelId": "UCY1kMZp36IQSyNx_9h4mpCg",
-   "resolvedTitle": "Mark Rober",
-   "videos": [
-    {
-     "videoId": "KLJxCWeYGoE",
-     "title": "Why the Moon Never Changes",
-     "published": "2026-08-14T13:00:38+00:00",
-     "views": "3554347",
-     "short": true
-    },
-    {
-     "videoId": "KwqeKTM9M_8",
-     "title": "$100 Slime Challenge",
-     "published": "2026-08-12T17:16:31+00:00",
-     "views": "2306860",
-     "short": true
-    },
-    {
-     "videoId": "0BAkKJ_3Tic",
-     "title": "Lowest Heart Rate Wins!",
-     "published": "2026-07-30T13:00:33+00:00",
-     "views": "6774136",
-     "short": true
-    },
-    {
-     "videoId": "GRbokvmv-2M",
-     "title": "Stop Your Car From Getting Stolen!",
-     "published": "2026-07-16T13:00:34+00:00",
-     "views": "1485329",
-     "short": true
-    },
-    {
-     "videoId": "q3nD5qD758o",
-     "title": "I Discovered a Lost Plane",
-     "published": "2026-07-10T13:00:23+00:00",
-     "views": "22292467",
-     "short": true
-    },
-    {
-     "videoId": "eMG3FWEwJnk",
-     "title": "How To Crush an Egg with Your Bare Hand",
-     "published": "2026-07-01T17:03:49+00:00",
-     "views": "2396851",
-     "short": true
-    }
-   ],
-   "live": null
+   "resolvedTitle": null,
+   "videos": []
   },
   {
    "name": "Morley Kert",
@@ -285,7 +153,7 @@
   },
   {
    "name": "Mrwhosetheboss Plus",
-   "channelId": "UCMiJRAwDNSNzuYeN2uWa0pA",
+   "channelId": "UCZSlfzadjnw7G419c_OJ9eg",
    "resolvedTitle": null,
    "videos": []
   },
