@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-19T05:30:43.625177+00:00",
+ "generated": "2026-08-19T06:43:04.819395+00:00",
  "channels": [
   {
    "name": "2 Much ColinFurze",
@@ -10,52 +10,8 @@
   {
    "name": "Aaron Rheins",
    "channelId": "UCDXv3XxJ2RsaYqbGgX135Wg",
-   "resolvedTitle": "Aaron Rheins",
-   "videos": [
-    {
-     "videoId": "_4zWGrI9Jv8",
-     "title": "Prison for Photos of B-2",
-     "published": "2026-08-19T00:13:28+00:00",
-     "views": "133080",
-     "short": true
-    },
-    {
-     "videoId": "lfXbdZwDXkA",
-     "title": "Lufthansa A380 Lands Too Early",
-     "published": "2026-08-18T20:37:07+00:00",
-     "views": "298610",
-     "short": true
-    },
-    {
-     "videoId": "fMInGLPe_64",
-     "title": "Google Bids on Spirit Airlines",
-     "published": "2026-08-18T16:41:02+00:00",
-     "views": "382646",
-     "short": true
-    },
-    {
-     "videoId": "cuKgwmqWkOk",
-     "title": "They Slowed Down During Takeoff…",
-     "published": "2026-08-18T16:10:03+00:00",
-     "views": "243895",
-     "short": true
-    },
-    {
-     "videoId": "64CGldWJ2X0",
-     "title": "We’ve Been Caught…",
-     "published": "2026-08-17T23:32:03+00:00",
-     "views": "566037",
-     "short": true
-    },
-    {
-     "videoId": "2Jc_Ja3FjJE",
-     "title": "Missing Plane Search Concluded",
-     "published": "2026-08-17T21:01:18+00:00",
-     "views": "379990",
-     "short": true
-    }
-   ],
-   "live": null
+   "resolvedTitle": null,
+   "videos": []
   },
   {
    "name": "BocaBola",
@@ -90,8 +46,52 @@
   {
    "name": "Dallas Taylor",
    "channelId": "UCFu_7pxU3-CByq7bxjVuE4Q",
-   "resolvedTitle": null,
-   "videos": []
+   "resolvedTitle": "Dallas Taylor",
+   "videos": [
+    {
+     "videoId": "puvfQLJTS-w",
+     "title": "Mixing a Drum Corps in Real Time",
+     "published": "2026-08-17T16:07:01+00:00",
+     "views": "4137",
+     "short": true
+    },
+    {
+     "videoId": "jpqYwLvl-so",
+     "title": "Jeopardy’s Music runs off Ableton Live #musicproducer",
+     "published": "2026-08-15T23:12:38+00:00",
+     "views": "4327",
+     "short": true
+    },
+    {
+     "videoId": "y2mnuJnSHj0",
+     "title": "How Jeopardy! Cues Sound Effects Live",
+     "published": "2026-08-15T23:12:34+00:00",
+     "views": "1169",
+     "short": true
+    },
+    {
+     "videoId": "IaLZXTO20sg",
+     "title": "How Jeopardy! Rehearses Before the Show",
+     "published": "2026-08-15T23:12:31+00:00",
+     "views": "6093",
+     "short": true
+    },
+    {
+     "videoId": "tEbPsoeixVg",
+     "title": "The Hidden Mics of Hamilton",
+     "published": "2026-08-15T22:54:59+00:00",
+     "views": "1499",
+     "short": true
+    },
+    {
+     "videoId": "PWnQvTduAiU",
+     "title": "Drum Corps Used to Be All Acoustic. Now It's Mixed Like a Stadium Tour",
+     "published": "2026-08-13T17:13:45+00:00",
+     "views": "18302",
+     "short": false
+    }
+   ],
+   "live": null
   },
   {
    "name": "DIY Perks",
@@ -144,8 +144,52 @@
   {
    "name": "Linus Tech Tips",
    "channelId": "UCXuqSBlHAE6Xw-yeJA0Tunw",
-   "resolvedTitle": null,
-   "videos": []
+   "resolvedTitle": "Linus Tech Tips",
+   "videos": [
+    {
+     "videoId": "vzg5cv785j4",
+     "title": "What’s the Most Cost Effective Tech Upgrades",
+     "published": "2026-08-18T22:39:01+00:00",
+     "views": "34445",
+     "short": true
+    },
+    {
+     "videoId": "MQeJYEN_lrg",
+     "title": "This DIY Datacenter is NUTS",
+     "published": "2026-08-17T17:16:01+00:00",
+     "views": "754302",
+     "short": false
+    },
+    {
+     "videoId": "ea3EvwkW_28",
+     "title": "Legends Never Die",
+     "published": "2026-08-15T17:00:34+00:00",
+     "views": "725486",
+     "short": false
+    },
+    {
+     "videoId": "J261Rg0LTDA",
+     "title": "\"Pro\" phones are stupid - PIxel 11 Announcement",
+     "published": "2026-08-13T08:19:30+00:00",
+     "views": "661801",
+     "short": false
+    },
+    {
+     "videoId": "ofNcSiFpDUk",
+     "title": "Tech Russian Roulette with True or False Questions!",
+     "published": "2026-08-11T18:08:30+00:00",
+     "views": "507764",
+     "short": true
+    },
+    {
+     "videoId": "rbQtX_thQtQ",
+     "title": "It Shouldn’t be this Hard to Buy A Printer…",
+     "published": "2026-08-11T16:56:25+00:00",
+     "views": "1534708",
+     "short": false
+    }
+   ],
+   "live": null
   },
   {
    "name": "Luke Lafreniere",
@@ -186,58 +230,58 @@
   {
    "name": "MrBeast 2",
    "channelId": "UC4-79UOlP48-QNGgCko5p2g",
-   "resolvedTitle": null,
-   "videos": []
-  },
-  {
-   "name": "Mrwhosetheboss",
-   "channelId": "UCMiJRAwDNSNzuYeN2uWa0pA",
-   "resolvedTitle": "Mrwhosetheboss",
+   "resolvedTitle": "MrBeast 2",
    "videos": [
     {
-     "videoId": "n3F996g8wjg",
-     "title": "The Honor Robot Phone is absolutely insane.",
-     "published": "2026-08-14T11:15:26+00:00",
-     "views": "3590629",
-     "short": false
-    },
-    {
-     "videoId": "oaaOwLnuyPU",
-     "title": "Google Pixel 11 Hands on - The Phone Crisis Begins.",
-     "published": "2026-08-12T14:00:03+00:00",
-     "views": "3028268",
-     "short": false
-    },
-    {
-     "videoId": "9YcAJt2AN4k",
-     "title": "$10,000 Power Washer vs Fruit",
-     "published": "2026-08-06T11:04:42+00:00",
-     "views": "7347280",
+     "videoId": "KDAlh2S4SfM",
+     "title": "Can You Spot the Chocolate Object?",
+     "published": "2026-08-10T16:00:22+00:00",
+     "views": "12518982",
      "short": true
     },
     {
-     "videoId": "Eo5w2S-h5dI",
-     "title": "The Gaming Market is Starting to Break.",
-     "published": "2026-07-31T10:48:54+00:00",
-     "views": "6473485",
-     "short": false
+     "videoId": "vIsmb8pBtbs",
+     "title": "First to Buy Lunchly Wins a Surprise",
+     "published": "2026-08-07T16:00:47+00:00",
+     "views": "5241054",
+     "short": true
     },
     {
-     "videoId": "QHuIU2oE4Hg",
-     "title": "Samsung Z Fold/Flip 8 Hands on - Fold ULTRA??",
-     "published": "2026-07-22T13:00:15+00:00",
-     "views": "3182280",
-     "short": false
+     "videoId": "BIwIqst2HI4",
+     "title": "I Turned Chocolate Into Water",
+     "published": "2026-08-04T16:00:00+00:00",
+     "views": "8212339",
+     "short": true
     },
     {
-     "videoId": "twvqtzjBZx8",
-     "title": "Can a magnet DESTROY your smartphone?",
-     "published": "2026-07-17T12:36:13+00:00",
-     "views": "5698475",
+     "videoId": "NMR32p4kwAQ",
+     "title": "Mr Rizz IRL",
+     "published": "2026-08-02T22:59:39+00:00",
+     "views": "26665717",
+     "short": true
+    },
+    {
+     "videoId": "RIY6DHzQG2I",
+     "title": "I Made S'mores Cookies",
+     "published": "2026-08-02T16:01:04+00:00",
+     "views": "3652096",
+     "short": true
+    },
+    {
+     "videoId": "-xu9kPw0NEc",
+     "title": "Parents React to Peanut Butter Cup Ingredients",
+     "published": "2026-07-29T16:00:19+00:00",
+     "views": "4595314",
      "short": true
     }
    ],
    "live": null
+  },
+  {
+   "name": "Mrwhosetheboss",
+   "channelId": "UCMiJRAwDNSNzuYeN2uWa0pA",
+   "resolvedTitle": null,
+   "videos": []
   },
   {
    "name": "Mrwhosetheboss Plus",
@@ -284,52 +328,8 @@
   {
    "name": "Shiloh & Bros",
    "channelId": "UCn3AViOfcFN4zIICMC5hvPg",
-   "resolvedTitle": "Shiloh & Bros",
-   "videos": [
-    {
-     "videoId": "mWAkJSWrIg4",
-     "title": "FNAF Among Us In Real Life",
-     "published": "2026-08-07T14:40:33+00:00",
-     "views": "4643498",
-     "short": false
-    },
-    {
-     "videoId": "7OJxgboCdig",
-     "title": "Nothing gets past Judah",
-     "published": "2026-08-05T20:06:35+00:00",
-     "views": "712471",
-     "short": true
-    },
-    {
-     "videoId": "ynn6nquPYzA",
-     "title": "THIS CUSTOM NERF BLASTER IS AMAZING",
-     "published": "2026-07-29T15:56:19+00:00",
-     "views": "1317558",
-     "short": true
-    },
-    {
-     "videoId": "H-871VAiN2I",
-     "title": "Backrooms In Real Life",
-     "published": "2026-07-17T13:00:21+00:00",
-     "views": "7719983",
-     "short": false
-    },
-    {
-     "videoId": "5y9VcT3FTlo",
-     "title": "If NERF Fights Had Battle Royales",
-     "published": "2026-07-03T16:33:57+00:00",
-     "views": "4825284",
-     "short": false
-    },
-    {
-     "videoId": "11nk44MBIKQ",
-     "title": "99 Nights In The Forest 3 In Real Life [Roblox]",
-     "published": "2026-06-19T13:59:17+00:00",
-     "views": "7405187",
-     "short": false
-    }
-   ],
-   "live": null
+   "resolvedTitle": null,
+   "videos": []
   },
   {
    "name": "ShortCircuit",
