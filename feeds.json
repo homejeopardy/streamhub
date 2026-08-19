@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-19T04:36:49.237700+00:00",
+ "generated": "2026-08-19T05:30:43.625177+00:00",
  "channels": [
   {
    "name": "2 Much ColinFurze",
@@ -10,8 +10,52 @@
   {
    "name": "Aaron Rheins",
    "channelId": "UCDXv3XxJ2RsaYqbGgX135Wg",
-   "resolvedTitle": null,
-   "videos": []
+   "resolvedTitle": "Aaron Rheins",
+   "videos": [
+    {
+     "videoId": "_4zWGrI9Jv8",
+     "title": "Prison for Photos of B-2",
+     "published": "2026-08-19T00:13:28+00:00",
+     "views": "133080",
+     "short": true
+    },
+    {
+     "videoId": "lfXbdZwDXkA",
+     "title": "Lufthansa A380 Lands Too Early",
+     "published": "2026-08-18T20:37:07+00:00",
+     "views": "298610",
+     "short": true
+    },
+    {
+     "videoId": "fMInGLPe_64",
+     "title": "Google Bids on Spirit Airlines",
+     "published": "2026-08-18T16:41:02+00:00",
+     "views": "382646",
+     "short": true
+    },
+    {
+     "videoId": "cuKgwmqWkOk",
+     "title": "They Slowed Down During Takeoff…",
+     "published": "2026-08-18T16:10:03+00:00",
+     "views": "243895",
+     "short": true
+    },
+    {
+     "videoId": "64CGldWJ2X0",
+     "title": "We’ve Been Caught…",
+     "published": "2026-08-17T23:32:03+00:00",
+     "views": "566037",
+     "short": true
+    },
+    {
+     "videoId": "2Jc_Ja3FjJE",
+     "title": "Missing Plane Search Concluded",
+     "published": "2026-08-17T21:01:18+00:00",
+     "views": "379990",
+     "short": true
+    }
+   ],
+   "live": null
   },
   {
    "name": "BocaBola",
@@ -106,38 +150,8 @@
   {
    "name": "Luke Lafreniere",
    "channelId": "UCC43rlliFy4vFFTVJWao0Hw",
-   "resolvedTitle": "Luke Lafreniere",
-   "videos": [
-    {
-     "videoId": "iJswqnC5ZU8",
-     "title": "I SAW YODA IN SAN FRAN!",
-     "published": "2015-12-28T19:10:22+00:00",
-     "views": "65390",
-     "short": false
-    },
-    {
-     "videoId": "8_mA1gbBxB8",
-     "title": "Linus to the rescue!",
-     "published": "2015-11-17T02:45:04+00:00",
-     "views": "133636",
-     "short": false
-    },
-    {
-     "videoId": "QFbSaJpSmwM",
-     "title": "THE BEST CASE REVIEW AND THE BEST MOD EVER",
-     "published": "2015-10-18T00:37:04+00:00",
-     "views": "79592",
-     "short": false
-    },
-    {
-     "videoId": "LwNePKbh3gw",
-     "title": "Ice \"Bath\" Challenge - no wasted water, no trends",
-     "published": "2014-08-24T02:15:37+00:00",
-     "views": "51534",
-     "short": false
-    }
-   ],
-   "live": null
+   "resolvedTitle": null,
+   "videos": []
   },
   {
    "name": "Man Made",
@@ -166,52 +180,8 @@
   {
    "name": "MrBeast",
    "channelId": "UCX6OQ3DkcsbYNE6H8uQQuVA",
-   "resolvedTitle": "MrBeast",
-   "videos": [
-    {
-     "videoId": "LiH-P4rSkLI",
-     "title": "Can You Pass This Classroom Quiz?",
-     "published": "2026-08-11T16:00:06+00:00",
-     "views": "35578491",
-     "short": true
-    },
-    {
-     "videoId": "Af6i6ChAVTw",
-     "title": "Last To Leave Mansion, Keeps It",
-     "published": "2026-08-08T16:00:01+00:00",
-     "views": "85029604",
-     "short": false
-    },
-    {
-     "videoId": "f7y2XikE7sY",
-     "title": "Paying For Food With My Car",
-     "published": "2026-07-31T16:00:11+00:00",
-     "views": "40349403",
-     "short": true
-    },
-    {
-     "videoId": "lVylRtlPOIE",
-     "title": "I Granted 100 Kids Their Biggest Wish!",
-     "published": "2026-07-25T16:00:05+00:00",
-     "views": "54582817",
-     "short": false
-    },
-    {
-     "videoId": "Df5Y-2ndQyU",
-     "title": "Read My Book, You Could Win $1,000,000",
-     "published": "2026-07-17T16:00:06+00:00",
-     "views": "21300460",
-     "short": true
-    },
-    {
-     "videoId": "egvLKQe6I4I",
-     "title": "Don't Pop the Balloon",
-     "published": "2026-07-10T16:00:09+00:00",
-     "views": "126042161",
-     "short": true
-    }
-   ],
-   "live": null
+   "resolvedTitle": null,
+   "videos": []
   },
   {
    "name": "MrBeast 2",
@@ -222,8 +192,52 @@
   {
    "name": "Mrwhosetheboss",
    "channelId": "UCMiJRAwDNSNzuYeN2uWa0pA",
-   "resolvedTitle": null,
-   "videos": []
+   "resolvedTitle": "Mrwhosetheboss",
+   "videos": [
+    {
+     "videoId": "n3F996g8wjg",
+     "title": "The Honor Robot Phone is absolutely insane.",
+     "published": "2026-08-14T11:15:26+00:00",
+     "views": "3590629",
+     "short": false
+    },
+    {
+     "videoId": "oaaOwLnuyPU",
+     "title": "Google Pixel 11 Hands on - The Phone Crisis Begins.",
+     "published": "2026-08-12T14:00:03+00:00",
+     "views": "3028268",
+     "short": false
+    },
+    {
+     "videoId": "9YcAJt2AN4k",
+     "title": "$10,000 Power Washer vs Fruit",
+     "published": "2026-08-06T11:04:42+00:00",
+     "views": "7347280",
+     "short": true
+    },
+    {
+     "videoId": "Eo5w2S-h5dI",
+     "title": "The Gaming Market is Starting to Break.",
+     "published": "2026-07-31T10:48:54+00:00",
+     "views": "6473485",
+     "short": false
+    },
+    {
+     "videoId": "QHuIU2oE4Hg",
+     "title": "Samsung Z Fold/Flip 8 Hands on - Fold ULTRA??",
+     "published": "2026-07-22T13:00:15+00:00",
+     "views": "3182280",
+     "short": false
+    },
+    {
+     "videoId": "twvqtzjBZx8",
+     "title": "Can a magnet DESTROY your smartphone?",
+     "published": "2026-07-17T12:36:13+00:00",
+     "views": "5698475",
+     "short": true
+    }
+   ],
+   "live": null
   },
   {
    "name": "Mrwhosetheboss Plus",
@@ -270,8 +284,52 @@
   {
    "name": "Shiloh & Bros",
    "channelId": "UCn3AViOfcFN4zIICMC5hvPg",
-   "resolvedTitle": null,
-   "videos": []
+   "resolvedTitle": "Shiloh & Bros",
+   "videos": [
+    {
+     "videoId": "mWAkJSWrIg4",
+     "title": "FNAF Among Us In Real Life",
+     "published": "2026-08-07T14:40:33+00:00",
+     "views": "4643498",
+     "short": false
+    },
+    {
+     "videoId": "7OJxgboCdig",
+     "title": "Nothing gets past Judah",
+     "published": "2026-08-05T20:06:35+00:00",
+     "views": "712471",
+     "short": true
+    },
+    {
+     "videoId": "ynn6nquPYzA",
+     "title": "THIS CUSTOM NERF BLASTER IS AMAZING",
+     "published": "2026-07-29T15:56:19+00:00",
+     "views": "1317558",
+     "short": true
+    },
+    {
+     "videoId": "H-871VAiN2I",
+     "title": "Backrooms In Real Life",
+     "published": "2026-07-17T13:00:21+00:00",
+     "views": "7719983",
+     "short": false
+    },
+    {
+     "videoId": "5y9VcT3FTlo",
+     "title": "If NERF Fights Had Battle Royales",
+     "published": "2026-07-03T16:33:57+00:00",
+     "views": "4825284",
+     "short": false
+    },
+    {
+     "videoId": "11nk44MBIKQ",
+     "title": "99 Nights In The Forest 3 In Real Life [Roblox]",
+     "published": "2026-06-19T13:59:17+00:00",
+     "views": "7405187",
+     "short": false
+    }
+   ],
+   "live": null
   },
   {
    "name": "ShortCircuit",
