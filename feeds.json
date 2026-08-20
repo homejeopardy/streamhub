@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-20T05:30:20.733947+00:00",
+ "generated": "2026-08-20T06:45:38.618727+00:00",
  "channels": [
   {
    "name": "2 Much ColinFurze",
@@ -40,8 +40,52 @@
   {
    "name": "colinfurze",
    "channelId": "UCp68_FLety0O-n9QU6phsgw",
-   "resolvedTitle": null,
-   "videos": []
+   "resolvedTitle": "colinfurze",
+   "videos": [
+    {
+     "videoId": "vlThrKniVLc",
+     "title": "Amazing LEGO Tea Bag Machine",
+     "published": "2026-07-09T19:08:37+00:00",
+     "views": "951055",
+     "short": true
+    },
+    {
+     "videoId": "fJDCExWquhk",
+     "title": "HEATWAVE  SOLVED",
+     "published": "2026-06-24T17:57:47+00:00",
+     "views": "3137029",
+     "short": true
+    },
+    {
+     "videoId": "bzDM3HCjFcY",
+     "title": "Every Pickup needs this!!",
+     "published": "2026-04-23T15:01:08+00:00",
+     "views": "9663845",
+     "short": true
+    },
+    {
+     "videoId": "W6dNfWAsJRs",
+     "title": "Magnet Board cleans up!",
+     "published": "2026-04-19T17:01:24+00:00",
+     "views": "863770",
+     "short": true
+    },
+    {
+     "videoId": "fPn6GC4MUhs",
+     "title": "Magnetic Floating Skateboard.",
+     "published": "2026-03-29T18:12:32+00:00",
+     "views": "3543844",
+     "short": true
+    },
+    {
+     "videoId": "g_xMKhKUC7s",
+     "title": "SECRET Garage Car Lift Part 1",
+     "published": "2026-03-26T16:00:57+00:00",
+     "views": "4674261",
+     "short": false
+    }
+   ],
+   "live": null
   },
   {
    "name": "Dallas Taylor",
@@ -70,52 +114,8 @@
   {
    "name": "Ivan Miranda",
    "channelId": "UCF3cDM_hQMtIEJvEW1BZugg",
-   "resolvedTitle": "Ivan Miranda",
-   "videos": [
-    {
-     "videoId": "CH65FIqxGEI",
-     "title": "I built a 3D printed Motorbike",
-     "published": "2026-07-06T17:44:16+00:00",
-     "views": "165275",
-     "short": false
-    },
-    {
-     "videoId": "9W_KqmLzkO8",
-     "title": "I WROTE MY NAME USING HUGE BLOCKS #3dprinting #lego",
-     "published": "2026-06-05T11:14:28+00:00",
-     "views": "99596",
-     "short": true
-    },
-    {
-     "videoId": "w8W4IOl5rtc",
-     "title": "The Marble Clock that Shows Seconds Shows Seconds!",
-     "published": "2026-05-29T12:00:37+00:00",
-     "views": "199995",
-     "short": false
-    },
-    {
-     "videoId": "Ze0FwMWhxTg",
-     "title": "It finally works!! The Marble Clock that tells Seconds",
-     "published": "2026-04-01T08:16:20+00:00",
-     "views": "112674",
-     "short": false
-    },
-    {
-     "videoId": "AkeFqT9NEA4",
-     "title": "This made Marble Seconds possible",
-     "published": "2026-03-27T15:00:00+00:00",
-     "views": "217287",
-     "short": false
-    },
-    {
-     "videoId": "nt032aKP_WU",
-     "title": "The Marble Clock Seconds got a Marble feeder (for now)",
-     "published": "2026-02-10T14:00:00+00:00",
-     "views": "164777",
-     "short": false
-    }
-   ],
-   "live": null
+   "resolvedTitle": null,
+   "videos": []
   },
   {
    "name": "Izzie Norwood",
@@ -144,52 +144,8 @@
   {
    "name": "Linus Tech Tips",
    "channelId": "UCXuqSBlHAE6Xw-yeJA0Tunw",
-   "resolvedTitle": "Linus Tech Tips",
-   "videos": [
-    {
-     "videoId": "AHP423JqiLc",
-     "title": "$5 vs $500 Guitar Hero Controller!",
-     "published": "2026-08-19T17:00:11+00:00",
-     "views": "174492",
-     "short": false
-    },
-    {
-     "videoId": "vzg5cv785j4",
-     "title": "What’s the Most Cost Effective Tech Upgrades",
-     "published": "2026-08-18T22:39:01+00:00",
-     "views": "114705",
-     "short": true
-    },
-    {
-     "videoId": "MQeJYEN_lrg",
-     "title": "This DIY Datacenter is NUTS",
-     "published": "2026-08-17T17:16:01+00:00",
-     "views": "883108",
-     "short": false
-    },
-    {
-     "videoId": "ea3EvwkW_28",
-     "title": "Legends Never Die",
-     "published": "2026-08-15T17:00:34+00:00",
-     "views": "748121",
-     "short": false
-    },
-    {
-     "videoId": "J261Rg0LTDA",
-     "title": "\"Pro\" phones are stupid - PIxel 11 Announcement",
-     "published": "2026-08-13T08:19:30+00:00",
-     "views": "671979",
-     "short": false
-    },
-    {
-     "videoId": "ofNcSiFpDUk",
-     "title": "Tech Russian Roulette with True or False Questions!",
-     "published": "2026-08-11T18:08:30+00:00",
-     "views": "508232",
-     "short": true
-    }
-   ],
-   "live": null
+   "resolvedTitle": null,
+   "videos": []
   },
   {
    "name": "Luke Lafreniere",
@@ -224,52 +180,8 @@
   {
    "name": "MrBeast",
    "channelId": "UCX6OQ3DkcsbYNE6H8uQQuVA",
-   "resolvedTitle": "MrBeast",
-   "videos": [
-    {
-     "videoId": "LiH-P4rSkLI",
-     "title": "Can You Pass This Classroom Quiz?",
-     "published": "2026-08-11T16:00:06+00:00",
-     "views": "36609019",
-     "short": true
-    },
-    {
-     "videoId": "Af6i6ChAVTw",
-     "title": "Last To Leave Mansion, Keeps It",
-     "published": "2026-08-08T16:00:01+00:00",
-     "views": "87194047",
-     "short": false
-    },
-    {
-     "videoId": "f7y2XikE7sY",
-     "title": "Paying For Food With My Car",
-     "published": "2026-07-31T16:00:11+00:00",
-     "views": "41919485",
-     "short": true
-    },
-    {
-     "videoId": "lVylRtlPOIE",
-     "title": "I Granted 100 Kids Their Biggest Wish!",
-     "published": "2026-07-25T16:00:05+00:00",
-     "views": "54990143",
-     "short": false
-    },
-    {
-     "videoId": "Df5Y-2ndQyU",
-     "title": "Read My Book, You Could Win $1,000,000",
-     "published": "2026-07-17T16:00:06+00:00",
-     "views": "21477977",
-     "short": true
-    },
-    {
-     "videoId": "egvLKQe6I4I",
-     "title": "Don't Pop the Balloon",
-     "published": "2026-07-10T16:00:09+00:00",
-     "views": "127866020",
-     "short": true
-    }
-   ],
-   "live": null
+   "resolvedTitle": null,
+   "videos": []
   },
   {
    "name": "MrBeast 2",
@@ -285,53 +197,9 @@
   },
   {
    "name": "Mrwhosetheboss Plus",
-   "channelId": "UCZSlfzadjnw7G419c_OJ9eg",
-   "resolvedTitle": "Mrwhosetheboss Plus",
-   "videos": [
-    {
-     "videoId": "hvz8oUfIyIU",
-     "title": "These iPhone 15 Glasses are INSANE",
-     "published": "2023-11-21T17:07:20+00:00",
-     "views": "1891343",
-     "short": true
-    },
-    {
-     "videoId": "tCFNO1xFnc8",
-     "title": "The Robot Cleaner of the Future!?",
-     "published": "2023-11-20T21:12:24+00:00",
-     "views": "2043485",
-     "short": true
-    },
-    {
-     "videoId": "K71Yh9EA2is",
-     "title": "Better than NERF Guns!?",
-     "published": "2023-10-29T18:11:10+00:00",
-     "views": "10994040",
-     "short": true
-    },
-    {
-     "videoId": "vgjUwm9uBOs",
-     "title": "Mercedes made a Laptop!?",
-     "published": "2023-09-28T12:57:17+00:00",
-     "views": "2148446",
-     "short": true
-    },
-    {
-     "videoId": "o0pVzaDDtFs",
-     "title": "The Best Internet Browser for Tech Fans!",
-     "published": "2023-05-31T16:09:53+00:00",
-     "views": "3495902",
-     "short": true
-    },
-    {
-     "videoId": "JLD7udZ5SCY",
-     "title": "This Phone can SEE in the DARK!",
-     "published": "2023-04-26T16:31:45+00:00",
-     "views": "2613016",
-     "short": true
-    }
-   ],
-   "live": null
+   "channelId": "UCMiJRAwDNSNzuYeN2uWa0pA",
+   "resolvedTitle": null,
+   "videos": []
   },
   {
    "name": "Mumbo Jumbo",
@@ -360,38 +228,8 @@
   {
    "name": "Sam from Wendover",
    "channelId": "UCDA1X6RrhzZQOHOGvC3KsWg",
-   "resolvedTitle": "Sam from Wendover",
-   "videos": [
-    {
-     "videoId": "M2AejLrF0dk",
-     "title": "1 Year and 200,000 Miles of Travel in 6 Minutes",
-     "published": "2019-11-07T16:56:50+00:00",
-     "views": "105432",
-     "short": false
-    },
-    {
-     "videoId": "cNYJH4MQDuo",
-     "title": "Traveling to the US' Most Isolated Territory",
-     "published": "2018-05-08T14:30:01+00:00",
-     "views": "197258",
-     "short": false
-    },
-    {
-     "videoId": "mTpXQmRB3tI",
-     "title": "This Week I Learned to Do a Q&A Video (With Mike Boyd)",
-     "published": "2018-04-19T15:48:40+00:00",
-     "views": "132642",
-     "short": false
-    },
-    {
-     "videoId": "5N3aZTT3TRw",
-     "title": "A Moderately Successful Face Reveal",
-     "published": "2018-03-27T14:30:01+00:00",
-     "views": "339528",
-     "short": false
-    }
-   ],
-   "live": null
+   "resolvedTitle": null,
+   "videos": []
   },
   {
    "name": "Schoolhouse Homestead",
