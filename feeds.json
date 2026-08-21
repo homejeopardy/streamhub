@@ -1,401 +1,269 @@
 {
- "generated": "2026-08-21T03:50:20.302469+00:00",
+ "generated": "2026-08-21T04:37:59.314393+00:00",
  "channels": [
   {
    "name": "2 Much ColinFurze",
-   "channelId": "UCdmcAwbdiXQWs9d4Qd4KzDw",
+   "channelId": null,
    "resolvedTitle": null,
    "videos": []
   },
   {
    "name": "Aaron Rheins",
-   "channelId": "UCDXv3XxJ2RsaYqbGgX135Wg",
+   "channelId": null,
    "resolvedTitle": null,
    "videos": []
   },
   {
    "name": "BocaBola",
-   "channelId": "UCBur6ZOAqhjRs9PadDArozQ",
+   "channelId": null,
    "resolvedTitle": null,
    "videos": []
   },
   {
    "name": "Brandon Y Lee",
-   "channelId": "UC-WpvHaSBQEAztK6n_CupOg",
+   "channelId": null,
    "resolvedTitle": null,
    "videos": []
   },
   {
    "name": "Bud n' Pal",
-   "channelId": "UCc0gJiC4sDWGz-N7huVDOfg",
+   "channelId": null,
    "resolvedTitle": null,
    "videos": []
   },
   {
    "name": "Chaz Draycott Media",
-   "channelId": "UCQTMGMs6CqMm_yBfwpIksnw",
+   "channelId": null,
    "resolvedTitle": null,
    "videos": []
   },
   {
    "name": "colinfurze",
-   "channelId": "UCp68_FLety0O-n9QU6phsgw",
+   "channelId": null,
    "resolvedTitle": null,
    "videos": []
   },
   {
    "name": "Dallas Taylor",
-   "channelId": "UCFu_7pxU3-CByq7bxjVuE4Q",
+   "channelId": null,
    "resolvedTitle": null,
    "videos": []
   },
   {
    "name": "DIY Perks",
-   "channelId": "UCUQo7nzH1sXVpzL92VesANw",
+   "channelId": null,
    "resolvedTitle": null,
    "videos": []
   },
   {
    "name": "Engwerda Studios",
-   "channelId": "UCYrG2zHfww6yUoYo6pUUdMQ",
+   "channelId": null,
    "resolvedTitle": null,
    "videos": []
   },
   {
    "name": "Hamfrags",
-   "channelId": "UCskb-VnAFZlGI0AUlsesuuQ",
+   "channelId": null,
    "resolvedTitle": null,
    "videos": []
   },
   {
    "name": "Ivan Miranda",
-   "channelId": "UCF3cDM_hQMtIEJvEW1BZugg",
+   "channelId": null,
    "resolvedTitle": null,
    "videos": []
   },
   {
    "name": "Izzie Norwood",
-   "channelId": "UCt4ywAq3AJA0Z3QVkz-mbZA",
+   "channelId": null,
    "resolvedTitle": null,
    "videos": []
   },
   {
    "name": "JackSucksAtLife",
-   "channelId": "UCewMTclBJZPaNEfbf-qYMGA",
+   "channelId": null,
    "resolvedTitle": null,
    "videos": []
   },
   {
    "name": "JackSucksAtStuff",
-   "channelId": "UCxLIJccyaRQDeyu6RzUsPuw",
+   "channelId": null,
    "resolvedTitle": null,
    "videos": []
   },
   {
    "name": "Jon Youshaei",
-   "channelId": "UCj8DGOv5P7Ngsh-telMG-pw",
+   "channelId": null,
    "resolvedTitle": null,
    "videos": []
   },
   {
    "name": "Linus Tech Tips",
-   "channelId": "UCXuqSBlHAE6Xw-yeJA0Tunw",
+   "channelId": null,
    "resolvedTitle": null,
    "videos": []
   },
   {
    "name": "Luke Lafreniere",
-   "channelId": "UCC43rlliFy4vFFTVJWao0Hw",
+   "channelId": null,
    "resolvedTitle": null,
    "videos": []
   },
   {
    "name": "Man Made",
-   "channelId": "UCSNgS5ZY7JudYXoK6N3dqFA",
+   "channelId": null,
    "resolvedTitle": null,
    "videos": []
   },
   {
    "name": "Mark Rober",
-   "channelId": "UCY1kMZp36IQSyNx_9h4mpCg",
+   "channelId": null,
    "resolvedTitle": null,
    "videos": []
   },
   {
    "name": "Morley Kert",
-   "channelId": "UCbtEd1MuY6gd2RpdWqkzXFw",
+   "channelId": null,
    "resolvedTitle": null,
    "videos": []
   },
   {
    "name": "Mr Beardstone",
-   "channelId": "UC8eiUrkeQZ9_M3gXKSGnqeg",
+   "channelId": null,
    "resolvedTitle": null,
    "videos": []
   },
   {
    "name": "MrBeast",
-   "channelId": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+   "channelId": null,
    "resolvedTitle": null,
    "videos": []
   },
   {
    "name": "MrBeast 2",
-   "channelId": "UC4-79UOlP48-QNGgCko5p2g",
-   "resolvedTitle": "MrBeast 2",
-   "videos": [
-    {
-     "videoId": "KDAlh2S4SfM",
-     "title": "Can You Spot the Chocolate Object?",
-     "published": "2026-08-10T16:00:22+00:00",
-     "views": "12920350",
-     "short": true
-    },
-    {
-     "videoId": "vIsmb8pBtbs",
-     "title": "First to Buy Lunchly Wins a Surprise",
-     "published": "2026-08-07T16:00:47+00:00",
-     "views": "5428461",
-     "short": true
-    },
-    {
-     "videoId": "BIwIqst2HI4",
-     "title": "I Turned Chocolate Into Water",
-     "published": "2026-08-04T16:00:00+00:00",
-     "views": "8316696",
-     "short": true
-    },
-    {
-     "videoId": "NMR32p4kwAQ",
-     "title": "Mr Rizz IRL",
-     "published": "2026-08-02T22:59:39+00:00",
-     "views": "27909362",
-     "short": true
-    },
-    {
-     "videoId": "RIY6DHzQG2I",
-     "title": "I Made S'mores Cookies",
-     "published": "2026-08-02T16:01:04+00:00",
-     "views": "3752277",
-     "short": true
-    },
-    {
-     "videoId": "-xu9kPw0NEc",
-     "title": "Parents React to Peanut Butter Cup Ingredients",
-     "published": "2026-07-29T16:00:19+00:00",
-     "views": "4717632",
-     "short": true
-    }
-   ],
-   "live": null
+   "channelId": null,
+   "resolvedTitle": null,
+   "videos": []
   },
   {
    "name": "Mrwhosetheboss",
-   "channelId": "UCMiJRAwDNSNzuYeN2uWa0pA",
+   "channelId": null,
    "resolvedTitle": null,
    "videos": []
   },
   {
    "name": "Mrwhosetheboss Plus",
-   "channelId": "UCZSlfzadjnw7G419c_OJ9eg",
+   "channelId": null,
    "resolvedTitle": null,
    "videos": []
   },
   {
    "name": "Mumbo Jumbo",
-   "channelId": "UChFur_NwVSbUozOcF_F2kMg",
+   "channelId": null,
    "resolvedTitle": null,
    "videos": []
   },
   {
    "name": "Nick DiGiovanni",
-   "channelId": "UCMyOj6fhvKFMjxUCp3b_3gA",
+   "channelId": null,
    "resolvedTitle": null,
    "videos": []
   },
   {
    "name": "Ryan Trahan",
-   "channelId": "UCnmGIkw-KdI0W5siakKPKog",
+   "channelId": null,
    "resolvedTitle": null,
    "videos": []
   },
   {
    "name": "Sage Ellenwood",
-   "channelId": "UC2WkGqcgFTQ__n10gWyUB6g",
+   "channelId": null,
    "resolvedTitle": null,
    "videos": []
   },
   {
    "name": "Sam from Wendover",
-   "channelId": "UCDA1X6RrhzZQOHOGvC3KsWg",
+   "channelId": null,
    "resolvedTitle": null,
    "videos": []
   },
   {
    "name": "Schoolhouse Homestead",
-   "channelId": "UCuVwgTp3Npl_Kx5FsndZ2Jw",
+   "channelId": null,
    "resolvedTitle": null,
    "videos": []
   },
   {
    "name": "Shiloh & Bros",
-   "channelId": "UCn3AViOfcFN4zIICMC5hvPg",
+   "channelId": null,
    "resolvedTitle": null,
    "videos": []
   },
   {
    "name": "ShortCircuit",
-   "channelId": "UCdBK94H6oZT2Q7l0-b0xmMg",
-   "resolvedTitle": "ShortCircuit",
-   "videos": [
-    {
-     "videoId": "m1PMTAEeywI",
-     "title": "Google Almost Nailed It - Pixel 11 vs. 11 Pro",
-     "published": "2026-08-20T18:24:42+00:00",
-     "views": "47860",
-     "short": false
-    },
-    {
-     "videoId": "BsWMWSI1uj4",
-     "title": "On paper it’s perfect - Pixel 11 Pro fold",
-     "published": "2026-08-19T16:35:18+00:00",
-     "views": "279794",
-     "short": false
-    },
-    {
-     "videoId": "fgqKGIiP0SI",
-     "title": "They finally did it - Acer Predator XV273U F6",
-     "published": "2026-08-18T19:58:54+00:00",
-     "views": "103275",
-     "short": false
-    },
-    {
-     "videoId": "WbO5wGNlrvk",
-     "title": "I haven't wanted anything from them for ten years  - Motorola Razr Fold",
-     "published": "2026-08-13T18:37:19+00:00",
-     "views": "426450",
-     "short": false
-    },
-    {
-     "videoId": "ezRmgQFaOc0",
-     "title": "Best Mac Bang for Your Buck Monitor - ASUS ProArt PA279CDV",
-     "published": "2026-08-12T17:57:20+00:00",
-     "views": "55346",
-     "short": false
-    },
-    {
-     "videoId": "WmzphlOwku8",
-     "title": "A Homelab in a Box - 45HomeLab X15",
-     "published": "2026-08-11T19:24:08+00:00",
-     "views": "228162",
-     "short": false
-    }
-   ],
-   "live": null
+   "channelId": null,
+   "resolvedTitle": null,
+   "videos": []
   },
   {
    "name": "Silver Creek Audio",
-   "channelId": "UC2e3STCVOsyu75posxi0Nxg",
+   "channelId": null,
    "resolvedTitle": null,
    "videos": []
   },
   {
    "name": "Solidarity",
-   "channelId": "UC6XAct-Bus4x3mYz3VC_HUw",
+   "channelId": null,
    "resolvedTitle": null,
    "videos": []
   },
   {
    "name": "Stam1o",
-   "channelId": "UCjGI9kWkJlU_lyGvm_DVMMg",
+   "channelId": null,
    "resolvedTitle": null,
    "videos": []
   },
   {
    "name": "Sticks",
-   "channelId": "UCVun3IyFIh6AsEMV11zlVHg",
+   "channelId": null,
    "resolvedTitle": null,
    "videos": []
   },
   {
    "name": "Swami 3",
-   "channelId": "UCZTQI0QlKd1dBAN5ku3bwLQ",
+   "channelId": null,
    "resolvedTitle": null,
    "videos": []
   },
   {
    "name": "Taskmaster",
-   "channelId": "UCT5C7yaO3RVuOgwP8JVAujQ",
+   "channelId": null,
    "resolvedTitle": null,
    "videos": []
   },
   {
    "name": "WAN Show",
-   "channelId": "UCVlfe3MRSCZSeIWByrWHhkg",
+   "channelId": null,
    "resolvedTitle": null,
    "videos": []
   },
   {
    "name": "Wendover Productions",
-   "channelId": "UC9RM-iSvTu1uPJb8X5yp3EQ",
+   "channelId": null,
    "resolvedTitle": null,
    "videos": []
   },
   {
    "name": "Zip Tie Tech",
-   "channelId": "UCUpt_5O1vYpWAGg77iNMQXA",
+   "channelId": null,
    "resolvedTitle": null,
    "videos": []
   },
   {
    "name": "Zip Tie Tuning",
-   "channelId": "UCWqW23Ko6dbscptZYyQE-8A",
-   "resolvedTitle": "Zip Tie Tuning",
-   "videos": [
-    {
-     "videoId": "dj1h3R2zEOc",
-     "title": "Why Did I Do This?!",
-     "published": "2026-08-05T16:56:11+00:00",
-     "views": "310298",
-     "short": false
-    },
-    {
-     "videoId": "ISsZ5zWz1Xo",
-     "title": "I Hope I Don't Regret This... RAV4 Engine Swap Pt. 1",
-     "published": "2026-07-23T14:39:09+00:00",
-     "views": "312870",
-     "short": false
-    },
-    {
-     "videoId": "0aIyXjpHA64",
-     "title": "This Changes Everything",
-     "published": "2026-07-09T16:40:43+00:00",
-     "views": "378336",
-     "short": false
-    },
-    {
-     "videoId": "Jw4wfkWnib8",
-     "title": "Earning my Rally Seat Time with Zip Ties",
-     "published": "2026-06-30T16:38:02+00:00",
-     "views": "160456",
-     "short": false
-    },
-    {
-     "videoId": "AiVYn4CS1ac",
-     "title": "Their Camper Got Totalled...... So We Built This",
-     "published": "2026-06-22T17:54:26+00:00",
-     "views": "241414",
-     "short": false
-    },
-    {
-     "videoId": "QsYUYXQO31U",
-     "title": "It Shouldn’t Sound This Good",
-     "published": "2026-06-13T19:27:05+00:00",
-     "views": "382831",
-     "short": false
-    }
-   ],
-   "live": null
+   "channelId": null,
+   "resolvedTitle": null,
+   "videos": []
   }
  ]
 }
