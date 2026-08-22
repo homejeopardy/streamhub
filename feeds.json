@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-22T04:32:44.555043+00:00",
+ "generated": "2026-08-22T05:27:22.824422+00:00",
  "channels": [
   {
    "name": "2 Much ColinFurze",
@@ -52,52 +52,8 @@
   {
    "name": "DIY Perks",
    "channelId": "UCUQo7nzH1sXVpzL92VesANw",
-   "resolvedTitle": "DIY Perks",
-   "videos": [
-    {
-     "videoId": "7FStfdGjAwc",
-     "title": "Transforming dead hardware into high-performance PCs",
-     "published": "2026-07-17T12:00:19+00:00",
-     "views": "1201337",
-     "short": false
-    },
-    {
-     "videoId": "rqCt61ZbU10",
-     "title": "Building an LED SUPERNOVA!",
-     "published": "2026-02-28T12:15:13+00:00",
-     "views": "2142477",
-     "short": false
-    },
-    {
-     "videoId": "o6Z0MxWCbrc",
-     "title": "DIY Perks builds a beautiful mud hut... (a break from technology)",
-     "published": "2025-08-31T12:31:04+00:00",
-     "views": "1021738",
-     "short": false
-    },
-    {
-     "videoId": "EyR2-C9ggi0",
-     "title": "True Wireless Power is FINALLY here (building a TRULY wire-free setup)",
-     "published": "2025-06-03T13:00:33+00:00",
-     "views": "3216283",
-     "short": false
-    },
-    {
-     "videoId": "qXrn4MqY1Wo",
-     "title": "DIY \"infinity contrast\" TV -  with 100% recycled parts",
-     "published": "2025-03-01T07:15:03+00:00",
-     "views": "3631522",
-     "short": false
-    },
-    {
-     "videoId": "1H4FuNAByUs",
-     "title": "DIY Surround Sound... USING LASERS!",
-     "published": "2024-12-13T19:45:00+00:00",
-     "views": "3081884",
-     "short": false
-    }
-   ],
-   "live": null
+   "resolvedTitle": null,
+   "videos": []
   },
   {
    "name": "Engwerda Studios",
@@ -126,52 +82,8 @@
   {
    "name": "JackSucksAtLife",
    "channelId": "UCewMTclBJZPaNEfbf-qYMGA",
-   "resolvedTitle": "JackSucksAtLife",
-   "videos": [
-    {
-     "videoId": "JE1hj6uDsc4",
-     "title": "Exploring Rome Alone At 5am",
-     "published": "2026-08-09T15:00:21+00:00",
-     "views": "163849",
-     "short": false
-    },
-    {
-     "videoId": "fs35cnVMrDc",
-     "title": "Sidemen 50 Youtuber Hide & Seek behind the scenes",
-     "published": "2025-11-24T15:01:27+00:00",
-     "views": "94745",
-     "short": true
-    },
-    {
-     "videoId": "vivdSxWub9Y",
-     "title": "I trained like a professional athlete for 1 month",
-     "published": "2025-11-19T16:30:24+00:00",
-     "views": "221636",
-     "short": true
-    },
-    {
-     "videoId": "eEhZfvgcWCE",
-     "title": "My first cold moment in Sidemen Among Us",
-     "published": "2025-11-06T20:00:28+00:00",
-     "views": "73566",
-     "short": true
-    },
-    {
-     "videoId": "Jqe946bRnqI",
-     "title": "The New DIAMOND YouTube Play Button!",
-     "published": "2025-10-24T16:15:02+00:00",
-     "views": "343323",
-     "short": false
-    },
-    {
-     "videoId": "ECzkSasm0YE",
-     "title": "Will This NEW Youtube Feature SAVE My Channel?",
-     "published": "2025-10-04T17:00:13+00:00",
-     "views": "119387",
-     "short": false
-    }
-   ],
-   "live": null
+   "resolvedTitle": null,
+   "videos": []
   },
   {
    "name": "JackSucksAtStuff",
@@ -206,52 +118,8 @@
   {
    "name": "Mark Rober",
    "channelId": "UCY1kMZp36IQSyNx_9h4mpCg",
-   "resolvedTitle": "Mark Rober",
-   "videos": [
-    {
-     "videoId": "KLJxCWeYGoE",
-     "title": "Why the Moon Never Changes",
-     "published": "2026-08-14T13:00:38+00:00",
-     "views": "4362487",
-     "short": true
-    },
-    {
-     "videoId": "KwqeKTM9M_8",
-     "title": "$100 Slime Challenge",
-     "published": "2026-08-12T17:16:31+00:00",
-     "views": "3580378",
-     "short": true
-    },
-    {
-     "videoId": "0BAkKJ_3Tic",
-     "title": "Lowest Heart Rate Wins!",
-     "published": "2026-07-30T13:00:33+00:00",
-     "views": "7178762",
-     "short": true
-    },
-    {
-     "videoId": "GRbokvmv-2M",
-     "title": "Stop Your Car From Getting Stolen!",
-     "published": "2026-07-16T13:00:34+00:00",
-     "views": "1525562",
-     "short": true
-    },
-    {
-     "videoId": "q3nD5qD758o",
-     "title": "I Discovered a Lost Plane",
-     "published": "2026-07-10T13:00:23+00:00",
-     "views": "23729681",
-     "short": true
-    },
-    {
-     "videoId": "eMG3FWEwJnk",
-     "title": "How To Crush an Egg with Your Bare Hand",
-     "published": "2026-07-01T17:03:49+00:00",
-     "views": "2462006",
-     "short": true
-    }
-   ],
-   "live": null
+   "resolvedTitle": null,
+   "videos": []
   },
   {
    "name": "Morley Kert",
@@ -304,8 +172,52 @@
   {
    "name": "Ryan Trahan",
    "channelId": "UCnmGIkw-KdI0W5siakKPKog",
-   "resolvedTitle": null,
-   "videos": []
+   "resolvedTitle": "Ryan Trahan",
+   "videos": [
+    {
+     "videoId": "_IvIVI8PIRI",
+     "title": "Surprising my old teacher",
+     "published": "2026-08-08T17:49:18+00:00",
+     "views": "22539093",
+     "short": true
+    },
+    {
+     "videoId": "mDz5MgFZUMo",
+     "title": "dinner",
+     "published": "2026-08-07T15:00:29+00:00",
+     "views": "1411942",
+     "short": true
+    },
+    {
+     "videoId": "uugVAg1LI68",
+     "title": "Testing Mark Rober’s “Jelly Bean Guessing Game HACK”",
+     "published": "2026-07-29T22:49:54+00:00",
+     "views": "3728803",
+     "short": true
+    },
+    {
+     "videoId": "gye8x0Jr0Uo",
+     "title": "Pranking SIDEMEN in America 🇺🇸😂",
+     "published": "2026-07-26T22:48:40+00:00",
+     "views": "2419072",
+     "short": true
+    },
+    {
+     "videoId": "Wo0GpsMRGGw",
+     "title": "McDonald’s hack ⚾️🍔 #mcdspartner",
+     "published": "2026-07-22T21:31:17+00:00",
+     "views": "1260607",
+     "short": true
+    },
+    {
+     "videoId": "3x3BSLl94Yk",
+     "title": "I Tried the \"Top 10 Things To Do\" in America",
+     "published": "2026-07-18T15:00:21+00:00",
+     "views": "2098978",
+     "short": false
+    }
+   ],
+   "live": null
   },
   {
    "name": "Sage Ellenwood",
@@ -334,8 +246,52 @@
   {
    "name": "ShortCircuit",
    "channelId": "UCdBK94H6oZT2Q7l0-b0xmMg",
-   "resolvedTitle": null,
-   "videos": []
+   "resolvedTitle": "ShortCircuit",
+   "videos": [
+    {
+     "videoId": "MfwD2C4bvN0",
+     "title": "Bothering My Coworkers With a Foam Blaster Robot",
+     "published": "2026-08-21T20:36:08+00:00",
+     "views": "40797",
+     "short": true
+    },
+    {
+     "videoId": "2qlV1KN_67Q",
+     "title": "The perfect monitor will cost you  - Dell UltraSharp U3226Q",
+     "published": "2026-08-21T19:55:24+00:00",
+     "views": "18925",
+     "short": false
+    },
+    {
+     "videoId": "m1PMTAEeywI",
+     "title": "Google Almost Nailed It - Pixel 11 vs. 11 Pro",
+     "published": "2026-08-20T18:24:42+00:00",
+     "views": "89613",
+     "short": false
+    },
+    {
+     "videoId": "BsWMWSI1uj4",
+     "title": "On paper it’s perfect - Pixel 11 Pro fold",
+     "published": "2026-08-19T16:35:18+00:00",
+     "views": "314629",
+     "short": false
+    },
+    {
+     "videoId": "fgqKGIiP0SI",
+     "title": "They finally did it - Acer Predator XV273U F6",
+     "published": "2026-08-18T19:58:54+00:00",
+     "views": "106683",
+     "short": false
+    },
+    {
+     "videoId": "WbO5wGNlrvk",
+     "title": "I haven't wanted anything from them for ten years  - Motorola Razr Fold",
+     "published": "2026-08-13T18:37:19+00:00",
+     "views": "436435",
+     "short": false
+    }
+   ],
+   "live": null
   },
   {
    "name": "Silver Creek Audio",
@@ -358,52 +314,8 @@
   {
    "name": "Sticks",
    "channelId": "UCVun3IyFIh6AsEMV11zlVHg",
-   "resolvedTitle": "Sticks",
-   "videos": [
-    {
-     "videoId": "sKWsK0vjwrk",
-     "title": "We're Making the World's Most Profitable Movie",
-     "published": "2026-07-07T02:48:24+00:00",
-     "views": "382317",
-     "short": true
-    },
-    {
-     "videoId": "C5-69AZ93B4",
-     "title": "We Re-Opened Blockbuster in 2026",
-     "published": "2026-04-17T02:14:23+00:00",
-     "views": "81217",
-     "short": true
-    },
-    {
-     "videoId": "UZ3WfQQMves",
-     "title": "Which YouTuber Deserves An Oscar?",
-     "published": "2026-03-15T03:50:24+00:00",
-     "views": "1387948",
-     "short": true
-    },
-    {
-     "videoId": "cwuQbknO-bQ",
-     "title": "We Tested Telepathy Typing #MxMaster4 #LogitechPartner",
-     "published": "2026-02-26T00:42:34+00:00",
-     "views": "61410",
-     "short": true
-    },
-    {
-     "videoId": "NvTduUDqozE",
-     "title": "We Surprised Dude Perfect With Their Own Movie",
-     "published": "2025-12-16T22:00:34+00:00",
-     "views": "1396804",
-     "short": false
-    },
-    {
-     "videoId": "Q9yK7OPkdzc",
-     "title": "If Dude Perfect's Life Was a Movie...",
-     "published": "2025-11-29T21:02:43+00:00",
-     "views": "780352",
-     "short": false
-    }
-   ],
-   "live": null
+   "resolvedTitle": null,
+   "videos": []
   },
   {
    "name": "Swami 3",
@@ -420,52 +332,8 @@
   {
    "name": "WAN Show",
    "channelId": "UCVlfe3MRSCZSeIWByrWHhkg",
-   "resolvedTitle": "WAN Show",
-   "videos": [
-    {
-     "videoId": "3gQ4kQ2vMOY",
-     "title": "Minecraft Views On YouTube About To Skyrocket - WAN Show August 21, 2026",
-     "published": "2026-08-22T04:24:11+00:00",
-     "views": "23304",
-     "short": false
-    },
-    {
-     "videoId": "6-AeY_5W7dY",
-     "title": "They Should Have Bought A Hard Drive - WAN Show August 14, 2026",
-     "published": "2026-08-15T01:53:01+00:00",
-     "views": "206447",
-     "short": false
-    },
-    {
-     "videoId": "VX7woqJ59lk",
-     "title": "My Family Left Me For a Week - WAN Show August 7, 2026",
-     "published": "2026-08-08T03:53:39+00:00",
-     "views": "267218",
-     "short": false
-    },
-    {
-     "videoId": "6gQBrqU99iU",
-     "title": "Upgrade Your PC Now For Minecraft - WAN Show July 31, 2026",
-     "published": "2026-08-01T04:30:09+00:00",
-     "views": "309916",
-     "short": false
-    },
-    {
-     "videoId": "MBy1mk1qDmA",
-     "title": "NVIDIA’s New CPU Makes Me Excited Again - WAN Show July 24, 2026",
-     "published": "2026-07-25T04:42:01+00:00",
-     "views": "287233",
-     "short": false
-    },
-    {
-     "videoId": "L8-5CSAaViY",
-     "title": "You Need To Move To Linux Today - WAN Show July 17, 2026",
-     "published": "2026-07-18T05:04:02+00:00",
-     "views": "285116",
-     "short": false
-    }
-   ],
-   "live": null
+   "resolvedTitle": null,
+   "videos": []
   },
   {
    "name": "Wendover Productions",
