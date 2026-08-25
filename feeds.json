@@ -1,55 +1,11 @@
 {
- "generated": "2026-08-25T03:48:51.065850+00:00",
+ "generated": "2026-08-25T04:38:34.308528+00:00",
  "channels": [
   {
    "name": "2 Much ColinFurze",
    "channelId": "UCdmcAwbdiXQWs9d4Qd4KzDw",
-   "resolvedTitle": "2 Much ColinFurze",
-   "videos": [
-    {
-     "videoId": "GhnCnJlkolg",
-     "title": "I flew a drone through my tunnel",
-     "published": "2026-03-24T19:31:57+00:00",
-     "views": "170165",
-     "short": true
-    },
-    {
-     "videoId": "FbigAI3_nJg",
-     "title": "The future….",
-     "published": "2026-03-09T18:00:15+00:00",
-     "views": "142833",
-     "short": true
-    },
-    {
-     "videoId": "BQPXKpEui2A",
-     "title": "Secret Garage Update #18 LOVERLY LEGS",
-     "published": "2026-02-26T16:00:25+00:00",
-     "views": "1516563",
-     "short": false
-    },
-    {
-     "videoId": "lUOnL8CzMBQ",
-     "title": "Today in the workshop of dreams",
-     "published": "2026-01-31T19:40:38+00:00",
-     "views": "723059",
-     "short": true
-    },
-    {
-     "videoId": "zkMOFyjRdjU",
-     "title": "Secret Garage Update #17 The Last 7 Months AND......",
-     "published": "2026-01-29T16:01:36+00:00",
-     "views": "2340395",
-     "short": false
-    },
-    {
-     "videoId": "5TOfU4TwICM",
-     "title": "Big Ben has no 10’s",
-     "published": "2026-01-28T19:16:39+00:00",
-     "views": "398585",
-     "short": true
-    }
-   ],
-   "live": null
+   "resolvedTitle": null,
+   "videos": []
   },
   {
    "name": "Aaron Rheins",
@@ -150,42 +106,42 @@
      "videoId": "ZWCAXHNOIcA",
      "title": "The Most Shockingly Affordable Upgrade I've Seen in YEARS",
      "published": "2026-08-24T17:08:01+00:00",
-     "views": "275152",
+     "views": "286259",
      "short": false
     },
     {
      "videoId": "DXK-F0SjC_E",
      "title": "I put the NEWEST CPU in the OLDEST Motherboard",
      "published": "2026-08-22T17:00:02+00:00",
-     "views": "816986",
+     "views": "819160",
      "short": false
     },
     {
      "videoId": "04MFcE-ntxQ",
      "title": "Creators Share Embarrassing Stories of Linus",
      "published": "2026-08-21T16:51:24+00:00",
-     "views": "534723",
+     "views": "535064",
      "short": true
     },
     {
      "videoId": "QfCW5bXvwII",
      "title": "Pranking Linus for his 40th Birthday",
      "published": "2026-08-20T18:10:26+00:00",
-     "views": "1260066",
+     "views": "1261328",
      "short": true
     },
     {
      "videoId": "36oL-7C_qR4",
      "title": "There’s NO Excuse Not To Try Linux!",
      "published": "2026-08-20T16:54:26+00:00",
-     "views": "694470",
+     "views": "691965",
      "short": false
     },
     {
      "videoId": "AHP423JqiLc",
      "title": "$5 vs $500 Guitar Hero Controller!",
      "published": "2026-08-19T17:00:11+00:00",
-     "views": "297203",
+     "views": "296988",
      "short": false
     }
    ],
@@ -224,52 +180,8 @@
   {
    "name": "MrBeast",
    "channelId": "UCX6OQ3DkcsbYNE6H8uQQuVA",
-   "resolvedTitle": "MrBeast",
-   "videos": [
-    {
-     "videoId": "5mU6SRS2Bxo",
-     "title": "World’s Largest Tennis Match",
-     "published": "2026-08-23T16:00:04+00:00",
-     "views": "4109245",
-     "short": true
-    },
-    {
-     "videoId": "Qtl8lJwbd4g",
-     "title": "Escape 100 Cops, Win $500,000",
-     "published": "2026-08-22T16:00:05+00:00",
-     "views": "48249614",
-     "short": false
-    },
-    {
-     "videoId": "LiH-P4rSkLI",
-     "title": "Can You Pass This Classroom Quiz?",
-     "published": "2026-08-11T16:00:06+00:00",
-     "views": "39874022",
-     "short": true
-    },
-    {
-     "videoId": "Af6i6ChAVTw",
-     "title": "Last To Leave Mansion, Keeps It",
-     "published": "2026-08-08T16:00:01+00:00",
-     "views": "96782606",
-     "short": false
-    },
-    {
-     "videoId": "f7y2XikE7sY",
-     "title": "Paying For Food With My Car",
-     "published": "2026-07-31T16:00:11+00:00",
-     "views": "48892618",
-     "short": true
-    },
-    {
-     "videoId": "lVylRtlPOIE",
-     "title": "I Granted 100 Kids Their Biggest Wish!",
-     "published": "2026-07-25T16:00:05+00:00",
-     "views": "57170640",
-     "short": false
-    }
-   ],
-   "live": null
+   "resolvedTitle": null,
+   "videos": []
   },
   {
    "name": "MrBeast 2",
@@ -292,52 +204,8 @@
   {
    "name": "Mumbo Jumbo",
    "channelId": "UChFur_NwVSbUozOcF_F2kMg",
-   "resolvedTitle": "Mumbo Jumbo",
-   "videos": [
-    {
-     "videoId": "zPf4c6SQ_sk",
-     "title": "Hermitcraft 11: Episode 26 - GRAND OPENING",
-     "published": "2026-08-22T19:00:26+00:00",
-     "views": "685361",
-     "short": false
-    },
-    {
-     "videoId": "cVvGBlj47CU",
-     "title": "Hermitcraft 11: Episode 25 - Final Stages",
-     "published": "2026-08-16T19:00:33+00:00",
-     "views": "811740",
-     "short": false
-    },
-    {
-     "videoId": "jNzmZD4RFgU",
-     "title": "Hermitcraft 11: Episode 24 - HELP",
-     "published": "2026-08-07T19:00:20+00:00",
-     "views": "1321153",
-     "short": false
-    },
-    {
-     "videoId": "NAX-FHiXrOg",
-     "title": "Hermitcraft 11: Episode 23 - Creative Process",
-     "published": "2026-07-26T19:00:24+00:00",
-     "views": "1006634",
-     "short": false
-    },
-    {
-     "videoId": "8Oiy9VVAoiY",
-     "title": "Hermitcraft 11: Episode 22 - Making Art",
-     "published": "2026-07-18T19:00:24+00:00",
-     "views": "1365193",
-     "short": false
-    },
-    {
-     "videoId": "xzz2iKVlBrY",
-     "title": "Hermitcraft 11: Episode 21 - big problems",
-     "published": "2026-07-08T19:00:34+00:00",
-     "views": "1145120",
-     "short": false
-    }
-   ],
-   "live": null
+   "resolvedTitle": null,
+   "videos": []
   },
   {
    "name": "Nick DiGiovanni",
