@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-25T04:38:34.308528+00:00",
+ "generated": "2026-08-25T05:31:23.322893+00:00",
  "channels": [
   {
    "name": "2 Much ColinFurze",
@@ -46,14 +46,102 @@
   {
    "name": "Dallas Taylor",
    "channelId": "UCFu_7pxU3-CByq7bxjVuE4Q",
-   "resolvedTitle": null,
-   "videos": []
+   "resolvedTitle": "Dallas Taylor",
+   "videos": [
+    {
+     "videoId": "bc5H5z6iC7w",
+     "title": "Why drum corps is cynical about amplification",
+     "published": "2026-08-24T14:00:39+00:00",
+     "views": "1954",
+     "short": true
+    },
+    {
+     "videoId": "Cl4G9BhvYOE",
+     "title": "Inside World Champion Drum Corps Sound Mixing",
+     "published": "2026-08-23T14:00:30+00:00",
+     "views": "3897",
+     "short": true
+    },
+    {
+     "videoId": "wVNqTpIY4jw",
+     "title": "Bluey’s composer on “Mickey Mousing” in music soundtracks",
+     "published": "2026-08-22T14:00:12+00:00",
+     "views": "2842",
+     "short": true
+    },
+    {
+     "videoId": "lUuq-h41XZI",
+     "title": "Bluey’s “The Sign” music is the shows theme in reverse",
+     "published": "2026-08-21T15:46:50+00:00",
+     "views": "6367",
+     "short": true
+    },
+    {
+     "videoId": "T7bXlyKI7Q8",
+     "title": "Bluey's 'The Sign' Music Is the Show's Theme Played in Reverse",
+     "published": "2026-08-19T22:31:37+00:00",
+     "views": "180088",
+     "short": false
+    },
+    {
+     "videoId": "wbhjixj9BYc",
+     "title": "Why the Bluecoats Sound Like No One Else",
+     "published": "2026-08-19T15:26:15+00:00",
+     "views": "23773",
+     "short": true
+    }
+   ],
+   "live": null
   },
   {
    "name": "DIY Perks",
    "channelId": "UCUQo7nzH1sXVpzL92VesANw",
-   "resolvedTitle": null,
-   "videos": []
+   "resolvedTitle": "DIY Perks",
+   "videos": [
+    {
+     "videoId": "7FStfdGjAwc",
+     "title": "Transforming dead hardware into high-performance PCs",
+     "published": "2026-07-17T12:00:19+00:00",
+     "views": "1215481",
+     "short": false
+    },
+    {
+     "videoId": "rqCt61ZbU10",
+     "title": "Building an LED SUPERNOVA!",
+     "published": "2026-02-28T12:15:13+00:00",
+     "views": "2143899",
+     "short": false
+    },
+    {
+     "videoId": "o6Z0MxWCbrc",
+     "title": "DIY Perks builds a beautiful mud hut... (a break from technology)",
+     "published": "2025-08-31T12:31:04+00:00",
+     "views": "1024912",
+     "short": false
+    },
+    {
+     "videoId": "EyR2-C9ggi0",
+     "title": "True Wireless Power is FINALLY here (building a TRULY wire-free setup)",
+     "published": "2025-06-03T13:00:33+00:00",
+     "views": "3219902",
+     "short": false
+    },
+    {
+     "videoId": "qXrn4MqY1Wo",
+     "title": "DIY \"infinity contrast\" TV -  with 100% recycled parts",
+     "published": "2025-03-01T07:15:03+00:00",
+     "views": "3636577",
+     "short": false
+    },
+    {
+     "videoId": "1H4FuNAByUs",
+     "title": "DIY Surround Sound... USING LASERS!",
+     "published": "2024-12-13T19:45:00+00:00",
+     "views": "3084204",
+     "short": false
+    }
+   ],
+   "live": null
   },
   {
    "name": "Engwerda Studios",
@@ -100,52 +188,8 @@
   {
    "name": "Linus Tech Tips",
    "channelId": "UCXuqSBlHAE6Xw-yeJA0Tunw",
-   "resolvedTitle": "Linus Tech Tips",
-   "videos": [
-    {
-     "videoId": "ZWCAXHNOIcA",
-     "title": "The Most Shockingly Affordable Upgrade I've Seen in YEARS",
-     "published": "2026-08-24T17:08:01+00:00",
-     "views": "286259",
-     "short": false
-    },
-    {
-     "videoId": "DXK-F0SjC_E",
-     "title": "I put the NEWEST CPU in the OLDEST Motherboard",
-     "published": "2026-08-22T17:00:02+00:00",
-     "views": "819160",
-     "short": false
-    },
-    {
-     "videoId": "04MFcE-ntxQ",
-     "title": "Creators Share Embarrassing Stories of Linus",
-     "published": "2026-08-21T16:51:24+00:00",
-     "views": "535064",
-     "short": true
-    },
-    {
-     "videoId": "QfCW5bXvwII",
-     "title": "Pranking Linus for his 40th Birthday",
-     "published": "2026-08-20T18:10:26+00:00",
-     "views": "1261328",
-     "short": true
-    },
-    {
-     "videoId": "36oL-7C_qR4",
-     "title": "There’s NO Excuse Not To Try Linux!",
-     "published": "2026-08-20T16:54:26+00:00",
-     "views": "691965",
-     "short": false
-    },
-    {
-     "videoId": "AHP423JqiLc",
-     "title": "$5 vs $500 Guitar Hero Controller!",
-     "published": "2026-08-19T17:00:11+00:00",
-     "views": "296988",
-     "short": false
-    }
-   ],
-   "live": null
+   "resolvedTitle": null,
+   "videos": []
   },
   {
    "name": "Luke Lafreniere",
@@ -168,8 +212,52 @@
   {
    "name": "Morley Kert",
    "channelId": "UCbtEd1MuY6gd2RpdWqkzXFw",
-   "resolvedTitle": null,
-   "videos": []
+   "resolvedTitle": "Morley Kert",
+   "videos": [
+    {
+     "videoId": "h_UzcB138mk",
+     "title": "Turning Microplastics into a $5,000 Table",
+     "published": "2026-08-07T15:01:25+00:00",
+     "views": "773155",
+     "short": false
+    },
+    {
+     "videoId": "MZ5zOdRo0oA",
+     "title": "My wife hates my mechanical keyboard.",
+     "published": "2026-07-14T20:25:29+00:00",
+     "views": "71857",
+     "short": true
+    },
+    {
+     "videoId": "nbk53J_aQRY",
+     "title": "What’s inside my secret library?",
+     "published": "2026-07-09T20:23:56+00:00",
+     "views": "34562",
+     "short": true
+    },
+    {
+     "videoId": "C72IabSrAdE",
+     "title": "My $10,000 desk",
+     "published": "2026-07-06T20:14:27+00:00",
+     "views": "138350",
+     "short": true
+    },
+    {
+     "videoId": "-BiKgWXTbgs",
+     "title": "Turning microplastics into luxury furniture",
+     "published": "2026-07-02T21:04:52+00:00",
+     "views": "664442",
+     "short": true
+    },
+    {
+     "videoId": "R1ul9iBhpVM",
+     "title": "I Hate Modern Desks... So I Built This.",
+     "published": "2026-06-20T17:31:58+00:00",
+     "views": "2973854",
+     "short": false
+    }
+   ],
+   "live": null
   },
   {
    "name": "Mr Beardstone",
@@ -180,8 +268,52 @@
   {
    "name": "MrBeast",
    "channelId": "UCX6OQ3DkcsbYNE6H8uQQuVA",
-   "resolvedTitle": null,
-   "videos": []
+   "resolvedTitle": "MrBeast",
+   "videos": [
+    {
+     "videoId": "5mU6SRS2Bxo",
+     "title": "World’s Largest Tennis Match",
+     "published": "2026-08-23T16:00:04+00:00",
+     "views": "4157572",
+     "short": true
+    },
+    {
+     "videoId": "Qtl8lJwbd4g",
+     "title": "Escape 100 Cops, Win $500,000",
+     "published": "2026-08-22T16:00:05+00:00",
+     "views": "48814590",
+     "short": false
+    },
+    {
+     "videoId": "LiH-P4rSkLI",
+     "title": "Can You Pass This Classroom Quiz?",
+     "published": "2026-08-11T16:00:06+00:00",
+     "views": "39902923",
+     "short": true
+    },
+    {
+     "videoId": "Af6i6ChAVTw",
+     "title": "Last To Leave Mansion, Keeps It",
+     "published": "2026-08-08T16:00:01+00:00",
+     "views": "96861058",
+     "short": false
+    },
+    {
+     "videoId": "f7y2XikE7sY",
+     "title": "Paying For Food With My Car",
+     "published": "2026-07-31T16:00:11+00:00",
+     "views": "49013229",
+     "short": true
+    },
+    {
+     "videoId": "lVylRtlPOIE",
+     "title": "I Granted 100 Kids Their Biggest Wish!",
+     "published": "2026-07-25T16:00:05+00:00",
+     "views": "57199498",
+     "short": false
+    }
+   ],
+   "live": null
   },
   {
    "name": "MrBeast 2",
@@ -252,8 +384,52 @@
   {
    "name": "Silver Creek Audio",
    "channelId": "UC2e3STCVOsyu75posxi0Nxg",
-   "resolvedTitle": null,
-   "videos": []
+   "resolvedTitle": "Silver Creek Audio",
+   "videos": [
+    {
+     "videoId": "Lg4o1V9oDGQ",
+     "title": "One Less Mic Stand for Live Sound Gigs",
+     "published": "2026-08-21T13:00:03+00:00",
+     "views": "7911",
+     "short": true
+    },
+    {
+     "videoId": "GNxTu5_0Nds",
+     "title": "Live Audio Gear That Let Me Stop Worrying",
+     "published": "2026-08-19T14:00:16+00:00",
+     "views": "36262",
+     "short": false
+    },
+    {
+     "videoId": "PKV4s7ukvg8",
+     "title": "Setting up Microphones for Band",
+     "published": "2026-08-13T13:00:16+00:00",
+     "views": "28079",
+     "short": true
+    },
+    {
+     "videoId": "U0inIp6RjSo",
+     "title": "Live Audio YouTubers Stream #1",
+     "published": "2026-08-12T14:23:38+00:00",
+     "views": "2258",
+     "short": false
+    },
+    {
+     "videoId": "FcNscIC7xqY",
+     "title": "I had trouble during load in...",
+     "published": "2026-08-06T13:00:21+00:00",
+     "views": "38333",
+     "short": true
+    },
+    {
+     "videoId": "H4ca1wxS_eg",
+     "title": "PA System Setup in a Driveway",
+     "published": "2026-07-30T17:05:12+00:00",
+     "views": "41288",
+     "short": true
+    }
+   ],
+   "live": null
   },
   {
    "name": "Solidarity",
@@ -306,8 +482,52 @@
   {
    "name": "Zip Tie Tuning",
    "channelId": "UCWqW23Ko6dbscptZYyQE-8A",
-   "resolvedTitle": null,
-   "videos": []
+   "resolvedTitle": "Zip Tie Tuning",
+   "videos": [
+    {
+     "videoId": "dj1h3R2zEOc",
+     "title": "Why Did I Do This?!",
+     "published": "2026-08-05T16:56:11+00:00",
+     "views": "313781",
+     "short": false
+    },
+    {
+     "videoId": "ISsZ5zWz1Xo",
+     "title": "I Hope I Don't Regret This... RAV4 Engine Swap Pt. 1",
+     "published": "2026-07-23T14:39:09+00:00",
+     "views": "315109",
+     "short": false
+    },
+    {
+     "videoId": "0aIyXjpHA64",
+     "title": "This Changes Everything",
+     "published": "2026-07-09T16:40:43+00:00",
+     "views": "379178",
+     "short": false
+    },
+    {
+     "videoId": "Jw4wfkWnib8",
+     "title": "Earning my Rally Seat Time with Zip Ties",
+     "published": "2026-06-30T16:38:02+00:00",
+     "views": "160835",
+     "short": false
+    },
+    {
+     "videoId": "AiVYn4CS1ac",
+     "title": "Their Camper Got Totalled...... So We Built This",
+     "published": "2026-06-22T17:54:26+00:00",
+     "views": "242931",
+     "short": false
+    },
+    {
+     "videoId": "QsYUYXQO31U",
+     "title": "It Shouldn’t Sound This Good",
+     "published": "2026-06-13T19:27:05+00:00",
+     "views": "386213",
+     "short": false
+    }
+   ],
+   "live": null
   }
  ]
 }
