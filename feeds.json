@@ -1,55 +1,11 @@
 {
- "generated": "2026-08-26T04:39:28.075837+00:00",
+ "generated": "2026-08-26T05:34:12.142609+00:00",
  "channels": [
   {
    "name": "2 Much ColinFurze",
    "channelId": "UCdmcAwbdiXQWs9d4Qd4KzDw",
-   "resolvedTitle": "2 Much ColinFurze",
-   "videos": [
-    {
-     "videoId": "GhnCnJlkolg",
-     "title": "I flew a drone through my tunnel",
-     "published": "2026-03-24T19:31:57+00:00",
-     "views": "170278",
-     "short": true
-    },
-    {
-     "videoId": "FbigAI3_nJg",
-     "title": "The future….",
-     "published": "2026-03-09T18:00:15+00:00",
-     "views": "142863",
-     "short": true
-    },
-    {
-     "videoId": "BQPXKpEui2A",
-     "title": "Secret Garage Update #18 LOVERLY LEGS",
-     "published": "2026-02-26T16:00:25+00:00",
-     "views": "1516936",
-     "short": false
-    },
-    {
-     "videoId": "lUOnL8CzMBQ",
-     "title": "Today in the workshop of dreams",
-     "published": "2026-01-31T19:40:38+00:00",
-     "views": "723123",
-     "short": true
-    },
-    {
-     "videoId": "zkMOFyjRdjU",
-     "title": "Secret Garage Update #17 The Last 7 Months AND......",
-     "published": "2026-01-29T16:01:36+00:00",
-     "views": "2341362",
-     "short": false
-    },
-    {
-     "videoId": "5TOfU4TwICM",
-     "title": "Big Ben has no 10’s",
-     "published": "2026-01-28T19:16:39+00:00",
-     "views": "398654",
-     "short": true
-    }
-   ],
-   "live": null
+   "resolvedTitle": null,
+   "videos": []
   },
   {
    "name": "Aaron Rheins",
@@ -84,8 +40,52 @@
   {
    "name": "colinfurze",
    "channelId": "UCp68_FLety0O-n9QU6phsgw",
-   "resolvedTitle": null,
-   "videos": []
+   "resolvedTitle": "colinfurze",
+   "videos": [
+    {
+     "videoId": "oxF2e4nqOMU",
+     "title": "What’s Happened?? #secretgarage",
+     "published": "2026-08-23T18:00:08+00:00",
+     "views": "1034112",
+     "short": true
+    },
+    {
+     "videoId": "vlThrKniVLc",
+     "title": "Amazing LEGO Tea Bag Machine",
+     "published": "2026-07-09T19:08:37+00:00",
+     "views": "967425",
+     "short": true
+    },
+    {
+     "videoId": "fJDCExWquhk",
+     "title": "HEATWAVE  SOLVED",
+     "published": "2026-06-24T17:57:47+00:00",
+     "views": "3164750",
+     "short": true
+    },
+    {
+     "videoId": "bzDM3HCjFcY",
+     "title": "Every Pickup needs this!!",
+     "published": "2026-04-23T15:01:08+00:00",
+     "views": "9674291",
+     "short": true
+    },
+    {
+     "videoId": "W6dNfWAsJRs",
+     "title": "Magnet Board cleans up!",
+     "published": "2026-04-19T17:01:24+00:00",
+     "views": "867755",
+     "short": true
+    },
+    {
+     "videoId": "fPn6GC4MUhs",
+     "title": "Magnetic Floating Skateboard.",
+     "published": "2026-03-29T18:12:32+00:00",
+     "views": "3547902",
+     "short": true
+    }
+   ],
+   "live": null
   },
   {
    "name": "Dallas Taylor",
@@ -144,8 +144,52 @@
   {
    "name": "Linus Tech Tips",
    "channelId": "UCXuqSBlHAE6Xw-yeJA0Tunw",
-   "resolvedTitle": null,
-   "videos": []
+   "resolvedTitle": "Linus Tech Tips",
+   "videos": [
+    {
+     "videoId": "H4BKUbtCmp0",
+     "title": "How do you upgrade a lifelong Tech??? - AMD $5000 Ultimate Tech Upgrade",
+     "published": "2026-08-25T17:00:27+00:00",
+     "views": "469789",
+     "short": false
+    },
+    {
+     "videoId": "ZWCAXHNOIcA",
+     "title": "The Most Shockingly Affordable Upgrade I've Seen in YEARS",
+     "published": "2026-08-24T17:08:01+00:00",
+     "views": "454712",
+     "short": false
+    },
+    {
+     "videoId": "DXK-F0SjC_E",
+     "title": "I put the NEWEST CPU in the OLDEST Motherboard",
+     "published": "2026-08-22T17:00:02+00:00",
+     "views": "887457",
+     "short": false
+    },
+    {
+     "videoId": "04MFcE-ntxQ",
+     "title": "Creators Share Embarrassing Stories of Linus",
+     "published": "2026-08-21T16:51:24+00:00",
+     "views": "585519",
+     "short": true
+    },
+    {
+     "videoId": "QfCW5bXvwII",
+     "title": "Pranking Linus for his 40th Birthday",
+     "published": "2026-08-20T18:10:26+00:00",
+     "views": "1297860",
+     "short": true
+    },
+    {
+     "videoId": "36oL-7C_qR4",
+     "title": "There’s NO Excuse Not To Try Linux!",
+     "published": "2026-08-20T16:54:26+00:00",
+     "views": "707206",
+     "short": false
+    }
+   ],
+   "live": null
   },
   {
    "name": "Luke Lafreniere",
@@ -162,8 +206,52 @@
   {
    "name": "Mark Rober",
    "channelId": "UCY1kMZp36IQSyNx_9h4mpCg",
-   "resolvedTitle": null,
-   "videos": []
+   "resolvedTitle": "Mark Rober",
+   "videos": [
+    {
+     "videoId": "KLJxCWeYGoE",
+     "title": "Why the Moon Never Changes",
+     "published": "2026-08-14T13:00:38+00:00",
+     "views": "4667968",
+     "short": true
+    },
+    {
+     "videoId": "KwqeKTM9M_8",
+     "title": "$100 Slime Challenge",
+     "published": "2026-08-12T17:16:31+00:00",
+     "views": "4323038",
+     "short": true
+    },
+    {
+     "videoId": "0BAkKJ_3Tic",
+     "title": "Lowest Heart Rate Wins!",
+     "published": "2026-07-30T13:00:33+00:00",
+     "views": "7690941",
+     "short": true
+    },
+    {
+     "videoId": "GRbokvmv-2M",
+     "title": "Stop Your Car From Getting Stolen!",
+     "published": "2026-07-16T13:00:34+00:00",
+     "views": "1555750",
+     "short": true
+    },
+    {
+     "videoId": "q3nD5qD758o",
+     "title": "I Discovered a Lost Plane",
+     "published": "2026-07-10T13:00:23+00:00",
+     "views": "24871237",
+     "short": true
+    },
+    {
+     "videoId": "eMG3FWEwJnk",
+     "title": "How To Crush an Egg with Your Bare Hand",
+     "published": "2026-07-01T17:03:49+00:00",
+     "views": "2520574",
+     "short": true
+    }
+   ],
+   "live": null
   },
   {
    "name": "Morley Kert",
@@ -204,8 +292,52 @@
   {
    "name": "Mumbo Jumbo",
    "channelId": "UChFur_NwVSbUozOcF_F2kMg",
-   "resolvedTitle": null,
-   "videos": []
+   "resolvedTitle": "Mumbo Jumbo",
+   "videos": [
+    {
+     "videoId": "zPf4c6SQ_sk",
+     "title": "Hermitcraft 11: Episode 26 - GRAND OPENING",
+     "published": "2026-08-22T19:00:26+00:00",
+     "views": "732652",
+     "short": false
+    },
+    {
+     "videoId": "cVvGBlj47CU",
+     "title": "Hermitcraft 11: Episode 25 - Final Stages",
+     "published": "2026-08-16T19:00:33+00:00",
+     "views": "818398",
+     "short": false
+    },
+    {
+     "videoId": "jNzmZD4RFgU",
+     "title": "Hermitcraft 11: Episode 24 - HELP",
+     "published": "2026-08-07T19:00:20+00:00",
+     "views": "1333186",
+     "short": false
+    },
+    {
+     "videoId": "NAX-FHiXrOg",
+     "title": "Hermitcraft 11: Episode 23 - Creative Process",
+     "published": "2026-07-26T19:00:24+00:00",
+     "views": "1010450",
+     "short": false
+    },
+    {
+     "videoId": "8Oiy9VVAoiY",
+     "title": "Hermitcraft 11: Episode 22 - Making Art",
+     "published": "2026-07-18T19:00:24+00:00",
+     "views": "1369283",
+     "short": false
+    },
+    {
+     "videoId": "xzz2iKVlBrY",
+     "title": "Hermitcraft 11: Episode 21 - big problems",
+     "published": "2026-07-08T19:00:34+00:00",
+     "views": "1147390",
+     "short": false
+    }
+   ],
+   "live": null
   },
   {
    "name": "Nick DiGiovanni",
@@ -306,8 +438,52 @@
   {
    "name": "Zip Tie Tuning",
    "channelId": "UCWqW23Ko6dbscptZYyQE-8A",
-   "resolvedTitle": null,
-   "videos": []
+   "resolvedTitle": "Zip Tie Tuning",
+   "videos": [
+    {
+     "videoId": "_ChnuEQ2VvQ",
+     "title": "Immediately Manual Swapping this M3",
+     "published": "2026-08-25T18:18:08+00:00",
+     "views": "110985",
+     "short": false
+    },
+    {
+     "videoId": "dj1h3R2zEOc",
+     "title": "Why Did I Do This?!",
+     "published": "2026-08-05T16:56:11+00:00",
+     "views": "315252",
+     "short": false
+    },
+    {
+     "videoId": "ISsZ5zWz1Xo",
+     "title": "I Hope I Don't Regret This... RAV4 Engine Swap Pt. 1",
+     "published": "2026-07-23T14:39:09+00:00",
+     "views": "316356",
+     "short": false
+    },
+    {
+     "videoId": "0aIyXjpHA64",
+     "title": "This Changes Everything",
+     "published": "2026-07-09T16:40:43+00:00",
+     "views": "379422",
+     "short": false
+    },
+    {
+     "videoId": "Jw4wfkWnib8",
+     "title": "Earning my Rally Seat Time with Zip Ties",
+     "published": "2026-06-30T16:38:02+00:00",
+     "views": "161001",
+     "short": false
+    },
+    {
+     "videoId": "AiVYn4CS1ac",
+     "title": "Their Camper Got Totalled...... So We Built This",
+     "published": "2026-06-22T17:54:26+00:00",
+     "views": "243220",
+     "short": false
+    }
+   ],
+   "live": null
   }
  ]
 }
