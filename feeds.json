@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-18T01:23:18.555756+00:00",
+ "generated": "2026-09-18T06:21:56.041782+00:00",
  "channels": [
   {
    "name": "2 Much ColinFurze",
@@ -82,52 +82,8 @@
   {
    "name": "JackSucksAtLife",
    "channelId": "UCewMTclBJZPaNEfbf-qYMGA",
-   "resolvedTitle": "JackSucksAtLife",
-   "videos": [
-    {
-     "videoId": "7UZ7DQsBP0g",
-     "title": "I Bet You've Never Heard of These London Landmarks",
-     "published": "2026-08-30T15:00:16+00:00",
-     "views": "147347",
-     "short": false
-    },
-    {
-     "videoId": "JE1hj6uDsc4",
-     "title": "Exploring Rome Alone At 5am",
-     "published": "2026-08-09T15:00:21+00:00",
-     "views": "206193",
-     "short": false
-    },
-    {
-     "videoId": "fs35cnVMrDc",
-     "title": "Sidemen 50 Youtuber Hide & Seek behind the scenes",
-     "published": "2025-11-24T15:01:27+00:00",
-     "views": "97491",
-     "short": true
-    },
-    {
-     "videoId": "vivdSxWub9Y",
-     "title": "I trained like a professional athlete for 1 month",
-     "published": "2025-11-19T16:30:24+00:00",
-     "views": "223000",
-     "short": true
-    },
-    {
-     "videoId": "eEhZfvgcWCE",
-     "title": "My first cold moment in Sidemen Among Us",
-     "published": "2025-11-06T20:00:28+00:00",
-     "views": "74717",
-     "short": true
-    },
-    {
-     "videoId": "Jqe946bRnqI",
-     "title": "The New DIAMOND YouTube Play Button!",
-     "published": "2025-10-24T16:15:02+00:00",
-     "views": "350432",
-     "short": false
-    }
-   ],
-   "live": null
+   "resolvedTitle": null,
+   "videos": []
   },
   {
    "name": "JackSucksAtStuff",
@@ -144,52 +100,8 @@
   {
    "name": "Linus Tech Tips",
    "channelId": "UCXuqSBlHAE6Xw-yeJA0Tunw",
-   "resolvedTitle": "Linus Tech Tips",
-   "videos": [
-    {
-     "videoId": "qgLaCZyKv_8",
-     "title": "I Tried All The Best (and Worst) Doorbells",
-     "published": "2026-09-17T17:29:14+00:00",
-     "views": "409957",
-     "short": false
-    },
-    {
-     "videoId": "Zzzkg_ZrOII",
-     "title": "Steam Frame Wireless Range Test",
-     "published": "2026-09-16T17:05:56+00:00",
-     "views": "1988048",
-     "short": true
-    },
-    {
-     "videoId": "zg-rMHEqg-4",
-     "title": "My Son Needs a New Laptop",
-     "published": "2026-09-16T17:00:38+00:00",
-     "views": "2145636",
-     "short": false
-    },
-    {
-     "videoId": "3xngArcFpek",
-     "title": "I Promise you this is NOT Stupid",
-     "published": "2026-09-15T17:00:03+00:00",
-     "views": "1995403",
-     "short": false
-    },
-    {
-     "videoId": "y9rtvIUjVQw",
-     "title": "Valve's Steam Frame is okay... but I love other things about it",
-     "published": "2026-09-14T17:30:39+00:00",
-     "views": "269966",
-     "short": true
-    },
-    {
-     "videoId": "3PGKMwgjla0",
-     "title": "Steam Frame Review - This Changes Everything",
-     "published": "2026-09-14T17:00:09+00:00",
-     "views": "4520152",
-     "short": false
-    }
-   ],
-   "live": null
+   "resolvedTitle": null,
+   "videos": []
   },
   {
    "name": "Luke Lafreniere",
@@ -284,52 +196,8 @@
   {
    "name": "Shiloh & Bros",
    "channelId": "UCn3AViOfcFN4zIICMC5hvPg",
-   "resolvedTitle": "Shiloh & Bros",
-   "videos": [
-    {
-     "videoId": "rYcZE9o78WE",
-     "title": "Meccha Chameleon In Real Life",
-     "published": "2026-08-28T14:05:26+00:00",
-     "views": "4374728",
-     "short": false
-    },
-    {
-     "videoId": "mWAkJSWrIg4",
-     "title": "FNAF Among Us In Real Life",
-     "published": "2026-08-07T14:40:33+00:00",
-     "views": "6500965",
-     "short": false
-    },
-    {
-     "videoId": "7OJxgboCdig",
-     "title": "Nothing gets past Judah",
-     "published": "2026-08-05T20:06:35+00:00",
-     "views": "964402",
-     "short": true
-    },
-    {
-     "videoId": "ynn6nquPYzA",
-     "title": "THIS CUSTOM NERF BLASTER IS AMAZING",
-     "published": "2026-07-29T15:56:19+00:00",
-     "views": "1682670",
-     "short": true
-    },
-    {
-     "videoId": "H-871VAiN2I",
-     "title": "Backrooms In Real Life",
-     "published": "2026-07-17T13:00:21+00:00",
-     "views": "9355519",
-     "short": false
-    },
-    {
-     "videoId": "5y9VcT3FTlo",
-     "title": "If NERF Fights Had Battle Royales",
-     "published": "2026-07-03T16:33:57+00:00",
-     "views": "5439312",
-     "short": false
-    }
-   ],
-   "live": null
+   "resolvedTitle": null,
+   "videos": []
   },
   {
    "name": "ShortCircuit",
