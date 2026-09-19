@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-18T23:55:09.267535+00:00",
+ "generated": "2026-09-19T03:29:57.734386+00:00",
  "channels": [
   {
    "name": "2 Much ColinFurze",
@@ -100,55 +100,8 @@
   {
    "name": "Linus Tech Tips",
    "channelId": "UCXuqSBlHAE6Xw-yeJA0Tunw",
-   "resolvedTitle": "Linus Tech Tips",
-   "videos": [
-    {
-     "videoId": "Z1sqWFs86uU",
-     "title": "Building the Rarest PC",
-     "published": "2026-09-18T19:52:10+00:00",
-     "views": "91139",
-     "short": false
-    },
-    {
-     "videoId": "pJWqvVnDT0A",
-     "title": "Custom PC for DisguisedToast",
-     "published": "2026-09-18T19:18:56+00:00",
-     "views": "29148",
-     "short": true
-    },
-    {
-     "videoId": "qgLaCZyKv_8",
-     "title": "I Tried All The Best (and Worst) Doorbells",
-     "published": "2026-09-17T17:29:14+00:00",
-     "views": "945932",
-     "short": false
-    },
-    {
-     "videoId": "Zzzkg_ZrOII",
-     "title": "Steam Frame Wireless Range Test",
-     "published": "2026-09-16T17:05:56+00:00",
-     "views": "2474319",
-     "short": true
-    },
-    {
-     "videoId": "zg-rMHEqg-4",
-     "title": "My Son Needs a New Laptop",
-     "published": "2026-09-16T17:00:38+00:00",
-     "views": "2479434",
-     "short": false
-    },
-    {
-     "videoId": "3xngArcFpek",
-     "title": "I Promise you this is NOT Stupid",
-     "published": "2026-09-15T17:00:03+00:00",
-     "views": "2120879",
-     "short": false
-    }
-   ],
-   "live": {
-    "videoId": "EthkNLasUa8",
-    "title": "Live now"
-   }
+   "resolvedTitle": null,
+   "videos": []
   },
   {
    "name": "Luke Lafreniere",
@@ -165,52 +118,8 @@
   {
    "name": "Mark Rober",
    "channelId": "UCY1kMZp36IQSyNx_9h4mpCg",
-   "resolvedTitle": "Mark Rober",
-   "videos": [
-    {
-     "videoId": "NUVkpWAD548",
-     "title": "Chivalry or Engineering?",
-     "published": "2026-09-18T13:00:02+00:00",
-     "views": "846277",
-     "short": true
-    },
-    {
-     "videoId": "67LFeTgFv3Y",
-     "title": "Why Do People Pass Out On Roller Coasters?",
-     "published": "2026-08-28T13:00:36+00:00",
-     "views": "6405423",
-     "short": true
-    },
-    {
-     "videoId": "KLJxCWeYGoE",
-     "title": "Why the Moon Never Changes",
-     "published": "2026-08-14T13:00:38+00:00",
-     "views": "6261238",
-     "short": true
-    },
-    {
-     "videoId": "KwqeKTM9M_8",
-     "title": "$100 Slime Challenge",
-     "published": "2026-08-12T17:16:31+00:00",
-     "views": "6862599",
-     "short": true
-    },
-    {
-     "videoId": "0BAkKJ_3Tic",
-     "title": "Lowest Heart Rate Wins!",
-     "published": "2026-07-30T13:00:33+00:00",
-     "views": "9981727",
-     "short": true
-    },
-    {
-     "videoId": "GRbokvmv-2M",
-     "title": "Stop Your Car From Getting Stolen!",
-     "published": "2026-07-16T13:00:34+00:00",
-     "views": "1734577",
-     "short": true
-    }
-   ],
-   "live": null
+   "resolvedTitle": null,
+   "videos": []
   },
   {
    "name": "Morley Kert",
@@ -227,52 +136,8 @@
   {
    "name": "MrBeast",
    "channelId": "UCX6OQ3DkcsbYNE6H8uQQuVA",
-   "resolvedTitle": "MrBeast",
-   "videos": [
-    {
-     "videoId": "T_SMf9j50uc",
-     "title": "Can We Build an Entire Village?",
-     "published": "2026-09-18T16:00:01+00:00",
-     "views": "4710464",
-     "short": true
-    },
-    {
-     "videoId": "gTKS8SAwUzE",
-     "title": "I Survived The Most Extreme Places On Earth",
-     "published": "2026-09-05T16:00:01+00:00",
-     "views": "105256249",
-     "short": false
-    },
-    {
-     "videoId": "5mU6SRS2Bxo",
-     "title": "World’s Largest Tennis Match",
-     "published": "2026-08-23T16:00:04+00:00",
-     "views": "13553931",
-     "short": true
-    },
-    {
-     "videoId": "Qtl8lJwbd4g",
-     "title": "Escape 100 Cops, Win $500,000",
-     "published": "2026-08-22T16:00:05+00:00",
-     "views": "107459594",
-     "short": false
-    },
-    {
-     "videoId": "LiH-P4rSkLI",
-     "title": "Can You Pass This Classroom Quiz?",
-     "published": "2026-08-11T16:00:06+00:00",
-     "views": "52050215",
-     "short": true
-    },
-    {
-     "videoId": "Af6i6ChAVTw",
-     "title": "Last To Leave Mansion, Keeps It",
-     "published": "2026-08-08T16:00:01+00:00",
-     "views": "114785436",
-     "short": false
-    }
-   ],
-   "live": null
+   "resolvedTitle": null,
+   "videos": []
   },
   {
    "name": "MrBeast 2",
@@ -283,52 +148,8 @@
   {
    "name": "Mrwhosetheboss",
    "channelId": "UCMiJRAwDNSNzuYeN2uWa0pA",
-   "resolvedTitle": "Mrwhosetheboss",
-   "videos": [
-    {
-     "videoId": "PjAyUhf52D0",
-     "title": "iPhone 18 Pro Review - My Last iPhone?",
-     "published": "2026-09-18T15:55:28+00:00",
-     "views": "1984203",
-     "short": false
-    },
-    {
-     "videoId": "3YcdmkZx7Fw",
-     "title": "iPhone 18 Pro - Does variable aperture matter?",
-     "published": "2026-09-16T15:07:05+00:00",
-     "views": "1190081",
-     "short": true
-    },
-    {
-     "videoId": "n6hPB3Arr_M",
-     "title": "iPhone 18 Pro Unboxing - This Needs Explaining",
-     "published": "2026-09-16T12:03:46+00:00",
-     "views": "7310663",
-     "short": false
-    },
-    {
-     "videoId": "5pV3D14y1FQ",
-     "title": "iPhone Duo/18 Pro Hands On - I wasn’t ready",
-     "published": "2026-09-10T07:11:46+00:00",
-     "views": "15885048",
-     "short": false
-    },
-    {
-     "videoId": "6AkGhTBtR4o",
-     "title": "iPhone Duo Hands On!",
-     "published": "2026-09-09T20:20:43+00:00",
-     "views": "15079073",
-     "short": true
-    },
-    {
-     "videoId": "VTLnDqjfRZQ",
-     "title": "I spent $12,000 on the THINNEST Tech",
-     "published": "2026-09-08T11:09:52+00:00",
-     "views": "16132741",
-     "short": false
-    }
-   ],
-   "live": null
+   "resolvedTitle": null,
+   "videos": []
   },
   {
    "name": "Mrwhosetheboss Plus",
@@ -345,102 +166,14 @@
   {
    "name": "Nick DiGiovanni",
    "channelId": "UCMyOj6fhvKFMjxUCp3b_3gA",
-   "resolvedTitle": "Nick DiGiovanni",
-   "videos": [
-    {
-     "videoId": "y6Uqnm3SN0A",
-     "title": "Steak Progression",
-     "published": "2026-09-16T13:00:33+00:00",
-     "views": "5828239",
-     "short": true
-    },
-    {
-     "videoId": "f7Xa-619NlY",
-     "title": "3D Printed Kitchen Gadgets",
-     "published": "2026-09-13T13:00:40+00:00",
-     "views": "10828920",
-     "short": true
-    },
-    {
-     "videoId": "1fGScw5eX0M",
-     "title": "10 Levels Of Spicy Food",
-     "published": "2026-09-12T16:00:00+00:00",
-     "views": "33466051",
-     "short": false
-    },
-    {
-     "videoId": "wfTISOEGVqQ",
-     "title": "1 Second vs 1 Hour Chicken",
-     "published": "2026-09-11T16:00:32+00:00",
-     "views": "72750877",
-     "short": true
-    },
-    {
-     "videoId": "HumwgA8byDU",
-     "title": "Pringles Stack",
-     "published": "2026-09-04T16:00:11+00:00",
-     "views": "15533238",
-     "short": true
-    },
-    {
-     "videoId": "cKrFL4N8s9k",
-     "title": "1 Second vs 1 Hour Egg",
-     "published": "2026-09-01T16:00:40+00:00",
-     "views": "12528583",
-     "short": true
-    }
-   ],
-   "live": null
+   "resolvedTitle": null,
+   "videos": []
   },
   {
    "name": "Ryan Trahan",
    "channelId": "UCnmGIkw-KdI0W5siakKPKog",
-   "resolvedTitle": "Ryan Trahan",
-   "videos": [
-    {
-     "videoId": "1w3XaMSIeR8",
-     "title": "How Many Countries Can I Visit in 7 Days?",
-     "published": "2026-09-12T15:00:22+00:00",
-     "views": "10342008",
-     "short": false
-    },
-    {
-     "videoId": "4VwbYrqJfzg",
-     "title": "surprising Yousif for his birthday 🎁",
-     "published": "2026-09-05T16:28:02+00:00",
-     "views": "7010119",
-     "short": true
-    },
-    {
-     "videoId": "_IvIVI8PIRI",
-     "title": "Surprising my old teacher",
-     "published": "2026-08-08T17:49:18+00:00",
-     "views": "43186609",
-     "short": true
-    },
-    {
-     "videoId": "mDz5MgFZUMo",
-     "title": "dinner",
-     "published": "2026-08-07T15:00:29+00:00",
-     "views": "2216579",
-     "short": true
-    },
-    {
-     "videoId": "uugVAg1LI68",
-     "title": "Testing Mark Rober’s “Jelly Bean Guessing Game HACK”",
-     "published": "2026-07-29T22:49:54+00:00",
-     "views": "5594163",
-     "short": true
-    },
-    {
-     "videoId": "gye8x0Jr0Uo",
-     "title": "Pranking SIDEMEN in America 🇺🇸😂",
-     "published": "2026-07-26T22:48:40+00:00",
-     "views": "2732304",
-     "short": true
-    }
-   ],
-   "live": null
+   "resolvedTitle": null,
+   "videos": []
   },
   {
    "name": "Sage Ellenwood",
@@ -463,102 +196,14 @@
   {
    "name": "Shiloh & Bros",
    "channelId": "UCn3AViOfcFN4zIICMC5hvPg",
-   "resolvedTitle": "Shiloh & Bros",
-   "videos": [
-    {
-     "videoId": "z8DL46fxAfg",
-     "title": "99 Nights In The Forest 4 In Real Life [Roblox]",
-     "published": "2026-09-18T14:36:06+00:00",
-     "views": "828190",
-     "short": false
-    },
-    {
-     "videoId": "rYcZE9o78WE",
-     "title": "Meccha Chameleon In Real Life",
-     "published": "2026-08-28T14:05:26+00:00",
-     "views": "4454386",
-     "short": false
-    },
-    {
-     "videoId": "mWAkJSWrIg4",
-     "title": "FNAF Among Us In Real Life",
-     "published": "2026-08-07T14:40:33+00:00",
-     "views": "6541059",
-     "short": false
-    },
-    {
-     "videoId": "7OJxgboCdig",
-     "title": "Nothing gets past Judah",
-     "published": "2026-08-05T20:06:35+00:00",
-     "views": "971298",
-     "short": true
-    },
-    {
-     "videoId": "ynn6nquPYzA",
-     "title": "THIS CUSTOM NERF BLASTER IS AMAZING",
-     "published": "2026-07-29T15:56:19+00:00",
-     "views": "1693188",
-     "short": true
-    },
-    {
-     "videoId": "H-871VAiN2I",
-     "title": "Backrooms In Real Life",
-     "published": "2026-07-17T13:00:21+00:00",
-     "views": "9400869",
-     "short": false
-    }
-   ],
-   "live": null
+   "resolvedTitle": null,
+   "videos": []
   },
   {
    "name": "ShortCircuit",
    "channelId": "UCdBK94H6oZT2Q7l0-b0xmMg",
-   "resolvedTitle": "ShortCircuit",
-   "videos": [
-    {
-     "videoId": "Dznsr0KN1XU",
-     "title": "This Is All the Laptop Most People Need - Dell XPS 13",
-     "published": "2026-09-18T19:17:05+00:00",
-     "views": "44464",
-     "short": false
-    },
-    {
-     "videoId": "2q5x8pdLRpo",
-     "title": "Linus Sebastian and the quest for the computer grail - GPD Box and G2 eGPU",
-     "published": "2026-09-17T22:46:34+00:00",
-     "views": "448319",
-     "short": false
-    },
-    {
-     "videoId": "Olwjkt1QNTk",
-     "title": "Business in the front, gamer in the back - MSI Prestige 16 AI +",
-     "published": "2026-09-15T19:27:30+00:00",
-     "views": "235978",
-     "short": false
-    },
-    {
-     "videoId": "MW_9s3Y_urI",
-     "title": "The Steam Frame is Here!",
-     "published": "2026-09-14T17:12:34+00:00",
-     "views": "85993",
-     "short": true
-    },
-    {
-     "videoId": "yYfActSoDbY",
-     "title": "Steam frame Unboxing!",
-     "published": "2026-09-14T17:12:25+00:00",
-     "views": "58159",
-     "short": true
-    },
-    {
-     "videoId": "u8R-bnz1MPU",
-     "title": "Our first 30 mins with the steam frame",
-     "published": "2026-09-14T17:06:20+00:00",
-     "views": "743562",
-     "short": false
-    }
-   ],
-   "live": null
+   "resolvedTitle": null,
+   "videos": []
   },
   {
    "name": "Silver Creek Audio",
@@ -605,52 +250,8 @@
   {
    "name": "Wendover Productions",
    "channelId": "UC9RM-iSvTu1uPJb8X5yp3EQ",
-   "resolvedTitle": "Wendover Productions",
-   "videos": [
-    {
-     "videoId": "gLkbK8h_9fc",
-     "title": "How the Channel Tunnel Works",
-     "published": "2026-09-04T18:38:45+00:00",
-     "views": "1900691",
-     "short": false
-    },
-    {
-     "videoId": "2gpRaJMjHbc",
-     "title": "Why the Ikea Business Model Wins",
-     "published": "2026-08-25T17:56:16+00:00",
-     "views": "870869",
-     "short": false
-    },
-    {
-     "videoId": "2iHPVsyv4GU",
-     "title": "How Taiwan is Preparing to Get Invaded",
-     "published": "2026-08-08T17:59:43+00:00",
-     "views": "1492339",
-     "short": false
-    },
-    {
-     "videoId": "dzmoALgtB1Q",
-     "title": "Why Texas Wins",
-     "published": "2026-08-04T14:30:25+00:00",
-     "views": "523723",
-     "short": false
-    },
-    {
-     "videoId": "VuliaG_-uao",
-     "title": "Why American Houses Are So Flimsy",
-     "published": "2026-07-15T16:49:56+00:00",
-     "views": "704519",
-     "short": false
-    },
-    {
-     "videoId": "DPeRd48YfqY",
-     "title": "How Private Equity Ruined American Youth Sports",
-     "published": "2026-06-30T20:13:31+00:00",
-     "views": "603046",
-     "short": false
-    }
-   ],
-   "live": null
+   "resolvedTitle": null,
+   "videos": []
   },
   {
    "name": "Zip Tie Tech",
