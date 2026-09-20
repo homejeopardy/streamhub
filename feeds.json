@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-20T01:24:44.588931+00:00",
+ "generated": "2026-09-20T06:43:06.264185+00:00",
  "channels": [
   {
    "name": "2 Much ColinFurze",
@@ -148,52 +148,8 @@
   {
    "name": "Mrwhosetheboss",
    "channelId": "UCMiJRAwDNSNzuYeN2uWa0pA",
-   "resolvedTitle": "Mrwhosetheboss",
-   "videos": [
-    {
-     "videoId": "PjAyUhf52D0",
-     "title": "iPhone 18 Pro Review - My Last iPhone?",
-     "published": "2026-09-18T15:55:28+00:00",
-     "views": "3684086",
-     "short": false
-    },
-    {
-     "videoId": "3YcdmkZx7Fw",
-     "title": "iPhone 18 Pro - Does variable aperture matter?",
-     "published": "2026-09-16T15:07:05+00:00",
-     "views": "1348689",
-     "short": true
-    },
-    {
-     "videoId": "n6hPB3Arr_M",
-     "title": "iPhone 18 Pro Unboxing - This Needs Explaining",
-     "published": "2026-09-16T12:03:46+00:00",
-     "views": "8186975",
-     "short": false
-    },
-    {
-     "videoId": "5pV3D14y1FQ",
-     "title": "iPhone Duo/18 Pro Hands On - I wasn’t ready",
-     "published": "2026-09-10T07:11:46+00:00",
-     "views": "16033364",
-     "short": false
-    },
-    {
-     "videoId": "6AkGhTBtR4o",
-     "title": "iPhone Duo Hands On!",
-     "published": "2026-09-09T20:20:43+00:00",
-     "views": "15123375",
-     "short": true
-    },
-    {
-     "videoId": "VTLnDqjfRZQ",
-     "title": "I spent $12,000 on the THINNEST Tech",
-     "published": "2026-09-08T11:09:52+00:00",
-     "views": "16566543",
-     "short": false
-    }
-   ],
-   "live": null
+   "resolvedTitle": null,
+   "videos": []
   },
   {
    "name": "Mrwhosetheboss Plus",
@@ -287,7 +243,7 @@
   },
   {
    "name": "WAN Show",
-   "channelId": null,
+   "channelId": "UCVlfe3MRSCZSeIWByrWHhkg",
    "resolvedTitle": null,
    "videos": []
   },
