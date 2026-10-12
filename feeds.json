@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-11T23:31:58.557480+00:00",
+ "generated": "2026-10-12T04:41:39.023195+00:00",
  "channels": [
   {
    "name": "2 Much ColinFurze",
@@ -112,52 +112,8 @@
   {
    "name": "Man Made",
    "channelId": "UCSNgS5ZY7JudYXoK6N3dqFA",
-   "resolvedTitle": "Man Made",
-   "videos": [
-    {
-     "videoId": "YXUCN3qbqL8",
-     "title": "He'll never guess what I put in my office....",
-     "published": "2026-08-31T21:55:08+00:00",
-     "views": "24262",
-     "short": true
-    },
-    {
-     "videoId": "TKxghFFz87k",
-     "title": "This is my Bedroom....",
-     "published": "2026-08-18T19:00:39+00:00",
-     "views": "1240907",
-     "short": false
-    },
-    {
-     "videoId": "EAOutIsbJLk",
-     "title": "I made this cause I needed a nap lol",
-     "published": "2026-02-06T19:04:21+00:00",
-     "views": "855970",
-     "short": false
-    },
-    {
-     "videoId": "k5eHSd-p3x0",
-     "title": "I Made a Desk For Endless Fidgeting",
-     "published": "2025-12-12T20:05:39+00:00",
-     "views": "2998838",
-     "short": false
-    },
-    {
-     "videoId": "D3XFIa7Fz80",
-     "title": "They said I needed an Engineer for this......lol",
-     "published": "2025-09-15T23:26:54+00:00",
-     "views": "2326215",
-     "short": false
-    },
-    {
-     "videoId": "QbMK26dwUgg",
-     "title": "The Most Exhausting 2 Weeks of my Life",
-     "published": "2025-06-06T15:23:19+00:00",
-     "views": "869534",
-     "short": false
-    }
-   ],
-   "live": null
+   "resolvedTitle": null,
+   "videos": []
   },
   {
    "name": "Mark Rober",
@@ -174,52 +130,8 @@
   {
    "name": "Mr Beardstone",
    "channelId": "UC8eiUrkeQZ9_M3gXKSGnqeg",
-   "resolvedTitle": "Mr Beardstone",
-   "videos": [
-    {
-     "videoId": "rn2RxtpEiWw",
-     "title": "I Spent 100 Days Building a Theme Park in Minecraft Survival!",
-     "published": "2026-10-11T12:15:38+00:00",
-     "views": "35645",
-     "short": false
-    },
-    {
-     "videoId": "s2pDa8svmDI",
-     "title": "EASY potion brewing in Minecraft Create Mod!",
-     "published": "2026-10-04T12:15:29+00:00",
-     "views": "65859",
-     "short": false
-    },
-    {
-     "videoId": "f8xU01APisg",
-     "title": "This compact machine can dye in ANY colour!",
-     "published": "2026-09-27T12:15:26+00:00",
-     "views": "67968",
-     "short": false
-    },
-    {
-     "videoId": "TWwSTNxVsq8",
-     "title": "Perfect World: Post Production - A Minecraft Create Mod Movie (Part 3)",
-     "published": "2026-09-23T12:15:17+00:00",
-     "views": "33210",
-     "short": false
-    },
-    {
-     "videoId": "Hqo1bIIPpa0",
-     "title": "I designed 5 INTERIORS in Minecraft Create Mod!",
-     "published": "2026-09-20T12:15:24+00:00",
-     "views": "60006",
-     "short": false
-    },
-    {
-     "videoId": "179E7Gtfyw0",
-     "title": "I built a FLEET of AIRSHIPS in Minecraft Create Mod!",
-     "published": "2026-09-16T12:15:38+00:00",
-     "views": "70620",
-     "short": false
-    }
-   ],
-   "live": null
+   "resolvedTitle": null,
+   "videos": []
   },
   {
    "name": "MrBeast",
