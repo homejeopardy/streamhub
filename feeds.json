@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-13T22:21:44.785553+00:00",
+ "generated": "2026-10-14T01:19:40.561879+00:00",
  "channels": [
   {
    "name": "2 Much ColinFurze",
@@ -16,52 +16,8 @@
   {
    "name": "BocaBola",
    "channelId": "UCBur6ZOAqhjRs9PadDArozQ",
-   "resolvedTitle": "BocaBola",
-   "videos": [
-    {
-     "videoId": "Nnt3L1o8tUE",
-     "title": "I Quit My Job and Streamed for 2 Weeks Straight...",
-     "published": "2026-10-09T15:30:05+00:00",
-     "views": "221955",
-     "short": false
-    },
-    {
-     "videoId": "2NZ3gAKlH7c",
-     "title": "My Steam Frame Arrived!",
-     "published": "2026-10-02T15:30:39+00:00",
-     "views": "130072",
-     "short": false
-    },
-    {
-     "videoId": "NMFFJOPzi_I",
-     "title": "I Took My Steam Machine to a LAN Party",
-     "published": "2026-09-25T15:30:20+00:00",
-     "views": "458972",
-     "short": false
-    },
-    {
-     "videoId": "CNAMJrnBey4",
-     "title": "Building a PC Doesn't Have to Be Expensive",
-     "published": "2026-09-22T15:15:21+00:00",
-     "views": "43648",
-     "short": true
-    },
-    {
-     "videoId": "8xAdPqfRQa0",
-     "title": "I was FORCED to Make a Tough Decision",
-     "published": "2026-09-18T22:44:34+00:00",
-     "views": "1405369",
-     "short": false
-    },
-    {
-     "videoId": "-ANe8qusEP4",
-     "title": "Your Partner is More Important than your Mom",
-     "published": "2026-09-15T16:44:53+00:00",
-     "views": "69445",
-     "short": true
-    }
-   ],
-   "live": null
+   "resolvedTitle": null,
+   "videos": []
   },
   {
    "name": "Brandon Y Lee",
@@ -72,52 +28,8 @@
   {
    "name": "Bud n' Pal",
    "channelId": "UCc0gJiC4sDWGz-N7huVDOfg",
-   "resolvedTitle": "Bud n' Pal",
-   "videos": [
-    {
-     "videoId": "6kspHVY2twk",
-     "title": "Eating Everything Our Waitress Orders For Us in Taiwan",
-     "published": "2026-06-25T16:07:49+00:00",
-     "views": "51014",
-     "short": false
-    },
-    {
-     "videoId": "6Keoy13Q_x4",
-     "title": "Circling Taiwan Wasn't Suppose to be this Hard...",
-     "published": "2026-06-23T15:55:15+00:00",
-     "views": "146338",
-     "short": false
-    },
-    {
-     "videoId": "w2eqVyD0nsQ",
-     "title": "New RV There Yet Map is Fun",
-     "published": "2026-05-11T15:59:16+00:00",
-     "views": "4560",
-     "short": true
-    },
-    {
-     "videoId": "kVn7eOG4UKE",
-     "title": "The Sykunno Pokemon...",
-     "published": "2026-04-21T01:41:50+00:00",
-     "views": "1780",
-     "short": true
-    },
-    {
-     "videoId": "6q5dSSZGqDs",
-     "title": "How to play Vaporeon properly  #pokemon #nuzlocke",
-     "published": "2026-03-30T14:52:25+00:00",
-     "views": "37564",
-     "short": true
-    },
-    {
-     "videoId": "pV-H_Diz4XU",
-     "title": "Pokémon pushed to the limits #pokemon #nuzlocke",
-     "published": "2026-03-17T17:40:08+00:00",
-     "views": "34801",
-     "short": true
-    }
-   ],
-   "live": null
+   "resolvedTitle": null,
+   "videos": []
   },
   {
    "name": "Chaz Draycott Media",
@@ -127,7 +39,7 @@
   },
   {
    "name": "colinfurze",
-   "channelId": "UCp68_FLety0O-n9QU6phsgw",
+   "channelId": null,
    "resolvedTitle": null,
    "videos": []
   },
@@ -140,52 +52,8 @@
   {
    "name": "DIY Perks",
    "channelId": "UCUQo7nzH1sXVpzL92VesANw",
-   "resolvedTitle": "DIY Perks",
-   "videos": [
-    {
-     "videoId": "4VnCJdYImb8",
-     "title": "Building a NEW kind of invisible PC",
-     "published": "2026-09-29T11:30:24+00:00",
-     "views": "3656822",
-     "short": false
-    },
-    {
-     "videoId": "7FStfdGjAwc",
-     "title": "A new way to build a PC in 2026!",
-     "published": "2026-07-17T12:00:19+00:00",
-     "views": "1698390",
-     "short": false
-    },
-    {
-     "videoId": "rqCt61ZbU10",
-     "title": "Building an LED SUPERNOVA!",
-     "published": "2026-02-28T12:15:13+00:00",
-     "views": "2193435",
-     "short": false
-    },
-    {
-     "videoId": "o6Z0MxWCbrc",
-     "title": "Building a beautiful mud hut... (a break from technology)",
-     "published": "2025-08-31T12:31:04+00:00",
-     "views": "1091071",
-     "short": false
-    },
-    {
-     "videoId": "EyR2-C9ggi0",
-     "title": "True Wireless Power is FINALLY here (building a TRULY wire-free setup)",
-     "published": "2025-06-03T13:00:33+00:00",
-     "views": "3309488",
-     "short": false
-    },
-    {
-     "videoId": "qXrn4MqY1Wo",
-     "title": "DIY \"infinity contrast\" TV -  with 100% recycled parts",
-     "published": "2025-03-01T07:15:03+00:00",
-     "views": "3812796",
-     "short": false
-    }
-   ],
-   "live": null
+   "resolvedTitle": null,
+   "videos": []
   },
   {
    "name": "Engwerda Studios",
@@ -250,52 +118,8 @@
   {
    "name": "Mark Rober",
    "channelId": "UCY1kMZp36IQSyNx_9h4mpCg",
-   "resolvedTitle": "Mark Rober",
-   "videos": [
-    {
-     "videoId": "5N17EbYJBwQ",
-     "title": "4 Levels of Satisfying Crunches",
-     "published": "2026-10-09T17:56:55+00:00",
-     "views": "792659",
-     "short": true
-    },
-    {
-     "videoId": "tbWTiZlwJ3M",
-     "title": "You Have Spiders on Your Face RIGHT NOW!",
-     "published": "2026-09-30T13:00:14+00:00",
-     "views": "2191254",
-     "short": true
-    },
-    {
-     "videoId": "_L1Rim7-IPo",
-     "title": "Last Cheater Standing Wins $10,000",
-     "published": "2026-09-19T13:00:35+00:00",
-     "views": "27246520",
-     "short": false
-    },
-    {
-     "videoId": "NUVkpWAD548",
-     "title": "Chivalry or Engineering?",
-     "published": "2026-09-18T13:00:02+00:00",
-     "views": "4543486",
-     "short": true
-    },
-    {
-     "videoId": "67LFeTgFv3Y",
-     "title": "Why Do People Pass Out On Roller Coasters?",
-     "published": "2026-08-28T13:00:36+00:00",
-     "views": "8063526",
-     "short": true
-    },
-    {
-     "videoId": "KLJxCWeYGoE",
-     "title": "Why the Moon Never Changes",
-     "published": "2026-08-14T13:00:38+00:00",
-     "views": "7674326",
-     "short": true
-    }
-   ],
-   "live": null
+   "resolvedTitle": null,
+   "videos": []
   },
   {
    "name": "Morley Kert",
@@ -371,7 +195,7 @@
   },
   {
    "name": "Shiloh & Bros",
-   "channelId": "UCemQFBcmyWIXj5LHpQ8OeAw",
+   "channelId": "UCn3AViOfcFN4zIICMC5hvPg",
    "resolvedTitle": null,
    "videos": []
   },
@@ -438,52 +262,8 @@
   {
    "name": "Zip Tie Tuning",
    "channelId": "UCWqW23Ko6dbscptZYyQE-8A",
-   "resolvedTitle": "Zip Tie Tuning",
-   "videos": [
-    {
-     "videoId": "HTvWmqMgaG8",
-     "title": "Stealing Subaru's Rally Secrets",
-     "published": "2026-10-07T14:22:36+00:00",
-     "views": "261392",
-     "short": false
-    },
-    {
-     "videoId": "q9b4Yby4BtQ",
-     "title": "Will My Mercedes Explode?",
-     "published": "2026-09-29T17:00:41+00:00",
-     "views": "376999",
-     "short": false
-    },
-    {
-     "videoId": "3jJXps_wzBo",
-     "title": "I Should've Done This in the First Place",
-     "published": "2026-09-17T14:04:47+00:00",
-     "views": "570368",
-     "short": false
-    },
-    {
-     "videoId": "wmS2W5tZX0I",
-     "title": "None of my Cars Work...",
-     "published": "2026-09-08T16:15:53+00:00",
-     "views": "642724",
-     "short": false
-    },
-    {
-     "videoId": "_ChnuEQ2VvQ",
-     "title": "Immediately Manual Swapping this M3",
-     "published": "2026-08-25T18:18:08+00:00",
-     "views": "680102",
-     "short": false
-    },
-    {
-     "videoId": "dj1h3R2zEOc",
-     "title": "Why Did I Do This?!",
-     "published": "2026-08-05T16:56:11+00:00",
-     "views": "345944",
-     "short": false
-    }
-   ],
-   "live": null
+   "resolvedTitle": null,
+   "videos": []
   }
  ]
 }
