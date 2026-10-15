@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-15T00:00:50.789501+00:00",
+ "generated": "2026-10-15T05:00:05.051663+00:00",
  "channels": [
   {
    "name": "2 Much ColinFurze",
@@ -28,8 +28,52 @@
   {
    "name": "Bud n' Pal",
    "channelId": "UCc0gJiC4sDWGz-N7huVDOfg",
-   "resolvedTitle": null,
-   "videos": []
+   "resolvedTitle": "Bud n' Pal",
+   "videos": [
+    {
+     "videoId": "6kspHVY2twk",
+     "title": "Eating Everything Our Waitress Orders For Us in Taiwan",
+     "published": "2026-06-25T16:07:49+00:00",
+     "views": "51018",
+     "short": false
+    },
+    {
+     "videoId": "6Keoy13Q_x4",
+     "title": "Circling Taiwan Wasn't Suppose to be this Hard...",
+     "published": "2026-06-23T15:55:15+00:00",
+     "views": "146356",
+     "short": false
+    },
+    {
+     "videoId": "w2eqVyD0nsQ",
+     "title": "New RV There Yet Map is Fun",
+     "published": "2026-05-11T15:59:16+00:00",
+     "views": "4565",
+     "short": true
+    },
+    {
+     "videoId": "kVn7eOG4UKE",
+     "title": "The Sykunno Pokemon...",
+     "published": "2026-04-21T01:41:50+00:00",
+     "views": "1780",
+     "short": true
+    },
+    {
+     "videoId": "6q5dSSZGqDs",
+     "title": "How to play Vaporeon properly  #pokemon #nuzlocke",
+     "published": "2026-03-30T14:52:25+00:00",
+     "views": "37567",
+     "short": true
+    },
+    {
+     "videoId": "pV-H_Diz4XU",
+     "title": "Pokémon pushed to the limits #pokemon #nuzlocke",
+     "published": "2026-03-17T17:40:08+00:00",
+     "views": "34801",
+     "short": true
+    }
+   ],
+   "live": null
   },
   {
    "name": "Chaz Draycott Media",
@@ -118,8 +162,52 @@
   {
    "name": "Mark Rober",
    "channelId": "UCY1kMZp36IQSyNx_9h4mpCg",
-   "resolvedTitle": null,
-   "videos": []
+   "resolvedTitle": "Mark Rober",
+   "videos": [
+    {
+     "videoId": "5N17EbYJBwQ",
+     "title": "4 Levels of Satisfying Crunches",
+     "published": "2026-10-09T17:56:55+00:00",
+     "views": "837038",
+     "short": true
+    },
+    {
+     "videoId": "tbWTiZlwJ3M",
+     "title": "You Have Spiders on Your Face RIGHT NOW!",
+     "published": "2026-09-30T13:00:14+00:00",
+     "views": "2230761",
+     "short": true
+    },
+    {
+     "videoId": "_L1Rim7-IPo",
+     "title": "Last Cheater Standing Wins $10,000",
+     "published": "2026-09-19T13:00:35+00:00",
+     "views": "27777480",
+     "short": false
+    },
+    {
+     "videoId": "NUVkpWAD548",
+     "title": "Chivalry or Engineering?",
+     "published": "2026-09-18T13:00:02+00:00",
+     "views": "4637859",
+     "short": true
+    },
+    {
+     "videoId": "67LFeTgFv3Y",
+     "title": "Why Do People Pass Out On Roller Coasters?",
+     "published": "2026-08-28T13:00:36+00:00",
+     "views": "8100779",
+     "short": true
+    },
+    {
+     "videoId": "KLJxCWeYGoE",
+     "title": "Why the Moon Never Changes",
+     "published": "2026-08-14T13:00:38+00:00",
+     "views": "7700028",
+     "short": true
+    }
+   ],
+   "live": null
   },
   {
    "name": "Morley Kert",
@@ -147,7 +235,7 @@
   },
   {
    "name": "Mrwhosetheboss",
-   "channelId": "UCMiJRAwDNSNzuYeN2uWa0pA",
+   "channelId": "UCZSlfzadjnw7G419c_OJ9eg",
    "resolvedTitle": null,
    "videos": []
   },
@@ -159,15 +247,59 @@
   },
   {
    "name": "Mumbo Jumbo",
-   "channelId": "UChFur_NwVSbUozOcF_F2kMg",
+   "channelId": null,
    "resolvedTitle": null,
    "videos": []
   },
   {
    "name": "Nick DiGiovanni",
    "channelId": "UCMyOj6fhvKFMjxUCp3b_3gA",
-   "resolvedTitle": null,
-   "videos": []
+   "resolvedTitle": "Nick DiGiovanni",
+   "videos": [
+    {
+     "videoId": "ELhcP1zO1YA",
+     "title": "$10 Crepe Machine",
+     "published": "2026-10-14T13:00:28+00:00",
+     "views": "3777077",
+     "short": true
+    },
+    {
+     "videoId": "tzQOn3mU7EA",
+     "title": "Fried Ice Cream",
+     "published": "2026-10-07T13:00:39+00:00",
+     "views": "7042058",
+     "short": true
+    },
+    {
+     "videoId": "KymffatKzys",
+     "title": "Testing Dry Aged Steaks",
+     "published": "2026-10-04T13:00:37+00:00",
+     "views": "9758790",
+     "short": true
+    },
+    {
+     "videoId": "tP_x_ctVz3Y",
+     "title": "I Cooked EVERY YouTuber’s Last Meals",
+     "published": "2026-10-03T16:00:12+00:00",
+     "views": "46534368",
+     "short": false
+    },
+    {
+     "videoId": "v8p1uRsQYNk",
+     "title": "Too Much Butter...",
+     "published": "2026-09-30T13:00:18+00:00",
+     "views": "19086029",
+     "short": true
+    },
+    {
+     "videoId": "EClVuQT_R4U",
+     "title": "Best School Lunch",
+     "published": "2026-09-27T13:00:18+00:00",
+     "views": "29415711",
+     "short": true
+    }
+   ],
+   "live": null
   },
   {
    "name": "Ryan Trahan",
@@ -213,9 +345,53 @@
   },
   {
    "name": "Solidarity",
-   "channelId": null,
-   "resolvedTitle": null,
-   "videos": []
+   "channelId": "UC6XAct-Bus4x3mYz3VC_HUw",
+   "resolvedTitle": "Solidarity",
+   "videos": [
+    {
+     "videoId": "gnrWrcirs7k",
+     "title": "I Did Not Expect This...",
+     "published": "2026-10-13T17:07:31+00:00",
+     "views": "12302",
+     "short": true
+    },
+    {
+     "videoId": "3UJp1qfvL90",
+     "title": "We FOUND Our Team Leaders SECRET BASE... | No Armour Hardcore | #4",
+     "published": "2026-10-10T17:15:15+00:00",
+     "views": "114075",
+     "short": false
+    },
+    {
+     "videoId": "WId6wFZsii0",
+     "title": "There is someone stalking us in our world.. 😭👀",
+     "published": "2026-10-09T17:26:43+00:00",
+     "views": "33070",
+     "short": true
+    },
+    {
+     "videoId": "t3NZX83jnw4",
+     "title": "We Dug Up Ancient TREASURES in Minecraft... | Festivale SMP | #6",
+     "published": "2026-10-08T17:17:18+00:00",
+     "views": "132236",
+     "short": false
+    },
+    {
+     "videoId": "NJcM2bdL75A",
+     "title": "I just found this in my drafts…",
+     "published": "2026-10-07T18:14:42+00:00",
+     "views": "130258",
+     "short": true
+    },
+    {
+     "videoId": "q4-U8VZAE1U",
+     "title": "Grian Spent HUNDREDS Of DOLLARS On PRANKING Solidarity!",
+     "published": "2026-10-06T20:08:04+00:00",
+     "views": "145465",
+     "short": true
+    }
+   ],
+   "live": null
   },
   {
    "name": "Stam1o",
@@ -250,8 +426,52 @@
   {
    "name": "Wendover Productions",
    "channelId": "UC9RM-iSvTu1uPJb8X5yp3EQ",
-   "resolvedTitle": null,
-   "videos": []
+   "resolvedTitle": "Wendover Productions",
+   "videos": [
+    {
+     "videoId": "PXuQ5ZEBfTA",
+     "title": "Why Botswana Got So Wealthy",
+     "published": "2026-09-30T15:52:43+00:00",
+     "views": "1027983",
+     "short": false
+    },
+    {
+     "videoId": "gLkbK8h_9fc",
+     "title": "How the Channel Tunnel Works",
+     "published": "2026-09-04T18:38:45+00:00",
+     "views": "2206305",
+     "short": false
+    },
+    {
+     "videoId": "2gpRaJMjHbc",
+     "title": "Why the Ikea Business Model Wins",
+     "published": "2026-08-25T17:56:16+00:00",
+     "views": "973882",
+     "short": false
+    },
+    {
+     "videoId": "2iHPVsyv4GU",
+     "title": "How Taiwan is Preparing to Get Invaded",
+     "published": "2026-08-08T17:59:43+00:00",
+     "views": "1711142",
+     "short": false
+    },
+    {
+     "videoId": "dzmoALgtB1Q",
+     "title": "Why Texas Wins",
+     "published": "2026-08-04T14:30:25+00:00",
+     "views": "542511",
+     "short": false
+    },
+    {
+     "videoId": "VuliaG_-uao",
+     "title": "Why American Houses Are So Flimsy",
+     "published": "2026-07-15T16:49:56+00:00",
+     "views": "730928",
+     "short": false
+    }
+   ],
+   "live": null
   },
   {
    "name": "Zip Tie Tech",
