@@ -1,55 +1,11 @@
 {
- "generated": "2026-10-17T00:12:23.491675+00:00",
+ "generated": "2026-10-17T04:50:05.798266+00:00",
  "channels": [
   {
    "name": "2 Much ColinFurze",
    "channelId": "UCdmcAwbdiXQWs9d4Qd4KzDw",
-   "resolvedTitle": "2 Much ColinFurze",
-   "videos": [
-    {
-     "videoId": "S6Xs71_KyqM",
-     "title": "Finally a DATE",
-     "published": "2026-10-14T16:36:40+00:00",
-     "views": "717578",
-     "short": true
-    },
-    {
-     "videoId": "62PO1mNJpj8",
-     "title": "The details that count",
-     "published": "2026-08-30T18:00:10+00:00",
-     "views": "744864",
-     "short": true
-    },
-    {
-     "videoId": "FuRCieyHvQc",
-     "title": "At Last!!",
-     "published": "2026-08-26T19:03:31+00:00",
-     "views": "1475092",
-     "short": true
-    },
-    {
-     "videoId": "GhnCnJlkolg",
-     "title": "I flew a drone through my tunnel",
-     "published": "2026-03-24T19:31:57+00:00",
-     "views": "198055",
-     "short": true
-    },
-    {
-     "videoId": "FbigAI3_nJg",
-     "title": "The future….",
-     "published": "2026-03-09T18:00:15+00:00",
-     "views": "157118",
-     "short": true
-    },
-    {
-     "videoId": "BQPXKpEui2A",
-     "title": "Secret Garage Update #18 LOVERLY LEGS",
-     "published": "2026-02-26T16:00:25+00:00",
-     "views": "1578510",
-     "short": false
-    }
-   ],
-   "live": null
+   "resolvedTitle": null,
+   "videos": []
   },
   {
    "name": "Aaron Rheins",
@@ -96,52 +52,8 @@
   {
    "name": "DIY Perks",
    "channelId": "UCUQo7nzH1sXVpzL92VesANw",
-   "resolvedTitle": "DIY Perks",
-   "videos": [
-    {
-     "videoId": "4VnCJdYImb8",
-     "title": "Building a NEW kind of invisible PC",
-     "published": "2026-09-29T11:30:24+00:00",
-     "views": "3739347",
-     "short": false
-    },
-    {
-     "videoId": "7FStfdGjAwc",
-     "title": "A new way to build a PC in 2026!",
-     "published": "2026-07-17T12:00:19+00:00",
-     "views": "1706272",
-     "short": false
-    },
-    {
-     "videoId": "rqCt61ZbU10",
-     "title": "Building an LED SUPERNOVA!",
-     "published": "2026-02-28T12:15:13+00:00",
-     "views": "2195452",
-     "short": false
-    },
-    {
-     "videoId": "o6Z0MxWCbrc",
-     "title": "Building a beautiful mud hut... (a break from technology)",
-     "published": "2025-08-31T12:31:04+00:00",
-     "views": "1092460",
-     "short": false
-    },
-    {
-     "videoId": "EyR2-C9ggi0",
-     "title": "True Wireless Power is FINALLY here (building a TRULY wire-free setup)",
-     "published": "2025-06-03T13:00:33+00:00",
-     "views": "3313051",
-     "short": false
-    },
-    {
-     "videoId": "qXrn4MqY1Wo",
-     "title": "DIY \"infinity contrast\" TV -  with 100% recycled parts",
-     "published": "2025-03-01T07:15:03+00:00",
-     "views": "3818839",
-     "short": false
-    }
-   ],
-   "live": null
+   "resolvedTitle": null,
+   "videos": []
   },
   {
    "name": "Engwerda Studios",
@@ -188,52 +100,8 @@
   {
    "name": "Linus Tech Tips",
    "channelId": "UCXuqSBlHAE6Xw-yeJA0Tunw",
-   "resolvedTitle": "Linus Tech Tips",
-   "videos": [
-    {
-     "videoId": "aV81SqB6HQg",
-     "title": "NVIDIA Tried to Tell me How to Benchmark RTX Spark",
-     "published": "2026-10-16T12:00:21+00:00",
-     "views": "614771",
-     "short": false
-    },
-    {
-     "videoId": "qqhIp0OaZWI",
-     "title": "NVIDIA RTX Spark 7 Good and Bad Things",
-     "published": "2026-10-15T15:24:22+00:00",
-     "views": "215541",
-     "short": true
-    },
-    {
-     "videoId": "sjuisARFWn8",
-     "title": "My First 15 Minutes with RTX Spark",
-     "published": "2026-10-15T12:00:14+00:00",
-     "views": "1053963",
-     "short": false
-    },
-    {
-     "videoId": "Ndzz-YWvtkg",
-     "title": "This Upgrade Proved I'm Weak - AMD $5000 Ultimate Tech Upgrade",
-     "published": "2026-10-14T17:31:34+00:00",
-     "views": "1468705",
-     "short": false
-    },
-    {
-     "videoId": "TD74a5g5rp0",
-     "title": "Everything Apple announced in under 10 mins - Welcome Home 2026",
-     "published": "2026-10-14T06:07:30+00:00",
-     "views": "970459",
-     "short": false
-    },
-    {
-     "videoId": "UWAWDu0anSs",
-     "title": "Zip Tie Tuning vs Linus Tech Tips",
-     "published": "2026-10-12T17:25:25+00:00",
-     "views": "1289070",
-     "short": true
-    }
-   ],
-   "live": null
+   "resolvedTitle": null,
+   "videos": []
   },
   {
    "name": "Luke Lafreniere",
@@ -268,52 +136,8 @@
   {
    "name": "MrBeast",
    "channelId": "UCX6OQ3DkcsbYNE6H8uQQuVA",
-   "resolvedTitle": "MrBeast",
-   "videos": [
-    {
-     "videoId": "Y8IJi7iP5vk",
-     "title": "Last To Fall Wins",
-     "published": "2026-10-16T16:00:02+00:00",
-     "views": "5274371",
-     "short": true
-    },
-    {
-     "videoId": "aNI2jv7lBPQ",
-     "title": "Giving $10,000 To A Random Subscriber",
-     "published": "2026-10-09T16:00:01+00:00",
-     "views": "32667863",
-     "short": true
-    },
-    {
-     "videoId": "plN7JMbadRg",
-     "title": "Eat Everything In A Grocery Store, Win $1,000,000",
-     "published": "2026-10-03T16:00:01+00:00",
-     "views": "267422784",
-     "short": false
-    },
-    {
-     "videoId": "CEJXqm2eiJ0",
-     "title": "What’s Inside My Briefcase?",
-     "published": "2026-09-27T16:00:14+00:00",
-     "views": "73839568",
-     "short": true
-    },
-    {
-     "videoId": "v9QtM6qnG50",
-     "title": "I Built A City To Save Kids From Illegal Labor",
-     "published": "2026-09-19T16:00:01+00:00",
-     "views": "102576965",
-     "short": false
-    },
-    {
-     "videoId": "T_SMf9j50uc",
-     "title": "Can We Build an Entire Village?",
-     "published": "2026-09-18T16:00:01+00:00",
-     "views": "26266738",
-     "short": true
-    }
-   ],
-   "live": null
+   "resolvedTitle": null,
+   "videos": []
   },
   {
    "name": "MrBeast 2",
@@ -336,52 +160,8 @@
   {
    "name": "Mumbo Jumbo",
    "channelId": "UChFur_NwVSbUozOcF_F2kMg",
-   "resolvedTitle": "Mumbo Jumbo",
-   "videos": [
-    {
-     "videoId": "87zQjj0Dh-M",
-     "title": "Hermitcraft 11: Episode 29 - I'M LOCKING IN",
-     "published": "2026-10-09T18:00:18+00:00",
-     "views": "1427717",
-     "short": false
-    },
-    {
-     "videoId": "lWm5qrUId-o",
-     "title": "Hermitcraft 11: Episode 28 - My Worst Build",
-     "published": "2026-09-20T19:00:27+00:00",
-     "views": "1391601",
-     "short": false
-    },
-    {
-     "videoId": "2laHqDi0oSw",
-     "title": "Building a Minecraft City in 48 Hours",
-     "published": "2026-09-15T19:00:14+00:00",
-     "views": "1596386",
-     "short": false
-    },
-    {
-     "videoId": "GP_hhKStrqw",
-     "title": "Hermitcraft 11: Episode 27 - GIANT VAULT",
-     "published": "2026-08-29T19:00:04+00:00",
-     "views": "1597875",
-     "short": false
-    },
-    {
-     "videoId": "zPf4c6SQ_sk",
-     "title": "Hermitcraft 11: Episode 26 - GRAND OPENING",
-     "published": "2026-08-22T19:00:26+00:00",
-     "views": "1116556",
-     "short": false
-    },
-    {
-     "videoId": "cVvGBlj47CU",
-     "title": "Hermitcraft 11: Episode 25 - Final Stages",
-     "published": "2026-08-16T19:00:33+00:00",
-     "views": "954170",
-     "short": false
-    }
-   ],
-   "live": null
+   "resolvedTitle": null,
+   "videos": []
   },
   {
    "name": "Nick DiGiovanni",
@@ -464,105 +244,14 @@
   {
    "name": "WAN Show",
    "channelId": "UCVlfe3MRSCZSeIWByrWHhkg",
-   "resolvedTitle": "WAN Show",
-   "videos": [
-    {
-     "videoId": "FQOnMUBN7_o",
-     "title": "I Need To Start Ad Blocking - WAN Show October 16, 2026",
-     "published": "2026-10-16T23:33:56+00:00",
-     "views": "1139",
-     "short": false
-    },
-    {
-     "videoId": "fKO_826EYo4",
-     "title": "Software Is Over - WAN Show October 9, 2026",
-     "published": "2026-10-10T03:58:55+00:00",
-     "views": "286437",
-     "short": false
-    },
-    {
-     "videoId": "gvzRPEW5eEc",
-     "title": "AI Ruined The Deal And Gave Away His Address - WAN Show October 2, 2026",
-     "published": "2026-10-03T06:39:44+00:00",
-     "views": "336847",
-     "short": false
-    },
-    {
-     "videoId": "Ppxr4Wa3QB0",
-     "title": "YouTube Is Getting Way Worse And Also Way Better - WAN Show September 25, 2026",
-     "published": "2026-09-26T04:14:47+00:00",
-     "views": "361752",
-     "short": false
-    },
-    {
-     "videoId": "1aTh7LfFpVk",
-     "title": "I’m a Tesla Driver Now - WAN Show September 18, 2026",
-     "published": "2026-09-19T03:16:02+00:00",
-     "views": "328495",
-     "short": false
-    },
-    {
-     "videoId": "xGzDCzwxhKM",
-     "title": "Microsoft Did It First Apple - WAN Show September 11, 2026",
-     "published": "2026-09-11T22:31:30+00:00",
-     "views": "357323",
-     "short": false
-    }
-   ],
-   "live": {
-    "videoId": "22rvpUecLts",
-    "title": "Live now"
-   }
+   "resolvedTitle": null,
+   "videos": []
   },
   {
    "name": "Wendover Productions",
    "channelId": "UC9RM-iSvTu1uPJb8X5yp3EQ",
-   "resolvedTitle": "Wendover Productions",
-   "videos": [
-    {
-     "videoId": "PXuQ5ZEBfTA",
-     "title": "Why Botswana Got So Wealthy",
-     "published": "2026-09-30T15:52:43+00:00",
-     "views": "1050551",
-     "short": false
-    },
-    {
-     "videoId": "gLkbK8h_9fc",
-     "title": "How the Channel Tunnel Works",
-     "published": "2026-09-04T18:38:45+00:00",
-     "views": "2219201",
-     "short": false
-    },
-    {
-     "videoId": "2gpRaJMjHbc",
-     "title": "Why the Ikea Business Model Wins",
-     "published": "2026-08-25T17:56:16+00:00",
-     "views": "978844",
-     "short": false
-    },
-    {
-     "videoId": "2iHPVsyv4GU",
-     "title": "How Taiwan is Preparing to Get Invaded",
-     "published": "2026-08-08T17:59:43+00:00",
-     "views": "1721594",
-     "short": false
-    },
-    {
-     "videoId": "dzmoALgtB1Q",
-     "title": "Why Texas Wins",
-     "published": "2026-08-04T14:30:25+00:00",
-     "views": "543424",
-     "short": false
-    },
-    {
-     "videoId": "VuliaG_-uao",
-     "title": "Why American Houses Are So Flimsy",
-     "published": "2026-07-15T16:49:56+00:00",
-     "views": "732327",
-     "short": false
-    }
-   ],
-   "live": null
+   "resolvedTitle": null,
+   "videos": []
   },
   {
    "name": "Zip Tie Tech",
