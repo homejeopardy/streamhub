@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21T01:25:24.995410+00:00",
+ "generated": "2026-10-21T06:22:22.991765+00:00",
  "channels": [
   {
    "name": "2 Much ColinFurze",
@@ -82,52 +82,8 @@
   {
    "name": "JackSucksAtLife",
    "channelId": "UCewMTclBJZPaNEfbf-qYMGA",
-   "resolvedTitle": "JackSucksAtLife",
-   "videos": [
-    {
-     "videoId": "JsmozyuMFAY",
-     "title": "Solo Exploring Berlin, Germany at 6am",
-     "published": "2026-10-16T15:00:25+00:00",
-     "views": "118779",
-     "short": false
-    },
-    {
-     "videoId": "prfZsrbdyWc",
-     "title": "Solo Exploring Warsaw, Poland at 5am",
-     "published": "2026-09-25T15:00:02+00:00",
-     "views": "293369",
-     "short": false
-    },
-    {
-     "videoId": "7UZ7DQsBP0g",
-     "title": "I Bet You've Never Heard of These London Landmarks",
-     "published": "2026-08-30T15:00:16+00:00",
-     "views": "154411",
-     "short": false
-    },
-    {
-     "videoId": "JE1hj6uDsc4",
-     "title": "Exploring Rome Alone At 5am",
-     "published": "2026-08-09T15:00:21+00:00",
-     "views": "217507",
-     "short": false
-    },
-    {
-     "videoId": "fs35cnVMrDc",
-     "title": "Sidemen 50 Youtuber Hide & Seek behind the scenes",
-     "published": "2025-11-24T15:01:27+00:00",
-     "views": "100074",
-     "short": true
-    },
-    {
-     "videoId": "vivdSxWub9Y",
-     "title": "I trained like a professional athlete for 1 month",
-     "published": "2025-11-19T16:30:24+00:00",
-     "views": "224518",
-     "short": true
-    }
-   ],
-   "live": null
+   "resolvedTitle": null,
+   "videos": []
   },
   {
    "name": "JackSucksAtStuff",
@@ -162,52 +118,8 @@
   {
    "name": "Mark Rober",
    "channelId": "UCY1kMZp36IQSyNx_9h4mpCg",
-   "resolvedTitle": "Mark Rober",
-   "videos": [
-    {
-     "videoId": "5N17EbYJBwQ",
-     "title": "4 Levels of Satisfying Crunches",
-     "published": "2026-10-09T17:56:55+00:00",
-     "views": "949904",
-     "short": true
-    },
-    {
-     "videoId": "tbWTiZlwJ3M",
-     "title": "You Have Spiders on Your Face RIGHT NOW!",
-     "published": "2026-09-30T13:00:14+00:00",
-     "views": "2460911",
-     "short": true
-    },
-    {
-     "videoId": "_L1Rim7-IPo",
-     "title": "Last Cheater Standing Wins $10,000",
-     "published": "2026-09-19T13:00:35+00:00",
-     "views": "29329885",
-     "short": false
-    },
-    {
-     "videoId": "NUVkpWAD548",
-     "title": "Chivalry or Engineering?",
-     "published": "2026-09-18T13:00:02+00:00",
-     "views": "5105713",
-     "short": true
-    },
-    {
-     "videoId": "67LFeTgFv3Y",
-     "title": "Why Do People Pass Out On Roller Coasters?",
-     "published": "2026-08-28T13:00:36+00:00",
-     "views": "8320339",
-     "short": true
-    },
-    {
-     "videoId": "KLJxCWeYGoE",
-     "title": "Why the Moon Never Changes",
-     "published": "2026-08-14T13:00:38+00:00",
-     "views": "7763312",
-     "short": true
-    }
-   ],
-   "live": null
+   "resolvedTitle": null,
+   "videos": []
   },
   {
    "name": "Morley Kert",
@@ -217,13 +129,13 @@
   },
   {
    "name": "Mr Beardstone",
-   "channelId": "UCl9pFpNGvk717GCu2f_Yttg",
+   "channelId": "UC8eiUrkeQZ9_M3gXKSGnqeg",
    "resolvedTitle": null,
    "videos": []
   },
   {
    "name": "MrBeast",
-   "channelId": "UCIPPMRA040LQr5QPyJEbmXA",
+   "channelId": "UCX6OQ3DkcsbYNE6H8uQQuVA",
    "resolvedTitle": null,
    "videos": []
   },
@@ -290,52 +202,8 @@
   {
    "name": "ShortCircuit",
    "channelId": "UCdBK94H6oZT2Q7l0-b0xmMg",
-   "resolvedTitle": "ShortCircuit",
-   "videos": [
-    {
-     "videoId": "ckEUIfrg_tU",
-     "title": "New Tech, New Software - Apple Watch Series 12",
-     "published": "2026-10-20T19:38:54+00:00",
-     "views": "34351",
-     "short": false
-    },
-    {
-     "videoId": "kksGobduZYA",
-     "title": "We 3D Printed This Computer (Case)  - Makeyo MK01",
-     "published": "2026-10-19T19:46:00+00:00",
-     "views": "171300",
-     "short": false
-    },
-    {
-     "videoId": "RHsG_GfgEJQ",
-     "title": "Should You Buy an RTX Spark?",
-     "published": "2026-10-16T13:00:41+00:00",
-     "views": "41732",
-     "short": true
-    },
-    {
-     "videoId": "By9kbnFwfOw",
-     "title": "The Future of Windows Laptops (RTX Spark) - ASUS ProArt P16 and P14",
-     "published": "2026-10-16T12:00:07+00:00",
-     "views": "130353",
-     "short": false
-    },
-    {
-     "videoId": "n5UbfYkbnzs",
-     "title": "WHO IS THIS FOR, THO?? -  Googlebooks",
-     "published": "2026-10-15T19:42:57+00:00",
-     "views": "319275",
-     "short": false
-    },
-    {
-     "videoId": "tmIQr4gVrgo",
-     "title": "They Fixed The Battery Life  - Framework 12 (2026)",
-     "published": "2026-10-13T15:00:19+00:00",
-     "views": "395783",
-     "short": false
-    }
-   ],
-   "live": null
+   "resolvedTitle": null,
+   "videos": []
   },
   {
    "name": "Silver Creek Audio",
