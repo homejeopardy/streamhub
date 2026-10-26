@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-26T00:33:59.518966+00:00",
+ "generated": "2026-10-26T05:48:21.071899+00:00",
  "channels": [
   {
    "name": "2 Much ColinFurze",
@@ -100,52 +100,8 @@
   {
    "name": "Linus Tech Tips",
    "channelId": "UCXuqSBlHAE6Xw-yeJA0Tunw",
-   "resolvedTitle": "Linus Tech Tips",
-   "videos": [
-    {
-     "videoId": "DN953UW8iJ8",
-     "title": "dbrand Forced me to Review the iPhone 18 Pro",
-     "published": "2026-10-24T17:00:08+00:00",
-     "views": "990606",
-     "short": false
-    },
-    {
-     "videoId": "FtjH_HHTpeg",
-     "title": "Guessing Costco Tech Prices",
-     "published": "2026-10-23T18:04:12+00:00",
-     "views": "198403",
-     "short": true
-    },
-    {
-     "videoId": "FH5SoaRx2TA",
-     "title": "There’s a Secret (Better) Netflix for Millionaires",
-     "published": "2026-10-22T17:00:06+00:00",
-     "views": "3894291",
-     "short": false
-    },
-    {
-     "videoId": "LGA4ZFr-hfo",
-     "title": "Hard Drives are Expensive...What if I Compress my Windows folder instead?",
-     "published": "2026-10-20T16:56:51+00:00",
-     "views": "1188021",
-     "short": false
-    },
-    {
-     "videoId": "U-QiUAMda7Y",
-     "title": "This video was pain and suffering - Tech House",
-     "published": "2026-10-19T16:59:28+00:00",
-     "views": "1519755",
-     "short": false
-    },
-    {
-     "videoId": "aV81SqB6HQg",
-     "title": "NVIDIA Tried to Tell me How to Benchmark RTX Spark",
-     "published": "2026-10-16T12:00:21+00:00",
-     "views": "1614370",
-     "short": false
-    }
-   ],
-   "live": null
+   "resolvedTitle": null,
+   "videos": []
   },
   {
    "name": "Luke Lafreniere",
@@ -216,8 +172,52 @@
   {
    "name": "Ryan Trahan",
    "channelId": "UCnmGIkw-KdI0W5siakKPKog",
-   "resolvedTitle": null,
-   "videos": []
+   "resolvedTitle": "Ryan Trahan",
+   "videos": [
+    {
+     "videoId": "RnSYku72hEI",
+     "title": "running with Grayson 🥹",
+     "published": "2026-10-08T18:56:53+00:00",
+     "views": "21992820",
+     "short": true
+    },
+    {
+     "videoId": "TTY6zULI8JQ",
+     "title": "update",
+     "published": "2026-09-19T14:52:37+00:00",
+     "views": "4707713",
+     "short": true
+    },
+    {
+     "videoId": "1w3XaMSIeR8",
+     "title": "How Many Countries Can I Visit in 7 Days?",
+     "published": "2026-09-12T15:00:22+00:00",
+     "views": "15839364",
+     "short": false
+    },
+    {
+     "videoId": "4VwbYrqJfzg",
+     "title": "surprising Yousif for his birthday 🎁",
+     "published": "2026-09-05T16:28:02+00:00",
+     "views": "10400786",
+     "short": true
+    },
+    {
+     "videoId": "_IvIVI8PIRI",
+     "title": "Surprising my old teacher",
+     "published": "2026-08-08T17:49:18+00:00",
+     "views": "70756378",
+     "short": true
+    },
+    {
+     "videoId": "mDz5MgFZUMo",
+     "title": "dinner",
+     "published": "2026-08-07T15:00:29+00:00",
+     "views": "3114291",
+     "short": true
+    }
+   ],
+   "live": null
   },
   {
    "name": "Sage Ellenwood",
