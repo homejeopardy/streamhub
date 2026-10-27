@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-26T23:02:21.744425+00:00",
+ "generated": "2026-10-27T02:18:35.646446+00:00",
  "channels": [
   {
    "name": "2 Much ColinFurze",
@@ -10,8 +10,52 @@
   {
    "name": "Aaron Rheins",
    "channelId": "UCDXv3XxJ2RsaYqbGgX135Wg",
-   "resolvedTitle": null,
-   "videos": []
+   "resolvedTitle": "Aaron Rheins",
+   "videos": [
+    {
+     "videoId": "MzfOYZF5wGw",
+     "title": "Plane Lands on Manhattan Heliport",
+     "published": "2026-10-27T00:22:18+00:00",
+     "views": "50867",
+     "short": true
+    },
+    {
+     "videoId": "xGEqkT2mXeM",
+     "title": "Nicki Minaj Shows Off Air Force One",
+     "published": "2026-10-26T23:41:28+00:00",
+     "views": "18129",
+     "short": true
+    },
+    {
+     "videoId": "og6E6TECMSo",
+     "title": "Airport GeoGuessr",
+     "published": "2026-10-26T19:58:07+00:00",
+     "views": "56317",
+     "short": true
+    },
+    {
+     "videoId": "UsLPmHxO0J0",
+     "title": "Flight Attendant with 63 Years of Experience",
+     "published": "2026-10-26T19:28:12+00:00",
+     "views": "115165",
+     "short": true
+    },
+    {
+     "videoId": "JT_Em7c_orE",
+     "title": "Flying Through a Tornado",
+     "published": "2026-10-26T19:09:33+00:00",
+     "views": "73221",
+     "short": true
+    },
+    {
+     "videoId": "pJVipssobgg",
+     "title": "Air Ambulance Hits CCTV Camera",
+     "published": "2026-10-26T17:55:10+00:00",
+     "views": "247753",
+     "short": true
+    }
+   ],
+   "live": null
   },
   {
    "name": "BocaBola",
@@ -52,52 +96,8 @@
   {
    "name": "DIY Perks",
    "channelId": "UCUQo7nzH1sXVpzL92VesANw",
-   "resolvedTitle": "DIY Perks",
-   "videos": [
-    {
-     "videoId": "4VnCJdYImb8",
-     "title": "Building a NEW kind of invisible PC",
-     "published": "2026-09-29T11:30:24+00:00",
-     "views": "3900058",
-     "short": false
-    },
-    {
-     "videoId": "7FStfdGjAwc",
-     "title": "A new way to build a PC in 2026!",
-     "published": "2026-07-17T12:00:19+00:00",
-     "views": "1734649",
-     "short": false
-    },
-    {
-     "videoId": "rqCt61ZbU10",
-     "title": "Building an LED SUPERNOVA!",
-     "published": "2026-02-28T12:15:13+00:00",
-     "views": "2201046",
-     "short": false
-    },
-    {
-     "videoId": "o6Z0MxWCbrc",
-     "title": "Building a beautiful mud hut... (a break from technology)",
-     "published": "2025-08-31T12:31:04+00:00",
-     "views": "1096572",
-     "short": false
-    },
-    {
-     "videoId": "EyR2-C9ggi0",
-     "title": "True Wireless Power is FINALLY here (building a TRULY wire-free setup)",
-     "published": "2025-06-03T13:00:33+00:00",
-     "views": "3322637",
-     "short": false
-    },
-    {
-     "videoId": "qXrn4MqY1Wo",
-     "title": "DIY \"infinity contrast\" TV -  with 100% recycled parts",
-     "published": "2025-03-01T07:15:03+00:00",
-     "views": "3845389",
-     "short": false
-    }
-   ],
-   "live": null
+   "resolvedTitle": null,
+   "videos": []
   },
   {
    "name": "Engwerda Studios",
@@ -126,52 +126,8 @@
   {
    "name": "JackSucksAtLife",
    "channelId": "UCewMTclBJZPaNEfbf-qYMGA",
-   "resolvedTitle": "JackSucksAtLife",
-   "videos": [
-    {
-     "videoId": "JsmozyuMFAY",
-     "title": "Solo Exploring Berlin, Germany at 6am",
-     "published": "2026-10-16T15:00:25+00:00",
-     "views": "146567",
-     "short": false
-    },
-    {
-     "videoId": "prfZsrbdyWc",
-     "title": "Solo Exploring Warsaw, Poland at 5am",
-     "published": "2026-09-25T15:00:02+00:00",
-     "views": "301730",
-     "short": false
-    },
-    {
-     "videoId": "7UZ7DQsBP0g",
-     "title": "Visiting London Landmarks You've Never Heard Of",
-     "published": "2026-08-30T15:00:16+00:00",
-     "views": "154889",
-     "short": false
-    },
-    {
-     "videoId": "JE1hj6uDsc4",
-     "title": "Exploring Rome Alone At 5am",
-     "published": "2026-08-09T15:00:21+00:00",
-     "views": "218275",
-     "short": false
-    },
-    {
-     "videoId": "fs35cnVMrDc",
-     "title": "Sidemen 50 Youtuber Hide & Seek behind the scenes",
-     "published": "2025-11-24T15:01:27+00:00",
-     "views": "100452",
-     "short": true
-    },
-    {
-     "videoId": "vivdSxWub9Y",
-     "title": "I trained like a professional athlete for 1 month",
-     "published": "2025-11-19T16:30:24+00:00",
-     "views": "224767",
-     "short": true
-    }
-   ],
-   "live": null
+   "resolvedTitle": null,
+   "videos": []
   },
   {
    "name": "JackSucksAtStuff",
@@ -224,52 +180,8 @@
   {
    "name": "MrBeast",
    "channelId": "UCX6OQ3DkcsbYNE6H8uQQuVA",
-   "resolvedTitle": "MrBeast",
-   "videos": [
-    {
-     "videoId": "mND4T0lzg_g",
-     "title": "How People Treat You Based on Subscribers",
-     "published": "2026-10-23T18:00:08+00:00",
-     "views": "24352034",
-     "short": true
-    },
-    {
-     "videoId": "RE3_PGwDwhw",
-     "title": "Lose 150 Lbs Together, Win $250,000",
-     "published": "2026-10-17T16:00:18+00:00",
-     "views": "155181994",
-     "short": false
-    },
-    {
-     "videoId": "Y8IJi7iP5vk",
-     "title": "Last To Fall Wins",
-     "published": "2026-10-16T16:00:02+00:00",
-     "views": "121844764",
-     "short": true
-    },
-    {
-     "videoId": "aNI2jv7lBPQ",
-     "title": "Giving $10,000 To A Random Subscriber",
-     "published": "2026-10-09T16:00:01+00:00",
-     "views": "54701158",
-     "short": true
-    },
-    {
-     "videoId": "plN7JMbadRg",
-     "title": "Eat Everything In A Grocery Store, Win $1,000,000",
-     "published": "2026-10-03T16:00:01+00:00",
-     "views": "303340555",
-     "short": false
-    },
-    {
-     "videoId": "CEJXqm2eiJ0",
-     "title": "What’s Inside My Briefcase?",
-     "published": "2026-09-27T16:00:14+00:00",
-     "views": "107459607",
-     "short": true
-    }
-   ],
-   "live": null
+   "resolvedTitle": null,
+   "videos": []
   },
   {
    "name": "MrBeast 2",
