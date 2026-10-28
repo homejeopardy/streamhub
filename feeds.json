@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-27T23:32:58.163515+00:00",
+ "generated": "2026-10-28T04:23:10.114791+00:00",
  "channels": [
   {
    "name": "2 Much ColinFurze",
@@ -16,52 +16,8 @@
   {
    "name": "BocaBola",
    "channelId": "UCBur6ZOAqhjRs9PadDArozQ",
-   "resolvedTitle": "BocaBola",
-   "videos": [
-    {
-     "videoId": "F56NqqoJ2GM",
-     "title": "Why I Don't Use Instagram Reels",
-     "published": "2026-10-27T04:53:46+00:00",
-     "views": "7159",
-     "short": true
-    },
-    {
-     "videoId": "T7pPeX-rzWk",
-     "title": "My iPhone Duo Arrived!",
-     "published": "2026-10-26T14:00:38+00:00",
-     "views": "63748",
-     "short": false
-    },
-    {
-     "videoId": "IAOdBdV6Dl0",
-     "title": "Tubbo Asked Me To Build Him Minecraft Servers...",
-     "published": "2026-10-23T15:30:32+00:00",
-     "views": "134715",
-     "short": false
-    },
-    {
-     "videoId": "-Xt1l91qH8M",
-     "title": "They're Figuring Out My Secret!",
-     "published": "2026-10-21T19:58:36+00:00",
-     "views": "26901",
-     "short": true
-    },
-    {
-     "videoId": "YJhqnBt5-JA",
-     "title": "Framework Sent me Their New Laptop...",
-     "published": "2026-10-16T16:05:08+00:00",
-     "views": "152059",
-     "short": false
-    },
-    {
-     "videoId": "Nnt3L1o8tUE",
-     "title": "I Quit My Job and Streamed for 2 Weeks Straight...",
-     "published": "2026-10-09T15:30:05+00:00",
-     "views": "248790",
-     "short": false
-    }
-   ],
-   "live": null
+   "resolvedTitle": null,
+   "videos": []
   },
   {
    "name": "Brandon Y Lee",
@@ -83,7 +39,7 @@
   },
   {
    "name": "colinfurze",
-   "channelId": "UCdmcAwbdiXQWs9d4Qd4KzDw",
+   "channelId": "UCp68_FLety0O-n9QU6phsgw",
    "resolvedTitle": null,
    "videos": []
   },
@@ -108,52 +64,8 @@
   {
    "name": "Hamfrags",
    "channelId": "UCskb-VnAFZlGI0AUlsesuuQ",
-   "resolvedTitle": "Hamfrags",
-   "videos": [
-    {
-     "videoId": "fAdayEngeTc",
-     "title": "Ranking the TIME TRAP card",
-     "published": "2026-10-25T16:10:19+00:00",
-     "views": "4111",
-     "short": true
-    },
-    {
-     "videoId": "yjVPtb6GhM8",
-     "title": "Ranking Curse of the Post Office",
-     "published": "2026-10-18T15:56:55+00:00",
-     "views": "6389",
-     "short": true
-    },
-    {
-     "videoId": "MflGnHsPJoY",
-     "title": "Ranking Curse of the Passenger Princess",
-     "published": "2026-10-12T13:09:12+00:00",
-     "views": "4875",
-     "short": true
-    },
-    {
-     "videoId": "9fQHQgSUkgQ",
-     "title": "Ranking Curse of the Gilded Inquiry",
-     "published": "2026-10-06T16:03:49+00:00",
-     "views": "5390",
-     "short": true
-    },
-    {
-     "videoId": "BZZBFdN4RMA",
-     "title": "Ranking Curse of the Untethered Spirit",
-     "published": "2026-09-30T22:15:08+00:00",
-     "views": "8971",
-     "short": true
-    },
-    {
-     "videoId": "J2IFksS3TYo",
-     "title": "Jet Lag tried to hide their new teams",
-     "published": "2026-09-28T15:48:22+00:00",
-     "views": "53057",
-     "short": true
-    }
-   ],
-   "live": null
+   "resolvedTitle": null,
+   "videos": []
   },
   {
    "name": "Ivan Miranda",
@@ -188,52 +100,8 @@
   {
    "name": "Linus Tech Tips",
    "channelId": "UCXuqSBlHAE6Xw-yeJA0Tunw",
-   "resolvedTitle": "Linus Tech Tips",
-   "videos": [
-    {
-     "videoId": "DZSYaQmxBLM",
-     "title": "Pros Try AI-Cloned Engineering Tools",
-     "published": "2026-10-27T17:56:58+00:00",
-     "views": "529323",
-     "short": false
-    },
-    {
-     "videoId": "P6pcTK0wTYA",
-     "title": "How to Switch to Linux",
-     "published": "2026-10-26T17:57:35+00:00",
-     "views": "1452455",
-     "short": false
-    },
-    {
-     "videoId": "DN953UW8iJ8",
-     "title": "dbrand Forced me to Review the iPhone 18 Pro",
-     "published": "2026-10-24T17:00:08+00:00",
-     "views": "1267794",
-     "short": false
-    },
-    {
-     "videoId": "FtjH_HHTpeg",
-     "title": "Guessing Costco Tech Prices",
-     "published": "2026-10-23T18:04:12+00:00",
-     "views": "266931",
-     "short": true
-    },
-    {
-     "videoId": "FH5SoaRx2TA",
-     "title": "There’s a Secret (Better) Netflix for Millionaires",
-     "published": "2026-10-22T17:00:06+00:00",
-     "views": "4772837",
-     "short": false
-    },
-    {
-     "videoId": "LGA4ZFr-hfo",
-     "title": "Hard Drives are Expensive...What if I Compress my Windows folder instead?",
-     "published": "2026-10-20T16:56:51+00:00",
-     "views": "1233965",
-     "short": false
-    }
-   ],
-   "live": null
+   "resolvedTitle": null,
+   "videos": []
   },
   {
    "name": "Luke Lafreniere",
