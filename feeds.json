@@ -1,55 +1,11 @@
 {
- "generated": "2026-11-06T23:41:30.356911+00:00",
+ "generated": "2026-11-07T04:55:56.243678+00:00",
  "channels": [
   {
    "name": "2 Much ColinFurze",
    "channelId": "UCdmcAwbdiXQWs9d4Qd4KzDw",
-   "resolvedTitle": "2 Much ColinFurze",
-   "videos": [
-    {
-     "videoId": "rGWh_vag-fs",
-     "title": "The car lift hydraulic pump is HUGE",
-     "published": "2026-11-04T16:59:50+00:00",
-     "views": "279162",
-     "short": true
-    },
-    {
-     "videoId": "Mv4YP4h3jfQ",
-     "title": "How I cut my nose",
-     "published": "2026-10-30T16:39:20+00:00",
-     "views": "232773",
-     "short": true
-    },
-    {
-     "videoId": "S6Xs71_KyqM",
-     "title": "Finally a DATE",
-     "published": "2026-10-14T16:36:40+00:00",
-     "views": "905577",
-     "short": true
-    },
-    {
-     "videoId": "62PO1mNJpj8",
-     "title": "The details that count",
-     "published": "2026-08-30T18:00:10+00:00",
-     "views": "809963",
-     "short": true
-    },
-    {
-     "videoId": "FuRCieyHvQc",
-     "title": "At Last!!",
-     "published": "2026-08-26T19:03:31+00:00",
-     "views": "1559804",
-     "short": true
-    },
-    {
-     "videoId": "GhnCnJlkolg",
-     "title": "I flew a drone through my tunnel",
-     "published": "2026-03-24T19:31:57+00:00",
-     "views": "201296",
-     "short": true
-    }
-   ],
-   "live": null
+   "resolvedTitle": null,
+   "videos": []
   },
   {
    "name": "Aaron Rheins",
@@ -84,52 +40,8 @@
   {
    "name": "colinfurze",
    "channelId": "UCp68_FLety0O-n9QU6phsgw",
-   "resolvedTitle": "colinfurze",
-   "videos": [
-    {
-     "videoId": "7uGk2Qxhkno",
-     "title": "Tunnel Tea Delivery Train.",
-     "published": "2026-11-05T16:00:28+00:00",
-     "views": "600768",
-     "short": true
-    },
-    {
-     "videoId": "sxur0bhmkFM",
-     "title": "Digging a Secret Garage Part 8 The Last 6 Months!!",
-     "published": "2026-10-29T16:00:08+00:00",
-     "views": "8171426",
-     "short": false
-    },
-    {
-     "videoId": "G8yDhYgdTnA",
-     "title": "The #secretgarage needs TOOLS",
-     "published": "2026-10-25T19:00:21+00:00",
-     "views": "913052",
-     "short": true
-    },
-    {
-     "videoId": "v746RFUhzIA",
-     "title": "LEGO Tunnel Tea Elevator",
-     "published": "2026-09-24T15:05:44+00:00",
-     "views": "2377039",
-     "short": true
-    },
-    {
-     "videoId": "P4B7Sj_-zVw",
-     "title": "Small details take Time",
-     "published": "2026-09-17T15:56:34+00:00",
-     "views": "1593091",
-     "short": true
-    },
-    {
-     "videoId": "SRW_LjCD7RU",
-     "title": "Fixing my VAULT Door",
-     "published": "2026-09-06T19:11:26+00:00",
-     "views": "1228543",
-     "short": true
-    }
-   ],
-   "live": null
+   "resolvedTitle": null,
+   "videos": []
   },
   {
    "name": "Dallas Taylor",
@@ -206,52 +118,8 @@
   {
    "name": "Mark Rober",
    "channelId": "UCY1kMZp36IQSyNx_9h4mpCg",
-   "resolvedTitle": "Mark Rober",
-   "videos": [
-    {
-     "videoId": "BhNkTnqwlys",
-     "title": "Beat Me, Win $100",
-     "published": "2026-10-30T16:06:28+00:00",
-     "views": "845347",
-     "short": true
-    },
-    {
-     "videoId": "Q4nEdB1cfUk",
-     "title": "The Insane Science Hidden in These Toys",
-     "published": "2026-10-28T13:00:39+00:00",
-     "views": "3001100",
-     "short": true
-    },
-    {
-     "videoId": "26P1KyvrmjI",
-     "title": "I Solved Every Board Game",
-     "published": "2026-10-24T13:00:22+00:00",
-     "views": "21133373",
-     "short": false
-    },
-    {
-     "videoId": "eXv6fWonvUM",
-     "title": "Can You Scientifically Measure Fun?",
-     "published": "2026-10-21T13:00:01+00:00",
-     "views": "1951734",
-     "short": true
-    },
-    {
-     "videoId": "5N17EbYJBwQ",
-     "title": "4 Levels of Satisfying Crunches",
-     "published": "2026-10-09T17:56:55+00:00",
-     "views": "1144697",
-     "short": true
-    },
-    {
-     "videoId": "tbWTiZlwJ3M",
-     "title": "You Have Spiders on Your Face RIGHT NOW!",
-     "published": "2026-09-30T13:00:14+00:00",
-     "views": "2942268",
-     "short": true
-    }
-   ],
-   "live": null
+   "resolvedTitle": null,
+   "videos": []
   },
   {
    "name": "Morley Kert",
@@ -298,8 +166,52 @@
   {
    "name": "Nick DiGiovanni",
    "channelId": "UCMyOj6fhvKFMjxUCp3b_3gA",
-   "resolvedTitle": null,
-   "videos": []
+   "resolvedTitle": "Nick DiGiovanni",
+   "videos": [
+    {
+     "videoId": "HE_rKC9B6BY",
+     "title": "MasterChef Potatoes",
+     "published": "2026-11-01T14:00:35+00:00",
+     "views": "18921705",
+     "short": true
+    },
+    {
+     "videoId": "ELhcP1zO1YA",
+     "title": "$10 Crepe Machine",
+     "published": "2026-10-14T13:00:28+00:00",
+     "views": "16489613",
+     "short": true
+    },
+    {
+     "videoId": "KymffatKzys",
+     "title": "Testing Dry Aged Steaks",
+     "published": "2026-10-04T13:00:37+00:00",
+     "views": "13878313",
+     "short": true
+    },
+    {
+     "videoId": "tP_x_ctVz3Y",
+     "title": "I Cooked EVERY YouTuber’s Last Meals",
+     "published": "2026-10-03T16:00:12+00:00",
+     "views": "67798536",
+     "short": false
+    },
+    {
+     "videoId": "v8p1uRsQYNk",
+     "title": "Too Much Butter...",
+     "published": "2026-09-30T13:00:18+00:00",
+     "views": "27386288",
+     "short": true
+    },
+    {
+     "videoId": "EClVuQT_R4U",
+     "title": "Best School Lunch",
+     "published": "2026-09-27T13:00:18+00:00",
+     "views": "41966995",
+     "short": true
+    }
+   ],
+   "live": null
   },
   {
    "name": "Ryan Trahan",
@@ -334,52 +246,8 @@
   {
    "name": "ShortCircuit",
    "channelId": "UCdBK94H6oZT2Q7l0-b0xmMg",
-   "resolvedTitle": "ShortCircuit",
-   "videos": [
-    {
-     "videoId": "K_AvLm5TOws",
-     "title": "Apple Really Does it Better - MacBook Pro with PROLED XDR",
-     "published": "2026-11-05T14:00:02+00:00",
-     "views": "447553",
-     "short": false
-    },
-    {
-     "videoId": "dSS8c0ehMHQ",
-     "title": "Can a Tablet Really Replace Paper?",
-     "published": "2026-11-02T18:58:56+00:00",
-     "views": "118901",
-     "short": false
-    },
-    {
-     "videoId": "8YClr7M-fsI",
-     "title": "A great deal from Razer? - Reclusa x Mini 65",
-     "published": "2026-10-29T18:45:50+00:00",
-     "views": "100784",
-     "short": false
-    },
-    {
-     "videoId": "KZR6XdQ0xk8",
-     "title": "Copy/Paste in Real Life -  Creality Sermoon P1",
-     "published": "2026-10-27T19:56:32+00:00",
-     "views": "150342",
-     "short": false
-    },
-    {
-     "videoId": "ewwShy3UFWo",
-     "title": "LMG Staff React to iPhone Duo",
-     "published": "2026-10-27T17:50:50+00:00",
-     "views": "380980",
-     "short": true
-    },
-    {
-     "videoId": "HT-d6GgUwjg",
-     "title": "The First New iPhone Shape In Years - iPhone Duo",
-     "published": "2026-10-25T22:22:40+00:00",
-     "views": "293325",
-     "short": false
-    }
-   ],
-   "live": null
+   "resolvedTitle": null,
+   "videos": []
   },
   {
    "name": "Silver Creek Audio",
