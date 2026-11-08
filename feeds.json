@@ -1,11 +1,55 @@
 {
- "generated": "2026-11-08T00:50:30.528729+00:00",
+ "generated": "2026-11-08T06:57:06.252704+00:00",
  "channels": [
   {
    "name": "2 Much ColinFurze",
-   "channelId": "UCdmcAwbdiXQWs9d4Qd4KzDw",
-   "resolvedTitle": null,
-   "videos": []
+   "channelId": "UCp68_FLety0O-n9QU6phsgw",
+   "resolvedTitle": "colinfurze",
+   "videos": [
+    {
+     "videoId": "7uGk2Qxhkno",
+     "title": "Tunnel Tea Delivery Train.",
+     "published": "2026-11-05T16:00:28+00:00",
+     "views": "716562",
+     "short": true
+    },
+    {
+     "videoId": "sxur0bhmkFM",
+     "title": "Digging a Secret Garage Part 8 The Last 6 Months!!",
+     "published": "2026-10-29T16:00:08+00:00",
+     "views": "8685960",
+     "short": false
+    },
+    {
+     "videoId": "G8yDhYgdTnA",
+     "title": "The #secretgarage needs TOOLS",
+     "published": "2026-10-25T19:00:21+00:00",
+     "views": "915544",
+     "short": true
+    },
+    {
+     "videoId": "v746RFUhzIA",
+     "title": "LEGO Tunnel Tea Elevator",
+     "published": "2026-09-24T15:05:44+00:00",
+     "views": "2380106",
+     "short": true
+    },
+    {
+     "videoId": "P4B7Sj_-zVw",
+     "title": "Small details take Time",
+     "published": "2026-09-17T15:56:34+00:00",
+     "views": "1596117",
+     "short": true
+    },
+    {
+     "videoId": "SRW_LjCD7RU",
+     "title": "Fixing my VAULT Door",
+     "published": "2026-09-06T19:11:26+00:00",
+     "views": "1235554",
+     "short": true
+    }
+   ],
+   "live": null
   },
   {
    "name": "Aaron Rheins",
@@ -16,8 +60,52 @@
   {
    "name": "BocaBola",
    "channelId": "UCBur6ZOAqhjRs9PadDArozQ",
-   "resolvedTitle": null,
-   "videos": []
+   "resolvedTitle": "BocaBola",
+   "videos": [
+    {
+     "videoId": "iD3hQjszrnA",
+     "title": "How I Broke up With My Cheating Girlfriend...",
+     "published": "2026-11-07T21:12:18+00:00",
+     "views": "21247",
+     "short": true
+    },
+    {
+     "videoId": "pFPaDLOzPoU",
+     "title": "I Can't Believe I Agreed to Do This...",
+     "published": "2026-11-06T15:31:43+00:00",
+     "views": "66919",
+     "short": false
+    },
+    {
+     "videoId": "w5svzGRn4yE",
+     "title": "The Biggest Server I have EVER Unboxed...",
+     "published": "2026-10-30T15:30:10+00:00",
+     "views": "150344",
+     "short": false
+    },
+    {
+     "videoId": "F56NqqoJ2GM",
+     "title": "Why I Don't Use Instagram Reels",
+     "published": "2026-10-27T04:53:46+00:00",
+     "views": "11879",
+     "short": true
+    },
+    {
+     "videoId": "T7pPeX-rzWk",
+     "title": "My iPhone Duo Arrived!",
+     "published": "2026-10-26T14:00:38+00:00",
+     "views": "84210",
+     "short": false
+    },
+    {
+     "videoId": "IAOdBdV6Dl0",
+     "title": "Tubbo Asked Me To Build Him Minecraft Servers...",
+     "published": "2026-10-23T15:30:32+00:00",
+     "views": "188526",
+     "short": false
+    }
+   ],
+   "live": null
   },
   {
    "name": "Brandon Y Lee",
@@ -130,52 +218,8 @@
   {
    "name": "Mr Beardstone",
    "channelId": "UC8eiUrkeQZ9_M3gXKSGnqeg",
-   "resolvedTitle": "Mr Beardstone",
-   "videos": [
-    {
-     "videoId": "Y1epd2hhDHk",
-     "title": "I Built the WEIRDEST Shops in Minecraft!",
-     "published": "2026-10-31T13:15:22+00:00",
-     "views": "51009",
-     "short": false
-    },
-    {
-     "videoId": "ZiRjQOC_gtQ",
-     "title": "I Built an 8,000 Block Railway Across Minecraft's Most Beautiful Landscapes",
-     "published": "2026-10-28T13:15:06+00:00",
-     "views": "167692",
-     "short": false
-    },
-    {
-     "videoId": "pROOCep_e3I",
-     "title": "I Got a LITTLE Carried Away Building in Minecraft...",
-     "published": "2026-10-25T13:15:06+00:00",
-     "views": "75272",
-     "short": false
-    },
-    {
-     "videoId": "UPVUww0ReK4",
-     "title": "I've Been BREAD BOMBED!",
-     "published": "2026-10-18T12:15:25+00:00",
-     "views": "76738",
-     "short": false
-    },
-    {
-     "videoId": "rn2RxtpEiWw",
-     "title": "I Spent 100 Days Building a Theme Park in Minecraft Survival!",
-     "published": "2026-10-11T12:15:38+00:00",
-     "views": "165387",
-     "short": false
-    },
-    {
-     "videoId": "s2pDa8svmDI",
-     "title": "EASY potion brewing in Minecraft Create Mod!",
-     "published": "2026-10-04T12:15:29+00:00",
-     "views": "76766",
-     "short": false
-    }
-   ],
-   "live": null
+   "resolvedTitle": null,
+   "videos": []
   },
   {
    "name": "MrBeast",
@@ -191,15 +235,59 @@
   },
   {
    "name": "Mrwhosetheboss",
-   "channelId": "UCMiJRAwDNSNzuYeN2uWa0pA",
+   "channelId": "UCZSlfzadjnw7G419c_OJ9eg",
    "resolvedTitle": null,
    "videos": []
   },
   {
    "name": "Mrwhosetheboss Plus",
    "channelId": "UCZSlfzadjnw7G419c_OJ9eg",
-   "resolvedTitle": null,
-   "videos": []
+   "resolvedTitle": "Mrwhosetheboss Plus",
+   "videos": [
+    {
+     "videoId": "hvz8oUfIyIU",
+     "title": "These iPhone 15 Glasses are INSANE",
+     "published": "2023-11-21T17:07:20+00:00",
+     "views": "1904234",
+     "short": true
+    },
+    {
+     "videoId": "tCFNO1xFnc8",
+     "title": "The Robot Cleaner of the Future!?",
+     "published": "2023-11-20T21:12:24+00:00",
+     "views": "2048331",
+     "short": true
+    },
+    {
+     "videoId": "K71Yh9EA2is",
+     "title": "Better than NERF Guns!?",
+     "published": "2023-10-29T18:11:10+00:00",
+     "views": "11030917",
+     "short": true
+    },
+    {
+     "videoId": "vgjUwm9uBOs",
+     "title": "Mercedes made a Laptop!?",
+     "published": "2023-09-28T12:57:17+00:00",
+     "views": "2153248",
+     "short": true
+    },
+    {
+     "videoId": "o0pVzaDDtFs",
+     "title": "The Best Internet Browser for Tech Fans!",
+     "published": "2023-05-31T16:09:53+00:00",
+     "views": "3520622",
+     "short": true
+    },
+    {
+     "videoId": "JLD7udZ5SCY",
+     "title": "This Phone can SEE in the DARK!",
+     "published": "2023-04-26T16:31:45+00:00",
+     "views": "2617352",
+     "short": true
+    }
+   ],
+   "live": null
   },
   {
    "name": "Mumbo Jumbo",
@@ -305,7 +393,7 @@
   },
   {
    "name": "Zip Tie Tuning",
-   "channelId": "UCUpt_5O1vYpWAGg77iNMQXA",
+   "channelId": "UCWqW23Ko6dbscptZYyQE-8A",
    "resolvedTitle": null,
    "videos": []
   }
